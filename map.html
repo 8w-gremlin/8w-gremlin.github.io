@@ -12,14 +12,12 @@ Plotly.d3.csv('Near Star Data - Stellar Data.csv', function(err, rows){
           { return row[key]; });
       }
 var trace1 = {
-  x:unpack(rows, 'AS_X'),  y: unpack(rows, 'AS_Y'), z: unpack(rows, 'AS_Y'), 
+  x:unpack(rows, 'AS_X'),  y: unpack(rows, 'AS_Y'), z: unpack(rows, 'AS_Z'), 
   mode: 'markers',
   marker: {
     size: 12,
-    line: {
-      color: unpack(rows, 'Colour'),
-      width: 0.5
-    },
+    symbol: 'circle',
+    color: unpack(rows, 'Colour'),
     opacity: 0.8
   },
   type: 'scatter3d'
