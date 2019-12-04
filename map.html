@@ -30,7 +30,7 @@ var trace1 = {
 };
 
 var data = [trace1];
-var Layout({
+var layout = {
     'annotationdefaults': {'arrowcolor': '#2a3f5f', 'arrowhead': 0, 'arrowwidth': 1},
     'coloraxis': {'colorbar': {'outlinewidth': 0, 'ticks': ''}},
     'colorscale': {'diverging': [[0, '#8e0152'], [0.1, '#c51b7d'], [0.2,
@@ -114,8 +114,7 @@ var Layout({
               'title': {'standoff': 15},
               'zerolinecolor': 'white',
               'zerolinewidth': 2}
-})
-
+}
 
 Plotly.newPlot('myDiv', data, layout, {showSendToCloud: true});
 });
