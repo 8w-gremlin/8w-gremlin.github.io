@@ -14,7 +14,7 @@ Plotly.d3.csv('Near Star Data - Stellar Data.csv', function(err, rows){
 var trace1 = {
   x:unpack(rows, 'AS_X'),  y: unpack(rows, 'AS_Y'), z: unpack(rows, 'AS_Z'), 
   text: unpack(rows, 'Name'),
-  spec: unpack(rows, 'Spec'),
+  meta[0]: unpack(rows, 'Spec'),
   mode: 'markers',
   marker: {
     size: 4,
@@ -25,6 +25,7 @@ var trace1 = {
   type: 'scatter3d',
   hovertemplate:
             "<b>%{text}</b><br />" +
+            "%{data[0[.meta[0]}<br />" +
             "X: %{x} Y: %{y} Z: %{z}" 
 };
 
