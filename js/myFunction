@@ -1,0 +1,54 @@
+function myFunction() {
+  
+  var WarpRange = 8;
+  var distance = [[]];
+  var dist;
+  var distance;
+  
+ 
+  
+  // Starloc
+  var range = SpreadsheetApp.getActiveSpreadsheet().getRangeByName('Starloc');
+  var rangeValues = range.getValues();
+  var lastColumn = range.getLastColumn();
+  var lastRow = range.getLastRow();
+  
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Matrix100');
+  
+  
+  // break up into 100 chunks, run at 100, 200, 300, 400, 500, 600, 700, 
+  var startRange = 300
+  var shortRange = 400;
+  var lastRange = lastRow-1
+  
+  
+  for ( i = startRange ; i < shortRange-1 ; i++){  
+    
+    x1 = rangeValues[i][2];
+    y1 = rangeValues[i][3];
+    z1 = rangeValues[i][4];
+    
+    Logger.log(x1 + ", " + y1 + ", " + z1 + ", ");
+    
+    for ( j = 0 ; j < lastRow-1; j++){  
+      
+      x2 = rangeValues[j][2];
+      y2 = rangeValues[j][3];
+      z2 = rangeValues[j][4];
+      
+      Logger.log(x2 + ", " + y2 + ", " + z2 + ", ");
+      
+      dist = Math.pow(Math.pow((x1 - x2),2) + Math.pow((y1 - y2),2) + Math.pow((z1 - z2),2),0.5);
+      Logger.log("first = " + dist);
+      dist = Math.round(dist * 100)/100;
+      Logger.log("distance = " + dist);
+      
+      sheet.getRange(j+1, i+1).setValue(dist);
+      
+    };
+    
+  };
+  
+ 
+}
+
