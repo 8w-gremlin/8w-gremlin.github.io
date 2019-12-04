@@ -18,7 +18,8 @@ var trace1 = {
     size: 12,
     symbol: 'circle',
     color: unpack(rows, 'Colour'),
-    opacity: 0.8
+    opacity: 0.8,
+    text: unpack(rows, 'Name')
   },
   type: 'scatter3d'
 };
@@ -41,7 +42,6 @@ var layout = {
 		 spikethickness: 6
   		}
   },
-      dragmode: false,
       margin: {
         l: 0,
         r: 0,
