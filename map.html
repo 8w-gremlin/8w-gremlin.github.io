@@ -14,7 +14,7 @@ Plotly.d3.csv('Near Star Data - Stellar Data.csv', function(err, rows){
 var trace1 = {
   x:unpack(rows, 'AS_X'),  y: unpack(rows, 'AS_Y'), z: unpack(rows, 'AS_Z'), 
   text: unpack(rows, 'Name'),
-  meta[0]: unpack(rows, 'Spec'),
+  meta: unpack(rows, 'Spec'),
   mode: 'markers',
   marker: {
     size: 4,
