@@ -25,21 +25,19 @@ var trace1 = {
   type: 'scatter3d',
   hovertemplate:
             "<b>%{text}</b><br />" +
-            "%{spec}<br />" +
             "X: %{x} Y: %{y} Z: %{z}" 
 };
 
 var data = [trace1];
 var layout = {
-      margin: {
-        l: 0,
-        r: 0,
-        b: 0,
-        t: 0
-  }};
-
-
-
+        title: "Stellar map",
+        hovermode: "closest",
+	      margin: {
+	        l: 0,
+	        r: 0,
+	        b: 0,
+	        t: 0
+	  }};
 
 Plotly.newPlot('myDiv', data, layout, {showSendToCloud: true});
 });
