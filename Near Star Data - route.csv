@@ -1,0 +1,8585 @@
+
+source: SS-35 2377 A, target: SS-34 2375 A, value: 3.92
+
+
+source: SS-35 2377 A, target: SS-36 2376 A, value: 6.23
+
+
+source: SS-35 2377 A, target: DK+32 2390 A, value: 7.92
+
+
+source: SS-34 2375 A, target: SS-35 2377 A, value: 3.92
+
+
+source: SS-36 2376 A, target: SS-35 2377 A, value: 6.23
+
+
+source: DK+32 2390 A, target: SS-35 2377 A, value: 7.92
+
+
+source: DK+32 2390 A, target: DK-33 1023 A, value: 6.54
+
+
+source: DK+32 2390 A, target: HC+25 1902 A, value: 6.83
+
+
+source: DK+32 2390 A, target: Oneil 723  A, value: 7.65
+
+
+source: HC-30 0340 A, target: DK+29 3074  A, value: 6.77
+
+
+source: HC-30 0340 A, target: SS+28 9357 A, value: 7.63
+
+
+source: HC-30 0340 A, target: Chien 820  A, value: 4.9
+
+
+source: DK+29 3074  A, target: HC-30 0340 A, value: 6.77
+
+
+source: DK+29 3074  A, target: SS+28 9357 A, value: 4.47
+
+
+source: DK+29 3074  A, target: Chien 820  A, value: 5.7
+
+
+source: DK+29 3074  A, target: SS-22 4654 A, value: 5.92
+
+
+source: DK+29 3074  A, target: SS-22 4654 B, value: 5.92
+
+
+source: SS+28 9357 A, target: HC-30 0340 A, value: 7.63
+
+
+source: SS+28 9357 A, target: DK+29 3074  A, value: 4.47
+
+
+source: SS+28 9357 A, target: Chien 820  A, value: 6.01
+
+
+source: DK-33 1023 A, target: DK+32 2390 A, value: 6.54
+
+
+source: DK-33 1023 A, target: HC+25 1902 A, value: 5.37
+
+
+source: DK-33 1023 A, target: SS-27 6854 A, value: 6.7
+
+
+source: DK-33 1023 A, target: HC-24 1124 A, value: 7.57
+
+
+source: L 1064-75 A, target: L 1113-55 A, value: 0.1
+
+
+source: L 1064-75 A, target: AC+3 2528-176 A, value: 7.38
+
+
+source: L 1064-75 A, target: DM-1 3474 A, value: 5.05
+
+
+source: L 1113-55 A, target: L 1064-75 A, value: 0.1
+
+
+source: L 1113-55 A, target: AC+3 2528-176 A, value: 7.37
+
+
+source: L 1113-55 A, target: DM-1 3474 A, value: 5.1
+
+
+source: DK+21 6825A, target: Oneil 723  A, value: 6.55
+
+
+source: DK+21 6825A, target: SS-19 2424  A, value: 7.85
+
+
+source: HC+25 1902 A, target: DK+32 2390 A, value: 6.83
+
+
+source: HC+25 1902 A, target: DK-33 1023 A, value: 5.37
+
+
+source: HC+25 1902 A, target: Oneil 723  A, value: 5.56
+
+
+source: HC+25 1902 A, target: HC-24 1124 A, value: 5.22
+
+
+source: HC+25 1902 A, target: BK-5 9201 A, value: 5.18
+
+
+source: HC+25 1902 A, target: HC-4 9701 Kaa'a'ah A, value: 6.28
+
+
+source: AC+3 2528-176 A, target: L 1064-75 A, value: 7.38
+
+
+source: AC+3 2528-176 A, target: L 1113-55 A, value: 7.37
+
+
+source: AC+3 2528-176 A, target: Delta Aquilae A, value: 7.92
+
+
+source: AC+3 2528-176 A, target: Delta Aquilae B, value: 7.92
+
+
+source: Chien 820  A, target: HC-30 0340 A, value: 4.9
+
+
+source: Chien 820  A, target: DK+29 3074  A, value: 5.7
+
+
+source: Chien 820  A, target: SS+28 9357 A, value: 6.01
+
+
+source: Chien 820  A, target: SS-22 4654 A, value: 6.32
+
+
+source: Chien 820  A, target: SS-22 4654 B, value: 6.32
+
+
+source: Chien 820  A, target: HC+18 9881 A, value: 7.6
+
+
+source: Chien 820  A, target: BK+15 3434 A, value: 7.15
+
+
+source: Wolf 1466 A, target: DM-18 4986 A, value: 7.45
+
+
+source: Wolf 1466 A, target: L 850-62 A, value: 6.4
+
+
+source: SS-27 6854 A, target: DK-33 1023 A, value: 6.7
+
+
+source: SS-27 6854 A, target: DK-26 2485 A, value: 7.92
+
+
+source: SS-27 6854 A, target: BD-111 094307 , value: 6.37
+
+
+source: Oneil 723  A, target: DK+32 2390 A, value: 7.65
+
+
+source: Oneil 723  A, target: DK+21 6825A, value: 6.55
+
+
+source: Oneil 723  A, target: HC+25 1902 A, value: 5.56
+
+
+source: Oneil 723  A, target: BK-5 9201 A, value: 7.44
+
+
+source: Oneil 723  A, target: HC-4 9701 Kaa'a'ah A, value: 4.14
+
+
+source: Oneil 723  A, target: HC+3 1919 A, value: 5.07
+
+
+source: HC-24 1124 A, target: DK-33 1023 A, value: 7.57
+
+
+source: HC-24 1124 A, target: HC+25 1902 A, value: 5.22
+
+
+source: HC-24 1124 A, target: DK-26 2485 A, value: 4.86
+
+
+source: HC-24 1124 A, target: BK-5 9201 A, value: 4.37
+
+
+source: HC-24 1124 A, target: DM-21 4352 A, value: 7.22
+
+
+source: SS-22 4654 A, target: DK+29 3074  A, value: 5.92
+
+
+source: SS-22 4654 A, target: Chien 820  A, value: 6.32
+
+
+source: SS-22 4654 A, target: HC+3 1919 A, value: 5.96
+
+
+source: SS-22 4654 A, target: BK-2 0075 , value: 5.59
+
+
+source: SS-22 4654 B, target: DK+29 3074  A, value: 5.92
+
+
+source: SS-22 4654 B, target: Chien 820  A, value: 6.32
+
+
+source: SS-22 4654 B, target: HC+3 1919 A, value: 5.96
+
+
+source: SS-22 4654 B, target: BK-2 0075 , value: 5.59
+
+
+source: DK-26 2485 A, target: SS-27 6854 A, value: 7.92
+
+
+source: DK-26 2485 A, target: HC-24 1124 A, value: 4.86
+
+
+source: DK-26 2485 A, target: DM-21 4352 A, value: 7.51
+
+
+source: DM+18 3606 A, target: DM+15 3364 A, value: 4.26
+
+
+source: DM-18 4986 A, target: Wolf 1466 A, value: 7.45
+
+
+source: DM-18 4986 A, target: DM-21 5081 A, value: 2.5
+
+
+source: HC+18 9881 A, target: Chien 820  A, value: 7.6
+
+
+source: HC+18 9881 A, target: BK+15 3434 A, value: 7.65
+
+
+source: HC+18 9881 A, target: Chien 414  A, value: 6.76
+
+
+source: SS-19 2424  A, target: DK+21 6825A, value: 7.85
+
+
+source: DM-21 5081 A, target: DM-18 4986 A, value: 2.5
+
+
+source: DM-1 3474 A, target: L 1064-75 A, value: 5.05
+
+
+source: DM-1 3474 A, target: L 1113-55 A, value: 5.1
+
+
+source: DM-1 3474 A, target: DM-6 4663 A, value: 7.11
+
+
+source: DM-1 3474 A, target: DM-6 4663 B, value: 7.11
+
+
+source: BK-5 9201 A, target: HC+25 1902 A, value: 5.18
+
+
+source: BK-5 9201 A, target: Oneil 723  A, value: 7.44
+
+
+source: BK-5 9201 A, target: HC-24 1124 A, value: 4.37
+
+
+source: BK-5 9201 A, target: HC-4 9701 Kaa'a'ah A, value: 6.61
+
+
+source: BK-5 9201 A, target: DM-21 4352 A, value: 6.28
+
+
+source: HC-4 9701 Kaa'a'ah A, target: HC+25 1902 A, value: 6.28
+
+
+source: HC-4 9701 Kaa'a'ah A, target: Oneil 723  A, value: 4.14
+
+
+source: HC-4 9701 Kaa'a'ah A, target: BK-5 9201 A, value: 6.61
+
+
+source: HC-4 9701 Kaa'a'ah A, target: HC+3 1919 A, value: 4.34
+
+
+source: BK+15 3434 A, target: Chien 820  A, value: 7.15
+
+
+source: BK+15 3434 A, target: HC+18 9881 A, value: 7.65
+
+
+source: BK+15 3434 A, target: HC+13 232 A, value: 7.46
+
+
+source: BK+15 3434 A, target: HC+13 232 B, value: 7.46
+
+
+source: BK+15 3434 A, target: Chien 414  A, value: 5.23
+
+
+source: HC+3 1919 A, target: Oneil 723  A, value: 5.07
+
+
+source: HC+3 1919 A, target: SS-22 4654 A, value: 5.96
+
+
+source: HC+3 1919 A, target: SS-22 4654 B, value: 5.96
+
+
+source: HC+3 1919 A, target: HC-4 9701 Kaa'a'ah A, value: 4.34
+
+
+source: HC+3 1919 A, target: BK-2 0075 , value: 4.81
+
+
+source: DM+15 3364 A, target: DM+18 3606 A, value: 4.26
+
+
+source: Delta Aquilae A, target: AC+3 2528-176 A, value: 7.92
+
+
+source: Delta Aquilae A, target: DM+7 4052 A, value: 3.75
+
+
+source: Delta Aquilae A, target: Beta Aquilae A, value: 6.57
+
+
+source: Delta Aquilae A, target: Beta Aquilae B, value: 6.57
+
+
+source: Delta Aquilae A, target: DM+4 4157 A, value: 5.16
+
+
+source: Delta Aquilae B, target: AC+3 2528-176 A, value: 7.92
+
+
+source: Delta Aquilae B, target: DM+7 4052 A, value: 3.75
+
+
+source: Delta Aquilae B, target: Beta Aquilae A, value: 6.57
+
+
+source: Delta Aquilae B, target: Beta Aquilae B, value: 6.57
+
+
+source: Delta Aquilae B, target: DM+4 4157 A, value: 5.16
+
+
+source: BD-111 094307 , target: SS-27 6854 A, value: 6.37
+
+
+source: BD-111 094307 , target: DM-6 4663 A, value: 7.27
+
+
+source: BD-111 094307 , target: DM-6 4663 B, value: 7.27
+
+
+source: BD-111 094307 , target: L 989-20 A, value: 7.02
+
+
+source: BD-111 094307 , target: L 989-20 B, value: 7.02
+
+
+source: L 850-62 A, target: Wolf 1466 A, value: 6.4
+
+
+source: HC+13 232 A, target: BK+15 3434 A, value: 7.46
+
+
+source: HC+13 232 B, target: BK+15 3434 A, value: 7.46
+
+
+source: DK+17 4521 , target: DM+3 3465 A, value: 6.62
+
+
+source: DM+7 4052 A, target: Delta Aquilae A, value: 3.75
+
+
+source: DM+7 4052 A, target: Delta Aquilae B, value: 3.75
+
+
+source: DM+7 4052 A, target: Beta Aquilae A, value: 6.5
+
+
+source: DM+7 4052 A, target: Beta Aquilae B, value: 6.5
+
+
+source: DM+7 4052 A, target: DM+4 4157 A, value: 4.67
+
+
+source: DM+7 4052 A, target: BPM 94172 A, value: 6.74
+
+
+source: DM-6 4663 A, target: DM-1 3474 A, value: 7.11
+
+
+source: DM-6 4663 A, target: BD-111 094307 , value: 7.27
+
+
+source: DM-6 4663 A, target: DM+3 3465 A, value: 7.53
+
+
+source: DM-6 4663 A, target: L 989-20 A, value: 7.85
+
+
+source: DM-6 4663 A, target: L 989-20 B, value: 7.85
+
+
+source: DM-6 4663 B, target: DM-1 3474 A, value: 7.11
+
+
+source: DM-6 4663 B, target: BD-111 094307 , value: 7.27
+
+
+source: DM-6 4663 B, target: DM+3 3465 A, value: 7.53
+
+
+source: DM-6 4663 B, target: L 989-20 A, value: 7.85
+
+
+source: DM-6 4663 B, target: L 989-20 B, value: 7.85
+
+
+source: BK-2 0075 , target: SS-22 4654 A, value: 5.59
+
+
+source: BK-2 0075 , target: SS-22 4654 B, value: 5.59
+
+
+source: BK-2 0075 , target: HC+3 1919 A, value: 4.81
+
+
+source: BK-2 0075 , target: BK-1 1423 , value: 5.03
+
+
+source: BK-2 0075 , target: BK+7 5675 A, value: 7
+
+
+source: BK-2 0075 , target: HC-6 2111, value: 6.08
+
+
+source: Beta Aquilae A, target: Delta Aquilae A, value: 6.57
+
+
+source: Beta Aquilae A, target: Delta Aquilae B, value: 6.57
+
+
+source: Beta Aquilae A, target: DM+7 4052 A, value: 6.5
+
+
+source: Beta Aquilae A, target: DM+4 4157 A, value: 6.26
+
+
+source: Beta Aquilae A, target: AC+13 1185-145 A, value: 6.8
+
+
+source: Beta Aquilae A, target: DM+2 4076 A, value: 4.6
+
+
+source: Beta Aquilae B, target: Delta Aquilae A, value: 6.57
+
+
+source: Beta Aquilae B, target: Delta Aquilae B, value: 6.57
+
+
+source: Beta Aquilae B, target: DM+7 4052 A, value: 6.5
+
+
+source: Beta Aquilae B, target: DM+4 4157 A, value: 6.26
+
+
+source: Beta Aquilae B, target: AC+13 1185-145 A, value: 6.8
+
+
+source: Beta Aquilae B, target: DM+2 4076 A, value: 4.6
+
+
+source: BK-1 1423 , target: BK-2 0075 , value: 5.03
+
+
+source: BK-1 1423 , target: HC-6 2111, value: 5.23
+
+
+source: BK-1 1423 , target: BK+00 2334 , value: 5.1
+
+
+source: DM-21 4352 A, target: HC-24 1124 A, value: 7.22
+
+
+source: DM-21 4352 A, target: DK-26 2485 A, value: 7.51
+
+
+source: DM-21 4352 A, target: BK-5 9201 A, value: 6.28
+
+
+source: DM-21 4352 A, target: DM-24 12677 A, value: 2.73
+
+
+source: Chien 414  A, target: HC+18 9881 A, value: 6.76
+
+
+source: Chien 414  A, target: BK+15 3434 A, value: 5.23
+
+
+source: Chien 414  A, target: BK+7 5675 A, value: 5.11
+
+
+source: Chien 414  A, target: BK-8 0854  A, value: 5.21
+
+
+source: Chien 414  A, target: BK+10 1245 A, value: 5.5
+
+
+source: DM+3 3465 A, target: DK+17 4521 , value: 6.62
+
+
+source: DM+3 3465 A, target: DM-6 4663 A, value: 7.53
+
+
+source: DM+3 3465 A, target: DM-6 4663 B, value: 7.53
+
+
+source: DM+3 3465 A, target: L 989-20 A, value: 6.16
+
+
+source: DM+3 3465 A, target: L 989-20 B, value: 6.16
+
+
+source: L 989-20 A, target: BD-111 094307 , value: 7.02
+
+
+source: L 989-20 A, target: DM-6 4663 A, value: 7.85
+
+
+source: L 989-20 A, target: DM-6 4663 B, value: 7.85
+
+
+source: L 989-20 A, target: DM+3 3465 A, value: 6.16
+
+
+source: L 989-20 A, target: DM-4 4225 A, value: 5.07
+
+
+source: L 989-20 A, target: DM-4 4226 A, value: 5.07
+
+
+source: L 989-20 A, target: DM-1 3220 A, value: 7.38
+
+
+source: L 989-20 B, target: BD-111 094307 , value: 7.02
+
+
+source: L 989-20 B, target: DM-6 4663 A, value: 7.85
+
+
+source: L 989-20 B, target: DM-6 4663 B, value: 7.85
+
+
+source: L 989-20 B, target: DM+3 3465 A, value: 6.16
+
+
+source: L 989-20 B, target: DM-4 4225 A, value: 5.07
+
+
+source: L 989-20 B, target: DM-4 4226 A, value: 5.07
+
+
+source: L 989-20 B, target: DM-1 3220 A, value: 7.38
+
+
+source: AC+16 247-80 A, target: DM+25 3719 A, value: 7.59
+
+
+source: AC+16 247-80 A, target: BPM 94172 A, value: 5.4
+
+
+source: AC+16 247-80 A, target: DM+5 3993 A, value: 7.99
+
+
+source: BK+7 5675 A, target: BK-2 0075 , value: 7
+
+
+source: BK+7 5675 A, target: Chien 414  A, value: 5.11
+
+
+source: BK+7 5675 A, target: HC-6 2111, value: 4.36
+
+
+source: BK+7 5675 A, target: BK-8 0854  A, value: 4.88
+
+
+source: DM-24 12677 A, target: DM-21 4352 A, value: 2.73
+
+
+source: DM+4 4157 A, target: Delta Aquilae A, value: 5.16
+
+
+source: DM+4 4157 A, target: Delta Aquilae B, value: 5.16
+
+
+source: DM+4 4157 A, target: DM+7 4052 A, value: 4.67
+
+
+source: DM+4 4157 A, target: Beta Aquilae A, value: 6.26
+
+
+source: DM+4 4157 A, target: Beta Aquilae B, value: 6.26
+
+
+source: DM+4 4157 A, target: BPM 94172 A, value: 7.67
+
+
+source: DM+4 4157 A, target: DM+2 4076 A, value: 5.34
+
+
+source: DM+4 4157 A, target: DM+5 3993 A, value: 7.35
+
+
+source: HC-6 2111, target: BK-2 0075 , value: 6.08
+
+
+source: HC-6 2111, target: BK-1 1423 , value: 5.23
+
+
+source: HC-6 2111, target: BK+7 5675 A, value: 4.36
+
+
+source: HC-6 2111, target: BK-8 0854  A, value: 5.17
+
+
+source: HC-6 2111, target: BK+00 2334 , value: 7.13
+
+
+source: DM+25 3719 A, target: AC+16 247-80 A, value: 7.59
+
+
+source: AC+13 1185-145 A, target: Beta Aquilae A, value: 6.8
+
+
+source: AC+13 1185-145 A, target: Beta Aquilae B, value: 6.8
+
+
+source: BPM 94172 A, target: DM+7 4052 A, value: 6.74
+
+
+source: BPM 94172 A, target: AC+16 247-80 A, value: 5.4
+
+
+source: BPM 94172 A, target: DM+4 4157 A, value: 7.67
+
+
+source: BPM 94172 A, target: DM+5 3993 A, value: 7.78
+
+
+source: BK-8 0854  A, target: Chien 414  A, value: 5.21
+
+
+source: BK-8 0854  A, target: BK+7 5675 A, value: 4.88
+
+
+source: BK-8 0854  A, target: HC-6 2111, value: 5.17
+
+
+source: BK-8 0854  A, target: BK+10 1245 A, value: 6.73
+
+
+source: BK-8 0854  A, target: DM+13 2901 A, value: 5.83
+
+
+source: BK+00 2334 , target: BK-1 1423 , value: 5.1
+
+
+source: BK+00 2334 , target: HC-6 2111, value: 7.13
+
+
+source: BK+00 2334 , target: Gamma Serpentis, value: 5.73
+
+
+source: BK+10 1245 A, target: Chien 414  A, value: 5.5
+
+
+source: BK+10 1245 A, target: BK-8 0854  A, value: 6.73
+
+
+source: BK+10 1245 A, target: HC+11 9580 A, value: 5.89
+
+
+source: DM+2 4076 A, target: Beta Aquilae A, value: 4.6
+
+
+source: DM+2 4076 A, target: Beta Aquilae B, value: 4.6
+
+
+source: DM+2 4076 A, target: DM+4 4157 A, value: 5.34
+
+
+source: DM+5 3993 A, target: AC+16 247-80 A, value: 7.99
+
+
+source: DM+5 3993 A, target: DM+4 4157 A, value: 7.35
+
+
+source: DM+5 3993 A, target: BPM 94172 A, value: 7.78
+
+
+source: DM+5 3993 A, target: AC+8 142-393 A, value: 3.68
+
+
+source: DM+5 3993 A, target: AC+2 2155-242 A, value: 5.92
+
+
+source: DM-24 15668 A, target: DM-23 15935 A, value: 6.45
+
+
+source: DM-24 15668 A, target: DM-28 16676 A, value: 7.14
+
+
+source: Chien 112 A, target: HC+11 9580 A, value: 7.66
+
+
+source: DM-19 5899 A, target: DM-14 5936 A, value: 6.65
+
+
+source: DM-19 5899 A, target: DM-14 5936 B, value: 6.65
+
+
+source: DM-19 5899 A, target: DM-24 16193 A, value: 4.59
+
+
+source: DM-19 5899 B, target: DM-14 5936 A, value: 6.65
+
+
+source: DM-19 5899 B, target: DM-14 5936 B, value: 6.65
+
+
+source: DM-19 5899 B, target: DM-24 16193 A, value: 4.59
+
+
+source: DM-4 4225 A, target: L 989-20 A, value: 5.07
+
+
+source: DM-4 4225 A, target: L 989-20 B, value: 5.07
+
+
+source: DM-4 4225 A, target: DM-1 3220 A, value: 4.84
+
+
+source: DM-4 4226 A, target: L 989-20 A, value: 5.07
+
+
+source: DM-4 4226 A, target: L 989-20 B, value: 5.07
+
+
+source: DM-4 4226 A, target: DM-1 3220 A, value: 4.84
+
+
+source: AC+8 142-393 A, target: DM+5 3993 A, value: 3.68
+
+
+source: AC+8 142-393 A, target: AC+2 2155-242 A, value: 4.47
+
+
+source: DM-1 3220 A, target: L 989-20 A, value: 7.38
+
+
+source: DM-1 3220 A, target: L 989-20 B, value: 7.38
+
+
+source: DM-1 3220 A, target: DM-4 4225 A, value: 4.84
+
+
+source: DM-1 3220 A, target: DM-4 4226 A, value: 4.84
+
+
+source: DM-14 5936 A, target: DM-19 5899 A, value: 6.65
+
+
+source: DM-14 5936 A, target: DM-19 5899 B, value: 6.65
+
+
+source: DM-14 5936 B, target: DM-19 5899 A, value: 6.65
+
+
+source: DM-14 5936 B, target: DM-19 5899 B, value: 6.65
+
+
+source: L 489-58 A, target: DM-43 12343 A, value: 7.13
+
+
+source: L 489-58 A, target: DM-46 12902 A, value: 7.3
+
+
+source: L 489-58 A, target: DM-46 12902 B, value: 7.3
+
+
+source: L 489-58 B, target: DM-43 12343 A, value: 7.13
+
+
+source: L 489-58 B, target: DM-46 12902 A, value: 7.3
+
+
+source: L 489-58 B, target: DM-46 12902 B, value: 7.3
+
+
+source: DM+45 2688 A, target: DM+51 2402 A, value: 5.74
+
+
+source: DM+45 2688 A, target: DM+51 2402 B, value: 5.74
+
+
+source: DM+45 2688 A, target: DM+45 2743 A, value: 7.94
+
+
+source: DM+45 2688 A, target: VB 9 B, value: 7.94
+
+
+source: Gamma Serpentis, target: BK+00 2334 , value: 5.73
+
+
+source: Gamma Serpentis, target: Lambda Serpentis A, value: 7.89
+
+
+source: Gamma Serpentis, target: AC+18 1890-112 A, value: 6.31
+
+
+source: Gamma Serpentis, target: L 1272-21 B, value: 6.31
+
+
+source: Gamma Serpentis, target: Ross 508 A, value: 6.96
+
+
+source: DM-24 16193 A, target: DM-19 5899 A, value: 4.59
+
+
+source: DM-24 16193 A, target: DM-19 5899 B, value: 4.59
+
+
+source: DM-24 16193 A, target: DM-28 16676 A, value: 6.45
+
+
+source: Ross 867 B, target: Ross 868 A, value: 2.77
+
+
+source: Ross 867 B, target: DM+25 3173 A, value: 4.41
+
+
+source: Ross 867 B, target: Ross 863 A, value: 6.53
+
+
+source: DM+13 2901 A, target: BK-8 0854  A, value: 5.83
+
+
+source: DM+13 2901 A, target: DM+16 2658 A, value: 7.85
+
+
+source: DM-43 12343 A, target: L 489-58 A, value: 7.13
+
+
+source: DM-43 12343 A, target: L 489-58 B, value: 7.13
+
+
+source: DM-43 12343 A, target: Mu Arae A, value: 7.43
+
+
+source: AC+24 747-102 A, target: AC+22 308-605 A, value: 5.24
+
+
+source: HC+11 9580 A, target: BK+10 1245 A, value: 5.89
+
+
+source: HC+11 9580 A, target: Chien 112 A, value: 7.66
+
+
+source: AC+2 2155-242 A, target: DM+5 3993 A, value: 5.92
+
+
+source: AC+2 2155-242 A, target: AC+8 142-393 A, value: 4.47
+
+
+source: AC+2 2155-242 A, target: L 997-21 A, value: 7.32
+
+
+source: AC+2 2155-242 A, target: AC-7 342-397 B, value: 6.38
+
+
+source: AC+2 2155-242 A, target: AC-7 342-402 A, value: 6.38
+
+
+source: DM+5 3409 A, target: King A, value: 7.64
+
+
+source: DM+5 3409 B, target: King A, value: 7.64
+
+
+source: L 997-21 A, target: AC+2 2155-242 A, value: 7.32
+
+
+source: L 997-21 A, target: AC-7 342-397 B, value: 7.62
+
+
+source: L 997-21 A, target: AC-7 342-402 A, value: 7.62
+
+
+source: DM-23 15935 A, target: DM-24 15668 A, value: 6.45
+
+
+source: DM-23 15935 A, target: DM-28 16676 A, value: 6.15
+
+
+source: DM-23 15935 A, target: Psi Capricorni A, value: 6.98
+
+
+source: DM-46 12902 A, target: L 489-58 A, value: 7.3
+
+
+source: DM-46 12902 A, target: L 489-58 B, value: 7.3
+
+
+source: DM-46 12902 A, target: DM-48 12818 A, value: 7.82
+
+
+source: DM-46 12902 B, target: L 489-58 A, value: 7.3
+
+
+source: DM-46 12902 B, target: L 489-58 B, value: 7.3
+
+
+source: DM-46 12902 B, target: DM-48 12818 A, value: 7.82
+
+
+source: Ross 188 A, target: AC+39 57322 A, value: 5.27
+
+
+source: Ross 188 A, target: AC+39 57322 B, value: 5.27
+
+
+source: Ross 188 A, target: AC+39 57322 C, value: 5.27
+
+
+source: Ross 868 A, target: Ross 867 B, value: 2.77
+
+
+source: Ross 868 A, target: DM+25 3173 A, value: 2.98
+
+
+source: Ross 868 A, target: Ross 863 A, value: 4.31
+
+
+source: Ross 868 A, target: Zeta Herculis A, value: 6.6
+
+
+source: Ross 868 A, target: Zeta Herculis B, value: 6.6
+
+
+source: Ross 868 A, target: Botany Bay A, value: 6.84
+
+
+source: DM+25 3173 A, target: Ross 867 B, value: 4.41
+
+
+source: DM+25 3173 A, target: Ross 868 A, value: 2.98
+
+
+source: DM+25 3173 A, target: Ross 863 A, value: 3.58
+
+
+source: DM+25 3173 A, target: Zeta Herculis A, value: 4.89
+
+
+source: DM+25 3173 A, target: Zeta Herculis B, value: 4.89
+
+
+source: DM+25 3173 A, target: Botany Bay A, value: 5.55
+
+
+source: DM-28 16676 A, target: DM-24 15668 A, value: 7.14
+
+
+source: DM-28 16676 A, target: DM-24 16193 A, value: 6.45
+
+
+source: DM-28 16676 A, target: DM-23 15935 A, value: 6.15
+
+
+source: DM-28 16676 A, target: Psi Capricorni A, value: 4.74
+
+
+source: AC-7 342-397 B, target: AC+2 2155-242 A, value: 6.38
+
+
+source: AC-7 342-397 B, target: L 997-21 A, value: 7.62
+
+
+source: AC-7 342-402 A, target: AC+2 2155-242 A, value: 6.38
+
+
+source: AC-7 342-402 A, target: L 997-21 A, value: 7.62
+
+
+source: DM-37 10500 A, target: L 480-69 A, value: 5.08
+
+
+source: DM-37 10500 B, target: L 480-69 A, value: 5.08
+
+
+source: Ross 863 A, target: Ross 867 B, value: 6.53
+
+
+source: Ross 863 A, target: Ross 868 A, value: 4.31
+
+
+source: Ross 863 A, target: DM+25 3173 A, value: 3.58
+
+
+source: Ross 863 A, target: Zeta Herculis A, value: 6.4
+
+
+source: Ross 863 A, target: Zeta Herculis B, value: 6.4
+
+
+source: Ross 863 A, target: Botany Bay A, value: 7.16
+
+
+source: Ross 863 A, target: New Melbourne A, value: 7.44
+
+
+source: Ross 863 A, target: Mu Herculis A, value: 7.87
+
+
+source: Ross 863 A, target: Mu Herculis B, value: 7.87
+
+
+source: Ross 863 A, target: Mu Herculis C, value: 7.87
+
+
+source: L 856-54 A, target: Wolf 906 A, value: 5.6
+
+
+source: L 856-54 A, target: Wolf 918 A, value: 6.08
+
+
+source: L 856-54 B, target: Wolf 906 A, value: 5.6
+
+
+source: L 856-54 B, target: Wolf 918 A, value: 6.08
+
+
+source: Lambda Serpentis A, target: Gamma Serpentis, value: 7.89
+
+
+source: Lambda Serpentis A, target: AC+18 1890-112 A, value: 6.49
+
+
+source: Lambda Serpentis A, target: L 1272-21 B, value: 6.49
+
+
+source: Lambda Serpentis A, target: Ross 508 A, value: 7.16
+
+
+source: DM+24 2786 A, target: DM+25 2874 A, value: 4.44
+
+
+source: DM+24 2786 A, target: DM+24 2733 A, value: 3.45
+
+
+source: DM+24 2786 A, target: DM+24 2733 B, value: 5.14
+
+
+source: DM+24 2786 A, target: DM+16 2658 A, value: 7.96
+
+
+source: DM+24 2786 B, target: DM+25 2874 A, value: 4.44
+
+
+source: DM+24 2786 B, target: DM+24 2733 A, value: 3.45
+
+
+source: DM+24 2786 B, target: DM+24 2733 B, value: 5.14
+
+
+source: DM+24 2786 B, target: DM+16 2658 A, value: 7.96
+
+
+source: DM+25 2874 A, target: DM+24 2786 A, value: 4.44
+
+
+source: DM+25 2874 A, target: DM+24 2786 B, value: 4.44
+
+
+source: DM+25 2874 A, target: DM+24 2733 A, value: 7.83
+
+
+source: DM+25 2874 A, target: DM+19 2881 A, value: 6.66
+
+
+source: DM+25 2874 A, target: DM+19 2881 B, value: 6.66
+
+
+source: Ross 802 A, target: L 768-119 A, value: 7.51
+
+
+source: DM+51 2402 A, target: DM+45 2688 A, value: 5.74
+
+
+source: DM+51 2402 A, target: DM+45 2743 A, value: 7.63
+
+
+source: DM+51 2402 A, target: VB 9 B, value: 7.63
+
+
+source: DM+51 2402 A, target: DM+52 2294 A, value: 3.77
+
+
+source: DM+51 2402 B, target: DM+45 2688 A, value: 5.74
+
+
+source: DM+51 2402 B, target: DM+45 2743 A, value: 7.63
+
+
+source: DM+51 2402 B, target: VB 9 B, value: 7.63
+
+
+source: DM+51 2402 B, target: DM+52 2294 A, value: 3.77
+
+
+source: Wolf 906 A, target: L 856-54 A, value: 5.6
+
+
+source: Wolf 906 A, target: L 856-54 B, value: 5.6
+
+
+source: Wolf 906 A, target: Wolf 918 A, value: 6.61
+
+
+source: AC+22 308-605 A, target: AC+24 747-102 A, value: 5.24
+
+
+source: DM+24 2733 A, target: DM+24 2786 A, value: 3.45
+
+
+source: DM+24 2733 A, target: DM+24 2786 B, value: 3.45
+
+
+source: DM+24 2733 A, target: DM+25 2874 A, value: 7.83
+
+
+source: DM+24 2733 A, target: DM+24 2733 B, value: 2
+
+
+source: DM+24 2733 A, target: DM+16 2658 A, value: 7.75
+
+
+source: DM+38 3095 A, target: DM+45 2743 A, value: 7.38
+
+
+source: DM+38 3095 A, target: VB 9 B, value: 7.38
+
+
+source: DM+38 3095 A, target: DM+43 2796 A, value: 5.25
+
+
+source: DM+45 2743 A, target: DM+45 2688 A, value: 7.94
+
+
+source: DM+45 2743 A, target: DM+51 2402 A, value: 7.63
+
+
+source: DM+45 2743 A, target: DM+51 2402 B, value: 7.63
+
+
+source: DM+45 2743 A, target: DM+38 3095 A, value: 7.38
+
+
+source: DM+45 2743 A, target: DM+52 2294 A, value: 6.41
+
+
+source: VB 9 B, target: DM+45 2688 A, value: 7.94
+
+
+source: VB 9 B, target: DM+51 2402 A, value: 7.63
+
+
+source: VB 9 B, target: DM+51 2402 B, value: 7.63
+
+
+source: VB 9 B, target: DM+38 3095 A, value: 7.38
+
+
+source: VB 9 B, target: DM+52 2294 A, value: 6.41
+
+
+source: Mu Arae A, target: DM-43 12343 A, value: 7.43
+
+
+source: Mu Arae A, target: DM-48 11837 A, value: 5.46
+
+
+source: Mu Arae A, target: DM-58 7076 A, value: 7.67
+
+
+source: Mu Arae A, target: DM-51 10924 A, value: 5.94
+
+
+source: Mu Arae A, target: DM-51 10924 B, value: 5.94
+
+
+source: AC+18 1890-112 A, target: Gamma Serpentis, value: 6.31
+
+
+source: AC+18 1890-112 A, target: Lambda Serpentis A, value: 6.49
+
+
+source: AC+18 1890-112 A, target: L 1346-53 A, value: 4.69
+
+
+source: AC+18 1890-112 A, target: Ross 508 A, value: 1.87
+
+
+source: AC+18 1890-112 A, target: DM+19 2881 A, value: 7.46
+
+
+source: AC+18 1890-112 A, target: DM+19 2881 B, value: 7.46
+
+
+source: AC+18 1890-112 A, target: DM+16 2708 A, value: 6.07
+
+
+source: AC+18 1890-112 A, target: Ross 52 A, value: 6.9
+
+
+source: AC+18 1890-112 A, target: Ross 52 B, value: 6.9
+
+
+source: L 1272-21 B, target: Gamma Serpentis, value: 6.31
+
+
+source: L 1272-21 B, target: Lambda Serpentis A, value: 6.49
+
+
+source: L 1272-21 B, target: L 1346-53 A, value: 4.69
+
+
+source: L 1272-21 B, target: Ross 508 A, value: 1.87
+
+
+source: L 1272-21 B, target: DM+19 2881 A, value: 7.46
+
+
+source: L 1272-21 B, target: DM+19 2881 B, value: 7.46
+
+
+source: L 1272-21 B, target: DM+16 2708 A, value: 6.07
+
+
+source: L 1272-21 B, target: Ross 52 A, value: 6.9
+
+
+source: L 1272-21 B, target: Ross 52 B, value: 6.9
+
+
+source: L 1346-53 A, target: AC+18 1890-112 A, value: 4.69
+
+
+source: L 1346-53 A, target: L 1272-21 B, value: 4.69
+
+
+source: L 1346-53 A, target: Ross 508 A, value: 6.47
+
+
+source: Ross 508 A, target: Gamma Serpentis, value: 6.96
+
+
+source: Ross 508 A, target: Lambda Serpentis A, value: 7.16
+
+
+source: Ross 508 A, target: AC+18 1890-112 A, value: 1.87
+
+
+source: Ross 508 A, target: L 1272-21 B, value: 1.87
+
+
+source: Ross 508 A, target: L 1346-53 A, value: 6.47
+
+
+source: Ross 508 A, target: DM+19 2881 A, value: 5.65
+
+
+source: Ross 508 A, target: DM+19 2881 B, value: 5.65
+
+
+source: Ross 508 A, target: DM+16 2708 A, value: 4.7
+
+
+source: Ross 508 A, target: Ross 52 A, value: 5.9
+
+
+source: Ross 508 A, target: Ross 52 B, value: 5.9
+
+
+source: DM+24 2733 B, target: DM+24 2786 A, value: 5.14
+
+
+source: DM+24 2733 B, target: DM+24 2786 B, value: 5.14
+
+
+source: DM+24 2733 B, target: DM+24 2733 A, value: 2
+
+
+source: DM+24 2733 B, target: DM+16 2658 A, value: 7.67
+
+
+source: Psi Capricorni A, target: DM-23 15935 A, value: 6.98
+
+
+source: Psi Capricorni A, target: DM-28 16676 A, value: 4.74
+
+
+source: Psi Capricorni A, target: AC+20 76187 A, value: 6.21
+
+
+source: AC+39 57322 A, target: Ross 188 A, value: 5.27
+
+
+source: AC+39 57322 A, target: AC+39 60670 A, value: 7.36
+
+
+source: AC+39 57322 A, target: AC+39 60670 B, value: 7.36
+
+
+source: AC+39 57322 B, target: Ross 188 A, value: 5.27
+
+
+source: AC+39 57322 B, target: AC+39 60670 A, value: 7.36
+
+
+source: AC+39 57322 B, target: AC+39 60670 B, value: 7.36
+
+
+source: AC+39 57322 C, target: Ross 188 A, value: 5.27
+
+
+source: AC+39 57322 C, target: AC+39 60670 A, value: 7.36
+
+
+source: AC+39 57322 C, target: AC+39 60670 B, value: 7.36
+
+
+source: Ross 165 A, target: AC+20 1463-148 A, value: 7.41
+
+
+source: Ross 165 A, target: AC+20 1463-154 B, value: 7.41
+
+
+source: Ross 165 A, target: AC+32 54804 A, value: 7.49
+
+
+source: Ross 165 A, target: AC+32 54804 B, value: 7.49
+
+
+source: Ross 165 B, target: AC+20 1463-148 A, value: 7.41
+
+
+source: Ross 165 B, target: AC+20 1463-154 B, value: 7.41
+
+
+source: Ross 165 B, target: AC+32 54804 A, value: 7.49
+
+
+source: Ross 165 B, target: AC+32 54804 B, value: 7.49
+
+
+source: DM-48 11837 A, target: Mu Arae A, value: 5.46
+
+
+source: DM-48 11837 A, target: DM-51 10924 A, value: 2.29
+
+
+source: DM-48 11837 A, target: DM-51 10924 B, value: 2.29
+
+
+source: DM+16 2658 A, target: DM+13 2901 A, value: 7.85
+
+
+source: DM+16 2658 A, target: DM+24 2786 A, value: 7.96
+
+
+source: DM+16 2658 A, target: DM+24 2786 B, value: 7.96
+
+
+source: DM+16 2658 A, target: DM+24 2733 A, value: 7.75
+
+
+source: DM+16 2658 A, target: DM+24 2733 B, value: 7.67
+
+
+source: DM+16 2658 A, target: DM+19 2881 A, value: 7.69
+
+
+source: DM+16 2658 A, target: DM+19 2881 B, value: 7.69
+
+
+source: DM-48 12818 A, target: DM-46 12902 A, value: 7.82
+
+
+source: DM-48 12818 A, target: DM-46 12902 B, value: 7.82
+
+
+source: DM+52 2294 A, target: DM+51 2402 A, value: 3.77
+
+
+source: DM+52 2294 A, target: DM+51 2402 B, value: 3.77
+
+
+source: DM+52 2294 A, target: DM+45 2743 A, value: 6.41
+
+
+source: DM+52 2294 A, target: VB 9 B, value: 6.41
+
+
+source: L 480-69 A, target: DM-37 10500 A, value: 5.08
+
+
+source: L 480-69 A, target: DM-37 10500 B, value: 5.08
+
+
+source: AC+54 1646-56 A, target: LP 101-15 A, value: 3.37
+
+
+source: AC+54 1646-56 A, target: LP 101-15 B, value: 3.37
+
+
+source: AC+54 1646-56 A, target: LP 101-167 C, value: 3.37
+
+
+source: Zeta Herculis A, target: Ross 868 A, value: 6.6
+
+
+source: Zeta Herculis A, target: DM+25 3173 A, value: 4.89
+
+
+source: Zeta Herculis A, target: Ross 863 A, value: 6.4
+
+
+source: Zeta Herculis A, target: Botany Bay A, value: 1.15
+
+
+source: Zeta Herculis B, target: Ross 868 A, value: 6.6
+
+
+source: Zeta Herculis B, target: DM+25 3173 A, value: 4.89
+
+
+source: Zeta Herculis B, target: Ross 863 A, value: 6.4
+
+
+source: Zeta Herculis B, target: Botany Bay A, value: 1.15
+
+
+source: DM+19 2881 A, target: DM+25 2874 A, value: 6.66
+
+
+source: DM+19 2881 A, target: AC+18 1890-112 A, value: 7.46
+
+
+source: DM+19 2881 A, target: L 1272-21 B, value: 7.46
+
+
+source: DM+19 2881 A, target: Ross 508 A, value: 5.65
+
+
+source: DM+19 2881 A, target: DM+16 2658 A, value: 7.69
+
+
+source: DM+19 2881 A, target: DM+16 2708 A, value: 5.16
+
+
+source: DM+19 2881 A, target: Ross 52 A, value: 5.58
+
+
+source: DM+19 2881 A, target: Ross 52 B, value: 5.58
+
+
+source: DM+19 2881 A, target: Arcturus A, value: 6.68
+
+
+source: DM+19 2881 B, target: DM+25 2874 A, value: 6.66
+
+
+source: DM+19 2881 B, target: AC+18 1890-112 A, value: 7.46
+
+
+source: DM+19 2881 B, target: L 1272-21 B, value: 7.46
+
+
+source: DM+19 2881 B, target: Ross 508 A, value: 5.65
+
+
+source: DM+19 2881 B, target: DM+16 2658 A, value: 7.69
+
+
+source: DM+19 2881 B, target: DM+16 2708 A, value: 5.16
+
+
+source: DM+19 2881 B, target: Ross 52 A, value: 5.58
+
+
+source: DM+19 2881 B, target: Ross 52 B, value: 5.58
+
+
+source: DM+19 2881 B, target: Arcturus A, value: 6.68
+
+
+source: LP 101-15 A, target: AC+54 1646-56 A, value: 3.37
+
+
+source: LP 101-15 A, target: AC+61 26806 A, value: 7.65
+
+
+source: LP 101-15 A, target: 26 Draconis A, value: 7.72
+
+
+source: LP 101-15 A, target: 26 Draconis B, value: 7.72
+
+
+source: LP 101-15 B, target: AC+54 1646-56 A, value: 3.37
+
+
+source: LP 101-15 B, target: AC+61 26806 A, value: 7.65
+
+
+source: LP 101-15 B, target: 26 Draconis A, value: 7.72
+
+
+source: LP 101-15 B, target: 26 Draconis B, value: 7.72
+
+
+source: LP 101-167 C, target: AC+54 1646-56 A, value: 3.37
+
+
+source: LP 101-167 C, target: AC+61 26806 A, value: 7.65
+
+
+source: LP 101-167 C, target: 26 Draconis A, value: 7.72
+
+
+source: LP 101-167 C, target: 26 Draconis B, value: 7.72
+
+
+source: Botany Bay A, target: Ross 868 A, value: 6.84
+
+
+source: Botany Bay A, target: DM+25 3173 A, value: 5.55
+
+
+source: Botany Bay A, target: Ross 863 A, value: 7.16
+
+
+source: Botany Bay A, target: Zeta Herculis A, value: 1.15
+
+
+source: Botany Bay A, target: Zeta Herculis B, value: 1.15
+
+
+source: AC+20 1463-148 A, target: Ross 165 A, value: 7.41
+
+
+source: AC+20 1463-148 A, target: Ross 165 B, value: 7.41
+
+
+source: AC+20 1463-148 A, target: AC+32 54804 A, value: 5.5
+
+
+source: AC+20 1463-148 A, target: AC+32 54804 B, value: 5.5
+
+
+source: AC+20 1463-154 B, target: Ross 165 A, value: 7.41
+
+
+source: AC+20 1463-154 B, target: Ross 165 B, value: 7.41
+
+
+source: AC+20 1463-154 B, target: AC+32 54804 A, value: 5.5
+
+
+source: AC+20 1463-154 B, target: AC+32 54804 B, value: 5.5
+
+
+source: DM-58 7076 A, target: Mu Arae A, value: 7.67
+
+
+source: Wolf 534 A, target: Ross 845 A, value: 4.27
+
+
+source: Wolf 534 A, target: AC-12 2306-155 A, value: 5.88
+
+
+source: King A, target: DM+5 3409 A, value: 7.64
+
+
+source: King A, target: DM+5 3409 B, value: 7.64
+
+
+source: King A, target: New Melbourne A, value: 7.33
+
+
+source: King A, target: DM-3 4233 A, value: 4.78
+
+
+source: King A, target: Clarkesstar A, value: 6.59
+
+
+source: King A, target: DM-8 4352 B, value: 6.59
+
+
+source: King A, target: VB 8 C, value: 6.59
+
+
+source: King A, target: Wolf 629 A, value: 6.53
+
+
+source: King A, target: Wolf 629 B, value: 6.53
+
+
+source: New Melbourne A, target: Ross 863 A, value: 7.44
+
+
+source: New Melbourne A, target: King A, value: 7.33
+
+
+source: New Melbourne A, target: Mu Herculis A, value: 4.32
+
+
+source: New Melbourne A, target: Mu Herculis B, value: 4.32
+
+
+source: New Melbourne A, target: Mu Herculis C, value: 4.32
+
+
+source: DM+27 4120 A, target: Iota Pegasi A, value: 5.88
+
+
+source: DM+27 4120 A, target: Iota Pegasi B, value: 5.88
+
+
+source: DM+27 4120 B, target: Iota Pegasi A, value: 5.88
+
+
+source: DM+27 4120 B, target: Iota Pegasi B, value: 5.88
+
+
+source: Ross 845 A, target: Wolf 534 A, value: 4.27
+
+
+source: Ross 845 A, target: AC-12 2306-155 A, value: 6.81
+
+
+source: DM-3 4233 A, target: King A, value: 4.78
+
+
+source: DM-3 4233 A, target: Clarkesstar A, value: 7.63
+
+
+source: DM-3 4233 A, target: DM-8 4352 B, value: 7.63
+
+
+source: DM-3 4233 A, target: VB 8 C, value: 7.63
+
+
+source: DM-3 4233 A, target: Wolf 629 A, value: 7.61
+
+
+source: DM-3 4233 A, target: Wolf 629 B, value: 7.61
+
+
+source: DM-3 4233 A, target: 70 Ophiuchi A, value: 7.18
+
+
+source: DM-3 4233 A, target: 70 Ophiuchi B, value: 7.18
+
+
+source: DM-3 4233 A, target: DM+2 3482 C, value: 7.18
+
+
+source: DM-51 10924 A, target: Mu Arae A, value: 5.94
+
+
+source: DM-51 10924 A, target: DM-48 11837 A, value: 2.29
+
+
+source: DM-51 10924 B, target: Mu Arae A, value: 5.94
+
+
+source: DM-51 10924 B, target: DM-48 11837 A, value: 2.29
+
+
+source: AC+20 76187 A, target: Psi Capricorni A, value: 6.21
+
+
+source: AC+20 76187 A, target: Wolf 918 A, value: 5.97
+
+
+source: AC+20 76187 A, target: DM-27 14659 A, value: 7.34
+
+
+source: AC+20 76187 A, target: DM-27 14659 B, value: 7.34
+
+
+source: AC+20 76187 A, target: DM-31 17815 A, value: 7.15
+
+
+source: AC+20 76187 A, target: DM-32 16135 A, value: 7.64
+
+
+source: AC+20 76187 A, target: DM-32 16135 B, value: 7.64
+
+
+source: Wolf 918 A, target: L 856-54 A, value: 6.08
+
+
+source: Wolf 918 A, target: L 856-54 B, value: 6.08
+
+
+source: Wolf 918 A, target: Wolf 906 A, value: 6.61
+
+
+source: Wolf 918 A, target: AC+20 76187 A, value: 5.97
+
+
+source: L 714-88 A, target: L 715-89 A, value: 5.65
+
+
+source: Mu Herculis A, target: Ross 863 A, value: 7.87
+
+
+source: Mu Herculis A, target: New Melbourne A, value: 4.32
+
+
+source: Mu Herculis A, target: Vega A, value: 6.98
+
+
+source: Mu Herculis A, target: DM+45 2505 B, value: 7.62
+
+
+source: Mu Herculis A, target: Red Speck A, value: 7.62
+
+
+source: Mu Herculis B, target: Ross 863 A, value: 7.87
+
+
+source: Mu Herculis B, target: New Melbourne A, value: 4.32
+
+
+source: Mu Herculis B, target: Vega A, value: 6.98
+
+
+source: Mu Herculis B, target: DM+45 2505 B, value: 7.62
+
+
+source: Mu Herculis B, target: Red Speck A, value: 7.62
+
+
+source: Mu Herculis C, target: Ross 863 A, value: 7.87
+
+
+source: Mu Herculis C, target: New Melbourne A, value: 4.32
+
+
+source: Mu Herculis C, target: Vega A, value: 6.98
+
+
+source: Mu Herculis C, target: DM+45 2505 B, value: 7.62
+
+
+source: Mu Herculis C, target: Red Speck A, value: 7.62
+
+
+source: AC-12 2306-155 A, target: Wolf 534 A, value: 5.88
+
+
+source: AC-12 2306-155 A, target: Ross 845 A, value: 6.81
+
+
+source: AC-12 2306-155 A, target: Ross 848 A, value: 4.59
+
+
+source: AC+61 26806 A, target: LP 101-15 A, value: 7.65
+
+
+source: AC+61 26806 A, target: LP 101-15 B, value: 7.65
+
+
+source: AC+61 26806 A, target: LP 101-167 C, value: 7.65
+
+
+source: AC+61 26806 A, target: 26 Draconis A, value: 0.22
+
+
+source: AC+61 26806 A, target: 26 Draconis B, value: 0.22
+
+
+source: AC+61 26806 A, target: DM+67 1014 A, value: 6.95
+
+
+source: AC+61 26806 A, target: DM+67 1014 B, value: 6.95
+
+
+source: DM+43 2796 A, target: DM+38 3095 A, value: 5.25
+
+
+source: DM+43 2796 A, target: Vega A, value: 7.71
+
+
+source: 26 Draconis A, target: LP 101-15 A, value: 7.72
+
+
+source: 26 Draconis A, target: LP 101-15 B, value: 7.72
+
+
+source: 26 Draconis A, target: LP 101-167 C, value: 7.72
+
+
+source: 26 Draconis A, target: AC+61 26806 A, value: 0.22
+
+
+source: 26 Draconis A, target: DM+67 1014 A, value: 6.8
+
+
+source: 26 Draconis A, target: DM+67 1014 B, value: 6.8
+
+
+source: 26 Draconis B, target: LP 101-15 A, value: 7.72
+
+
+source: 26 Draconis B, target: LP 101-15 B, value: 7.72
+
+
+source: 26 Draconis B, target: LP 101-167 C, value: 7.72
+
+
+source: 26 Draconis B, target: AC+61 26806 A, value: 0.22
+
+
+source: 26 Draconis B, target: DM+67 1014 A, value: 6.8
+
+
+source: 26 Draconis B, target: DM+67 1014 B, value: 6.8
+
+
+source: L 768-119 A, target: Ross 802 A, value: 7.51
+
+
+source: DM+16 2708 A, target: AC+18 1890-112 A, value: 6.07
+
+
+source: DM+16 2708 A, target: L 1272-21 B, value: 6.07
+
+
+source: DM+16 2708 A, target: Ross 508 A, value: 4.7
+
+
+source: DM+16 2708 A, target: DM+19 2881 A, value: 5.16
+
+
+source: DM+16 2708 A, target: DM+19 2881 B, value: 5.16
+
+
+source: DM+16 2708 A, target: Ross 52 A, value: 4.39
+
+
+source: DM+16 2708 A, target: Ross 52 B, value: 4.39
+
+
+source: DM+16 2708 A, target: Arcturus A, value: 6.07
+
+
+source: AC+32 54804 A, target: Ross 165 A, value: 7.49
+
+
+source: AC+32 54804 A, target: Ross 165 B, value: 7.49
+
+
+source: AC+32 54804 A, target: AC+20 1463-148 A, value: 5.5
+
+
+source: AC+32 54804 A, target: AC+20 1463-154 B, value: 5.5
+
+
+source: AC+32 54804 A, target: Vega A, value: 4.08
+
+
+source: AC+32 54804 B, target: Ross 165 A, value: 7.49
+
+
+source: AC+32 54804 B, target: Ross 165 B, value: 7.49
+
+
+source: AC+32 54804 B, target: AC+20 1463-148 A, value: 5.5
+
+
+source: AC+32 54804 B, target: AC+20 1463-154 B, value: 5.5
+
+
+source: AC+32 54804 B, target: Vega A, value: 4.08
+
+
+source: Ross 52 A, target: AC+18 1890-112 A, value: 6.9
+
+
+source: Ross 52 A, target: L 1272-21 B, value: 6.9
+
+
+source: Ross 52 A, target: Ross 508 A, value: 5.9
+
+
+source: Ross 52 A, target: DM+19 2881 A, value: 5.58
+
+
+source: Ross 52 A, target: DM+19 2881 B, value: 5.58
+
+
+source: Ross 52 A, target: DM+16 2708 A, value: 4.39
+
+
+source: Ross 52 A, target: Arcturus A, value: 6.2
+
+
+source: Ross 52 B, target: AC+18 1890-112 A, value: 6.9
+
+
+source: Ross 52 B, target: L 1272-21 B, value: 6.9
+
+
+source: Ross 52 B, target: Ross 508 A, value: 5.9
+
+
+source: Ross 52 B, target: DM+19 2881 A, value: 5.58
+
+
+source: Ross 52 B, target: DM+19 2881 B, value: 5.58
+
+
+source: Ross 52 B, target: DM+16 2708 A, value: 4.39
+
+
+source: Ross 52 B, target: Arcturus A, value: 6.2
+
+
+source: DM-27 14659 A, target: AC+20 76187 A, value: 7.34
+
+
+source: DM-27 14659 A, target: DM-31 17815 A, value: 4.14
+
+
+source: DM-27 14659 A, target: DM-32 16135 A, value: 4.23
+
+
+source: DM-27 14659 A, target: DM-32 16135 B, value: 4.23
+
+
+source: DM-27 14659 B, target: AC+20 76187 A, value: 7.34
+
+
+source: DM-27 14659 B, target: DM-31 17815 A, value: 4.14
+
+
+source: DM-27 14659 B, target: DM-32 16135 A, value: 4.23
+
+
+source: DM-27 14659 B, target: DM-32 16135 B, value: 4.23
+
+
+source: L 339-19 A, target: DM-37 10765 A, value: 7.59
+
+
+source: L 339-19 A, target: DM-37 10765 B, value: 7.59
+
+
+source: L 339-19 A, target: DM-46 11370 A, value: 6.96
+
+
+source: L 339-19 A, target: DM-46 11370 B, value: 6.96
+
+
+source: Vega A, target: Mu Herculis A, value: 6.98
+
+
+source: Vega A, target: Mu Herculis B, value: 6.98
+
+
+source: Vega A, target: Mu Herculis C, value: 6.98
+
+
+source: Vega A, target: DM+43 2796 A, value: 7.71
+
+
+source: Vega A, target: AC+32 54804 A, value: 4.08
+
+
+source: Vega A, target: AC+32 54804 B, value: 4.08
+
+
+source: Vega A, target: DM+45 2505 B, value: 7.54
+
+
+source: Vega A, target: Red Speck A, value: 7.54
+
+
+source: DM+45 2247 A, target: 44 I Bootis A, value: 2.53
+
+
+source: DM+45 2247 A, target: 44 I Bootis B, value: 2.53
+
+
+source: DM+45 2247 A, target: 44 I Bootis C, value: 2.53
+
+
+source: DM+45 2247 A, target: DM+47 2112 A, value: 7.22
+
+
+source: DM+45 2247 A, target: DM+47 2112 B, value: 7.22
+
+
+source: Ross 848 A, target: AC-12 2306-155 A, value: 4.59
+
+
+source: Ross 848 A, target: DM-1 2892 A, value: 5.19
+
+
+source: L 715-89 A, target: L 714-88 A, value: 5.65
+
+
+source: AC+39 60670 A, target: AC+39 57322 A, value: 7.36
+
+
+source: AC+39 60670 A, target: AC+39 57322 B, value: 7.36
+
+
+source: AC+39 60670 A, target: AC+39 57322 C, value: 7.36
+
+
+source: AC+39 60670 B, target: AC+39 57322 A, value: 7.36
+
+
+source: AC+39 60670 B, target: AC+39 57322 B, value: 7.36
+
+
+source: AC+39 60670 B, target: AC+39 57322 C, value: 7.36
+
+
+source: Wolf 1084 A, target: Eta Cephei A, value: 5.12
+
+
+source: Clarkesstar A, target: King A, value: 6.59
+
+
+source: Clarkesstar A, target: DM-3 4233 A, value: 7.63
+
+
+source: Clarkesstar A, target: Wolf 629 A, value: 0.1
+
+
+source: Clarkesstar A, target: Wolf 629 B, value: 0.1
+
+
+source: Clarkesstar A, target: 70 Ophiuchi A, value: 7.48
+
+
+source: Clarkesstar A, target: 70 Ophiuchi B, value: 7.48
+
+
+source: Clarkesstar A, target: DM+2 3482 C, value: 7.48
+
+
+source: Clarkesstar A, target: DM-26 12026 A, value: 6.65
+
+
+source: Clarkesstar A, target: DM-26 12026 B, value: 6.65
+
+
+source: Clarkesstar A, target: DM-26 12036 C, value: 6.57
+
+
+source: Clarkesstar A, target: Broward A, value: 7.43
+
+
+source: Clarkesstar A, target: DM-12 4523 B, value: 7.43
+
+
+source: DM-8 4352 B, target: King A, value: 6.59
+
+
+source: DM-8 4352 B, target: DM-3 4233 A, value: 7.63
+
+
+source: DM-8 4352 B, target: Wolf 629 A, value: 0.1
+
+
+source: DM-8 4352 B, target: Wolf 629 B, value: 0.1
+
+
+source: DM-8 4352 B, target: 70 Ophiuchi A, value: 7.48
+
+
+source: DM-8 4352 B, target: 70 Ophiuchi B, value: 7.48
+
+
+source: DM-8 4352 B, target: DM+2 3482 C, value: 7.48
+
+
+source: DM-8 4352 B, target: DM-26 12026 A, value: 6.65
+
+
+source: DM-8 4352 B, target: DM-26 12026 B, value: 6.65
+
+
+source: DM-8 4352 B, target: DM-26 12036 C, value: 6.57
+
+
+source: DM-8 4352 B, target: Broward A, value: 7.43
+
+
+source: DM-8 4352 B, target: DM-12 4523 B, value: 7.43
+
+
+source: VB 8 C, target: King A, value: 6.59
+
+
+source: VB 8 C, target: DM-3 4233 A, value: 7.63
+
+
+source: VB 8 C, target: Wolf 629 A, value: 0.1
+
+
+source: VB 8 C, target: Wolf 629 B, value: 0.1
+
+
+source: VB 8 C, target: 70 Ophiuchi A, value: 7.48
+
+
+source: VB 8 C, target: 70 Ophiuchi B, value: 7.48
+
+
+source: VB 8 C, target: DM+2 3482 C, value: 7.48
+
+
+source: VB 8 C, target: DM-26 12026 A, value: 6.65
+
+
+source: VB 8 C, target: DM-26 12026 B, value: 6.65
+
+
+source: VB 8 C, target: DM-26 12036 C, value: 6.57
+
+
+source: VB 8 C, target: Broward A, value: 7.43
+
+
+source: VB 8 C, target: DM-12 4523 B, value: 7.43
+
+
+source: Wolf 629 A, target: King A, value: 6.53
+
+
+source: Wolf 629 A, target: DM-3 4233 A, value: 7.61
+
+
+source: Wolf 629 A, target: Clarkesstar A, value: 0.1
+
+
+source: Wolf 629 A, target: DM-8 4352 B, value: 0.1
+
+
+source: Wolf 629 A, target: VB 8 C, value: 0.1
+
+
+source: Wolf 629 A, target: 70 Ophiuchi A, value: 7.43
+
+
+source: Wolf 629 A, target: 70 Ophiuchi B, value: 7.43
+
+
+source: Wolf 629 A, target: DM+2 3482 C, value: 7.43
+
+
+source: Wolf 629 A, target: DM-26 12026 A, value: 6.72
+
+
+source: Wolf 629 A, target: DM-26 12026 B, value: 6.72
+
+
+source: Wolf 629 A, target: DM-26 12036 C, value: 6.65
+
+
+source: Wolf 629 A, target: Broward A, value: 7.43
+
+
+source: Wolf 629 A, target: DM-12 4523 B, value: 7.43
+
+
+source: Wolf 629 B, target: King A, value: 6.53
+
+
+source: Wolf 629 B, target: DM-3 4233 A, value: 7.61
+
+
+source: Wolf 629 B, target: Clarkesstar A, value: 0.1
+
+
+source: Wolf 629 B, target: DM-8 4352 B, value: 0.1
+
+
+source: Wolf 629 B, target: VB 8 C, value: 0.1
+
+
+source: Wolf 629 B, target: 70 Ophiuchi A, value: 7.43
+
+
+source: Wolf 629 B, target: 70 Ophiuchi B, value: 7.43
+
+
+source: Wolf 629 B, target: DM+2 3482 C, value: 7.43
+
+
+source: Wolf 629 B, target: DM-26 12026 A, value: 6.72
+
+
+source: Wolf 629 B, target: DM-26 12026 B, value: 6.72
+
+
+source: Wolf 629 B, target: DM-26 12036 C, value: 6.65
+
+
+source: Wolf 629 B, target: Broward A, value: 7.43
+
+
+source: Wolf 629 B, target: DM-12 4523 B, value: 7.43
+
+
+source: AC+17 536-125 A, target: Iota Pegasi A, value: 5.35
+
+
+source: AC+17 536-125 A, target: Iota Pegasi B, value: 5.35
+
+
+source: AC+17 536-125 A, target: AC+16 734-144 A, value: 4.96
+
+
+source: Iota Pegasi A, target: DM+27 4120 A, value: 5.88
+
+
+source: Iota Pegasi A, target: DM+27 4120 B, value: 5.88
+
+
+source: Iota Pegasi A, target: AC+17 536-125 A, value: 5.35
+
+
+source: Iota Pegasi B, target: DM+27 4120 A, value: 5.88
+
+
+source: Iota Pegasi B, target: DM+27 4120 B, value: 5.88
+
+
+source: Iota Pegasi B, target: AC+17 536-125 A, value: 5.35
+
+
+source: DM-34 11626 A, target: DM-37 10765 A, value: 5.41
+
+
+source: DM-34 11626 A, target: DM-37 10765 B, value: 5.41
+
+
+source: DM-34 11626 A, target: DM-46 11370 A, value: 5.12
+
+
+source: DM-34 11626 A, target: DM-46 11370 B, value: 5.12
+
+
+source: DM-34 11626 A, target: DM-26 12026 A, value: 6.29
+
+
+source: DM-34 11626 A, target: DM-26 12026 B, value: 6.29
+
+
+source: DM-34 11626 A, target: DM-26 12036 C, value: 6.38
+
+
+source: DM-34 11626 B, target: DM-37 10765 A, value: 5.41
+
+
+source: DM-34 11626 B, target: DM-37 10765 B, value: 5.41
+
+
+source: DM-34 11626 B, target: DM-46 11370 A, value: 5.12
+
+
+source: DM-34 11626 B, target: DM-46 11370 B, value: 5.12
+
+
+source: DM-34 11626 B, target: DM-26 12026 A, value: 6.29
+
+
+source: DM-34 11626 B, target: DM-26 12026 B, value: 6.29
+
+
+source: DM-34 11626 B, target: DM-26 12036 C, value: 6.38
+
+
+source: DM-34 11626 C, target: DM-37 10765 A, value: 5.41
+
+
+source: DM-34 11626 C, target: DM-37 10765 B, value: 5.41
+
+
+source: DM-34 11626 C, target: DM-46 11370 A, value: 5.12
+
+
+source: DM-34 11626 C, target: DM-46 11370 B, value: 5.12
+
+
+source: DM-34 11626 C, target: DM-26 12026 A, value: 6.29
+
+
+source: DM-34 11626 C, target: DM-26 12026 B, value: 6.29
+
+
+source: DM-34 11626 C, target: DM-26 12036 C, value: 6.38
+
+
+source: DM-31 17815 A, target: AC+20 76187 A, value: 7.15
+
+
+source: DM-31 17815 A, target: DM-27 14659 A, value: 4.14
+
+
+source: DM-31 17815 A, target: DM-27 14659 B, value: 4.14
+
+
+source: DM-31 17815 A, target: DM-32 16135 A, value: 0.64
+
+
+source: DM-31 17815 A, target: DM-32 16135 B, value: 0.64
+
+
+source: DM-32 16135 A, target: AC+20 76187 A, value: 7.64
+
+
+source: DM-32 16135 A, target: DM-27 14659 A, value: 4.23
+
+
+source: DM-32 16135 A, target: DM-27 14659 B, value: 4.23
+
+
+source: DM-32 16135 A, target: DM-31 17815 A, value: 0.64
+
+
+source: DM-32 16135 B, target: AC+20 76187 A, value: 7.64
+
+
+source: DM-32 16135 B, target: DM-27 14659 A, value: 4.23
+
+
+source: DM-32 16135 B, target: DM-27 14659 B, value: 4.23
+
+
+source: DM-32 16135 B, target: DM-31 17815 A, value: 0.64
+
+
+source: 44 I Bootis A, target: DM+45 2247 A, value: 2.53
+
+
+source: 44 I Bootis A, target: DM+47 2112 A, value: 7.54
+
+
+source: 44 I Bootis A, target: DM+47 2112 B, value: 7.54
+
+
+source: 44 I Bootis B, target: DM+45 2247 A, value: 2.53
+
+
+source: 44 I Bootis B, target: DM+47 2112 A, value: 7.54
+
+
+source: 44 I Bootis B, target: DM+47 2112 B, value: 7.54
+
+
+source: 44 I Bootis C, target: DM+45 2247 A, value: 2.53
+
+
+source: 44 I Bootis C, target: DM+47 2112 A, value: 7.54
+
+
+source: 44 I Bootis C, target: DM+47 2112 B, value: 7.54
+
+
+source: AC+16 734-144 A, target: AC+17 536-125 A, value: 4.96
+
+
+source: Arcturus A, target: DM+19 2881 A, value: 6.68
+
+
+source: Arcturus A, target: DM+19 2881 B, value: 6.68
+
+
+source: Arcturus A, target: DM+16 2708 A, value: 6.07
+
+
+source: Arcturus A, target: Ross 52 A, value: 6.2
+
+
+source: Arcturus A, target: Ross 52 B, value: 6.2
+
+
+source: Arcturus A, target: Eta Bootis A, value: 4.53
+
+
+source: Arcturus A, target: Eta Bootis B, value: 4.53
+
+
+source: Arcturus A, target: DM+18 2776 A, value: 4.75
+
+
+source: Arcturus A, target: DM+27 2296 B, value: 7.07
+
+
+source: Arcturus A, target: Hochbaden A, value: 7.07
+
+
+source: DM-37 10765 A, target: L 339-19 A, value: 7.59
+
+
+source: DM-37 10765 A, target: DM-34 11626 A, value: 5.41
+
+
+source: DM-37 10765 A, target: DM-34 11626 B, value: 5.41
+
+
+source: DM-37 10765 A, target: DM-34 11626 C, value: 5.41
+
+
+source: DM-37 10765 A, target: DM-46 11370 A, value: 6.12
+
+
+source: DM-37 10765 A, target: DM-46 11370 B, value: 6.12
+
+
+source: DM-37 10765 A, target: DM-40 9712 A, value: 6.78
+
+
+source: DM-37 10765 B, target: L 339-19 A, value: 7.59
+
+
+source: DM-37 10765 B, target: DM-34 11626 A, value: 5.41
+
+
+source: DM-37 10765 B, target: DM-34 11626 B, value: 5.41
+
+
+source: DM-37 10765 B, target: DM-34 11626 C, value: 5.41
+
+
+source: DM-37 10765 B, target: DM-46 11370 A, value: 6.12
+
+
+source: DM-37 10765 B, target: DM-46 11370 B, value: 6.12
+
+
+source: DM-37 10765 B, target: DM-40 9712 A, value: 6.78
+
+
+source: DM+4 4048 A, target: 70 Ophiuchi A, value: 5.87
+
+
+source: DM+4 4048 A, target: 70 Ophiuchi B, value: 5.87
+
+
+source: DM+4 4048 A, target: DM+2 3482 C, value: 5.87
+
+
+source: DM+4 4048 A, target: Altair A, value: 3.71
+
+
+source: VB 10 B, target: 70 Ophiuchi A, value: 5.87
+
+
+source: VB 10 B, target: 70 Ophiuchi B, value: 5.87
+
+
+source: VB 10 B, target: DM+2 3482 C, value: 5.87
+
+
+source: VB 10 B, target: Altair A, value: 3.71
+
+
+source: DM-1 2892 A, target: Ross 848 A, value: 5.19
+
+
+source: DM-1 2892 A, target: Ross 486 A, value: 6.38
+
+
+source: DM-1 2892 A, target: Ross 486 B, value: 6.38
+
+
+source: DM-51 12998 A, target: DM-47 13928 A, value: 3.73
+
+
+source: DM-51 12998 A, target: DM-51 13128 A, value: 2.69
+
+
+source: DM-51 12998 A, target: L 283-7 B, value: 2.76
+
+
+source: DM-51 12998 A, target: DM-58 8327 A, value: 8
+
+
+source: Theta Bootis A, target: G200-38 C, value: 1.17
+
+
+source: Theta Bootis A, target: DM+50 2030 A, value: 5.6
+
+
+source: Theta Bootis B, target: G200-38 C, value: 1.17
+
+
+source: Theta Bootis B, target: DM+50 2030 A, value: 5.6
+
+
+source: DM-46 11370 A, target: L 339-19 A, value: 6.96
+
+
+source: DM-46 11370 A, target: DM-34 11626 A, value: 5.12
+
+
+source: DM-46 11370 A, target: DM-34 11626 B, value: 5.12
+
+
+source: DM-46 11370 A, target: DM-34 11626 C, value: 5.12
+
+
+source: DM-46 11370 A, target: DM-37 10765 A, value: 6.12
+
+
+source: DM-46 11370 A, target: DM-37 10765 B, value: 6.12
+
+
+source: DM-46 11370 A, target: D'Artagnon A, value: 7.16
+
+
+source: DM-46 11370 B, target: L 339-19 A, value: 6.96
+
+
+source: DM-46 11370 B, target: DM-34 11626 A, value: 5.12
+
+
+source: DM-46 11370 B, target: DM-34 11626 B, value: 5.12
+
+
+source: DM-46 11370 B, target: DM-34 11626 C, value: 5.12
+
+
+source: DM-46 11370 B, target: DM-37 10765 A, value: 6.12
+
+
+source: DM-46 11370 B, target: DM-37 10765 B, value: 6.12
+
+
+source: DM-46 11370 B, target: D'Artagnon A, value: 7.16
+
+
+source: DM-47 13928 A, target: DM-51 12998 A, value: 3.73
+
+
+source: DM-47 13928 A, target: DM-51 13128 A, value: 4.11
+
+
+source: DM-47 13928 A, target: L 283-7 B, value: 4.12
+
+
+source: DM-47 13928 A, target: DM-54 9222 A, value: 7.59
+
+
+source: DM-47 13928 A, target: DM-54 9222 B, value: 7.59
+
+
+source: G200-38 C, target: Theta Bootis A, value: 1.17
+
+
+source: G200-38 C, target: Theta Bootis B, value: 1.17
+
+
+source: G200-38 C, target: DM+50 2030 A, value: 5.99
+
+
+source: 70 Ophiuchi A, target: DM-3 4233 A, value: 7.18
+
+
+source: 70 Ophiuchi A, target: Clarkesstar A, value: 7.48
+
+
+source: 70 Ophiuchi A, target: DM-8 4352 B, value: 7.48
+
+
+source: 70 Ophiuchi A, target: VB 8 C, value: 7.48
+
+
+source: 70 Ophiuchi A, target: Wolf 629 A, value: 7.43
+
+
+source: 70 Ophiuchi A, target: Wolf 629 B, value: 7.43
+
+
+source: 70 Ophiuchi A, target: DM+4 4048 A, value: 5.87
+
+
+source: 70 Ophiuchi A, target: VB 10 B, value: 5.87
+
+
+source: 70 Ophiuchi A, target: Altair A, value: 7.72
+
+
+source: 70 Ophiuchi B, target: DM-3 4233 A, value: 7.18
+
+
+source: 70 Ophiuchi B, target: Clarkesstar A, value: 7.48
+
+
+source: 70 Ophiuchi B, target: DM-8 4352 B, value: 7.48
+
+
+source: 70 Ophiuchi B, target: VB 8 C, value: 7.48
+
+
+source: 70 Ophiuchi B, target: Wolf 629 A, value: 7.43
+
+
+source: 70 Ophiuchi B, target: Wolf 629 B, value: 7.43
+
+
+source: 70 Ophiuchi B, target: DM+4 4048 A, value: 5.87
+
+
+source: 70 Ophiuchi B, target: VB 10 B, value: 5.87
+
+
+source: 70 Ophiuchi B, target: Altair A, value: 7.72
+
+
+source: DM+2 3482 C, target: DM-3 4233 A, value: 7.18
+
+
+source: DM+2 3482 C, target: Clarkesstar A, value: 7.48
+
+
+source: DM+2 3482 C, target: DM-8 4352 B, value: 7.48
+
+
+source: DM+2 3482 C, target: VB 8 C, value: 7.48
+
+
+source: DM+2 3482 C, target: Wolf 629 A, value: 7.43
+
+
+source: DM+2 3482 C, target: Wolf 629 B, value: 7.43
+
+
+source: DM+2 3482 C, target: DM+4 4048 A, value: 5.87
+
+
+source: DM+2 3482 C, target: VB 10 B, value: 5.87
+
+
+source: DM+2 3482 C, target: Altair A, value: 7.72
+
+
+source: DM+67 1014 A, target: AC+61 26806 A, value: 6.95
+
+
+source: DM+67 1014 A, target: 26 Draconis A, value: 6.8
+
+
+source: DM+67 1014 A, target: 26 Draconis B, value: 6.8
+
+
+source: DM+67 1014 A, target: AC+70 8247 A, value: 7.6
+
+
+source: DM+67 1014 B, target: AC+61 26806 A, value: 6.95
+
+
+source: DM+67 1014 B, target: 26 Draconis A, value: 6.8
+
+
+source: DM+67 1014 B, target: 26 Draconis B, value: 6.8
+
+
+source: DM+67 1014 B, target: AC+70 8247 A, value: 7.6
+
+
+source: DM+45 2505 B, target: Mu Herculis A, value: 7.62
+
+
+source: DM+45 2505 B, target: Mu Herculis B, value: 7.62
+
+
+source: DM+45 2505 B, target: Mu Herculis C, value: 7.62
+
+
+source: DM+45 2505 B, target: Vega A, value: 7.54
+
+
+source: DM+45 2505 B, target: Ellis A, value: 4.7
+
+
+source: Red Speck A, target: Mu Herculis A, value: 7.62
+
+
+source: Red Speck A, target: Mu Herculis B, value: 7.62
+
+
+source: Red Speck A, target: Mu Herculis C, value: 7.62
+
+
+source: Red Speck A, target: Vega A, value: 7.54
+
+
+source: Red Speck A, target: Ellis A, value: 4.7
+
+
+source: Eta Cephei A, target: Wolf 1084 A, value: 5.12
+
+
+source: Eta Cephei A, target: DM+66 1281 A, value: 5.83
+
+
+source: Eta Cephei A, target: DM+62 1916 A, value: 5.08
+
+
+source: DM+0 4810 A, target: Wolf 1561 A, value: 6.03
+
+
+source: DM+0 4810 A, target: Wolf 1561 B, value: 6.03
+
+
+source: DM+0 4810 A, target: DM-5 5715 A, value: 4.39
+
+
+source: DM-7 4003 A, target: DM-11 3759 A, value: 4.5
+
+
+source: DM-7 4003 A, target: DM-20 4123 B, value: 5.93
+
+
+source: DM-7 4003 A, target: DM-20 4125 A, value: 5.93
+
+
+source: DM+66 1281 A, target: Eta Cephei A, value: 5.83
+
+
+source: DM+66 1281 A, target: DM+62 1916 A, value: 6.32
+
+
+source: DM-26 12026 A, target: Clarkesstar A, value: 6.65
+
+
+source: DM-26 12026 A, target: DM-8 4352 B, value: 6.65
+
+
+source: DM-26 12026 A, target: VB 8 C, value: 6.65
+
+
+source: DM-26 12026 A, target: Wolf 629 A, value: 6.72
+
+
+source: DM-26 12026 A, target: Wolf 629 B, value: 6.72
+
+
+source: DM-26 12026 A, target: DM-34 11626 A, value: 6.29
+
+
+source: DM-26 12026 A, target: DM-34 11626 B, value: 6.29
+
+
+source: DM-26 12026 A, target: DM-34 11626 C, value: 6.29
+
+
+source: DM-26 12026 A, target: DM-26 12036 C, value: 0.1
+
+
+source: DM-26 12026 A, target: Broward A, value: 6.61
+
+
+source: DM-26 12026 A, target: DM-12 4523 B, value: 6.61
+
+
+source: DM-26 12026 A, target: Davout A, value: 5.78
+
+
+source: DM-26 12026 A, target: DM-46 11540 A, value: 6.37
+
+
+source: DM-26 12026 B, target: Clarkesstar A, value: 6.65
+
+
+source: DM-26 12026 B, target: DM-8 4352 B, value: 6.65
+
+
+source: DM-26 12026 B, target: VB 8 C, value: 6.65
+
+
+source: DM-26 12026 B, target: Wolf 629 A, value: 6.72
+
+
+source: DM-26 12026 B, target: Wolf 629 B, value: 6.72
+
+
+source: DM-26 12026 B, target: DM-34 11626 A, value: 6.29
+
+
+source: DM-26 12026 B, target: DM-34 11626 B, value: 6.29
+
+
+source: DM-26 12026 B, target: DM-34 11626 C, value: 6.29
+
+
+source: DM-26 12026 B, target: DM-26 12036 C, value: 0.1
+
+
+source: DM-26 12026 B, target: Broward A, value: 6.61
+
+
+source: DM-26 12026 B, target: DM-12 4523 B, value: 6.61
+
+
+source: DM-26 12026 B, target: Davout A, value: 5.78
+
+
+source: DM-26 12026 B, target: DM-46 11540 A, value: 6.37
+
+
+source: DM-26 12036 C, target: Clarkesstar A, value: 6.57
+
+
+source: DM-26 12036 C, target: DM-8 4352 B, value: 6.57
+
+
+source: DM-26 12036 C, target: VB 8 C, value: 6.57
+
+
+source: DM-26 12036 C, target: Wolf 629 A, value: 6.65
+
+
+source: DM-26 12036 C, target: Wolf 629 B, value: 6.65
+
+
+source: DM-26 12036 C, target: DM-34 11626 A, value: 6.38
+
+
+source: DM-26 12036 C, target: DM-34 11626 B, value: 6.38
+
+
+source: DM-26 12036 C, target: DM-34 11626 C, value: 6.38
+
+
+source: DM-26 12036 C, target: DM-26 12026 A, value: 0.1
+
+
+source: DM-26 12036 C, target: DM-26 12026 B, value: 0.1
+
+
+source: DM-26 12036 C, target: Broward A, value: 6.53
+
+
+source: DM-26 12036 C, target: DM-12 4523 B, value: 6.53
+
+
+source: DM-26 12036 C, target: Davout A, value: 5.82
+
+
+source: DM-26 12036 C, target: DM-46 11540 A, value: 6.42
+
+
+source: DM-51 13128 A, target: DM-51 12998 A, value: 2.69
+
+
+source: DM-51 13128 A, target: DM-47 13928 A, value: 4.11
+
+
+source: DM-51 13128 A, target: L 283-7 B, value: 0.1
+
+
+source: DM-51 13128 A, target: DM-58 8327 A, value: 6.4
+
+
+source: L 283-7 B, target: DM-51 12998 A, value: 2.76
+
+
+source: L 283-7 B, target: DM-47 13928 A, value: 4.12
+
+
+source: L 283-7 B, target: DM-51 13128 A, value: 0.1
+
+
+source: L 283-7 B, target: DM-58 8327 A, value: 6.44
+
+
+source: DM+62 1916 A, target: Eta Cephei A, value: 5.08
+
+
+source: DM+62 1916 A, target: DM+66 1281 A, value: 6.32
+
+
+source: Wolf 922 A, target: DM-5 5715 A, value: 6.9
+
+
+source: DM-30 19175 A, target: DM-30 19255 A, value: 3.02
+
+
+source: Altair A, target: DM+4 4048 A, value: 3.71
+
+
+source: Altair A, target: VB 10 B, value: 3.71
+
+
+source: Altair A, target: 70 Ophiuchi A, value: 7.72
+
+
+source: Altair A, target: 70 Ophiuchi B, value: 7.72
+
+
+source: Altair A, target: DM+2 3482 C, value: 7.72
+
+
+source: Ellis A, target: DM+45 2505 B, value: 4.7
+
+
+source: Ellis A, target: Red Speck A, value: 4.7
+
+
+source: Eta Bootis A, target: Arcturus A, value: 4.53
+
+
+source: Eta Bootis A, target: DM+18 2776 A, value: 2.05
+
+
+source: Eta Bootis A, target: DM+27 2296 B, value: 4.83
+
+
+source: Eta Bootis A, target: Hochbaden A, value: 4.83
+
+
+source: Eta Bootis A, target: DM+17 2611 A, value: 7.78
+
+
+source: Eta Bootis A, target: DM+17 2611 B, value: 7.78
+
+
+source: Eta Bootis B, target: Arcturus A, value: 4.53
+
+
+source: Eta Bootis B, target: DM+18 2776 A, value: 2.05
+
+
+source: Eta Bootis B, target: DM+27 2296 B, value: 4.83
+
+
+source: Eta Bootis B, target: Hochbaden A, value: 4.83
+
+
+source: Eta Bootis B, target: DM+17 2611 A, value: 7.78
+
+
+source: Eta Bootis B, target: DM+17 2611 B, value: 7.78
+
+
+source: Ross 486 A, target: DM-1 2892 A, value: 6.38
+
+
+source: Ross 486 A, target: Ross 974 A, value: 5.16
+
+
+source: Ross 486 A, target: Wolf 457 A, value: 6.24
+
+
+source: Ross 486 A, target: Wolf 461 A, value: 7.26
+
+
+source: Ross 486 A, target: Wolf 461 B, value: 7.26
+
+
+source: Ross 486 A, target: DM+0 2989 A, value: 6.98
+
+
+source: Ross 486 B, target: DM-1 2892 A, value: 6.38
+
+
+source: Ross 486 B, target: Ross 974 A, value: 5.16
+
+
+source: Ross 486 B, target: Wolf 457 A, value: 6.24
+
+
+source: Ross 486 B, target: Wolf 461 A, value: 7.26
+
+
+source: Ross 486 B, target: Wolf 461 B, value: 7.26
+
+
+source: Ross 486 B, target: DM+0 2989 A, value: 6.98
+
+
+source: DM+47 2112 A, target: DM+45 2247 A, value: 7.22
+
+
+source: DM+47 2112 A, target: 44 I Bootis A, value: 7.54
+
+
+source: DM+47 2112 A, target: 44 I Bootis B, value: 7.54
+
+
+source: DM+47 2112 A, target: 44 I Bootis C, value: 7.54
+
+
+source: DM+47 2112 A, target: DM+50 2030 A, value: 5.01
+
+
+source: DM+47 2112 B, target: DM+45 2247 A, value: 7.22
+
+
+source: DM+47 2112 B, target: 44 I Bootis A, value: 7.54
+
+
+source: DM+47 2112 B, target: 44 I Bootis B, value: 7.54
+
+
+source: DM+47 2112 B, target: 44 I Bootis C, value: 7.54
+
+
+source: DM+47 2112 B, target: DM+50 2030 A, value: 5.01
+
+
+source: Xi Bootis A, target: DM+15 2620 A, value: 7.82
+
+
+source: Xi Bootis B, target: DM+15 2620 A, value: 7.82
+
+
+source: Xi Bootis C, target: DM+15 2620 A, value: 7.82
+
+
+source: DM+18 2776 A, target: Arcturus A, value: 4.75
+
+
+source: DM+18 2776 A, target: Eta Bootis A, value: 2.05
+
+
+source: DM+18 2776 A, target: Eta Bootis B, value: 2.05
+
+
+source: DM+18 2776 A, target: DM+27 2296 B, value: 5.67
+
+
+source: DM+18 2776 A, target: Hochbaden A, value: 5.67
+
+
+source: DM+18 2776 A, target: DM+17 2611 A, value: 5.77
+
+
+source: DM+18 2776 A, target: DM+17 2611 B, value: 5.77
+
+
+source: Wolf 1561 A, target: DM+0 4810 A, value: 6.03
+
+
+source: Wolf 1561 A, target: DM-5 5715 A, value: 3.54
+
+
+source: Wolf 1561 B, target: DM+0 4810 A, value: 6.03
+
+
+source: Wolf 1561 B, target: DM-5 5715 A, value: 3.54
+
+
+source: DM-5 5715 A, target: DM+0 4810 A, value: 4.39
+
+
+source: DM-5 5715 A, target: Wolf 922 A, value: 6.9
+
+
+source: DM-5 5715 A, target: Wolf 1561 A, value: 3.54
+
+
+source: DM-5 5715 A, target: Wolf 1561 B, value: 3.54
+
+
+source: DM-30 19255 A, target: DM-30 19175 A, value: 3.02
+
+
+source: DM-30 19255 A, target: DM-26 16501 A, value: 6.49
+
+
+source: DM+10 2531 A, target: DM+17 2611 A, value: 7.11
+
+
+source: DM+10 2531 A, target: DM+17 2611 B, value: 7.11
+
+
+source: DM+10 2531 A, target: Wolf 457 A, value: 5.75
+
+
+source: DM+10 2531 A, target: DM+13 2618 A, value: 4.34
+
+
+source: DM+10 2531 A, target: Wolf 461 A, value: 7.16
+
+
+source: DM+10 2531 A, target: Wolf 461 B, value: 7.16
+
+
+source: DM+10 2531 A, target: Wolf 433 A, value: 7.28
+
+
+source: L 355-62 A, target: DM-54 9222 A, value: 6.04
+
+
+source: L 355-62 A, target: DM-54 9222 B, value: 6.04
+
+
+source: DM+50 2030 A, target: Theta Bootis A, value: 5.6
+
+
+source: DM+50 2030 A, target: Theta Bootis B, value: 5.6
+
+
+source: DM+50 2030 A, target: G200-38 C, value: 5.99
+
+
+source: DM+50 2030 A, target: DM+47 2112 A, value: 5.01
+
+
+source: DM+50 2030 A, target: DM+47 2112 B, value: 5.01
+
+
+source: AC+70 8247 A, target: DM+67 1014 A, value: 7.6
+
+
+source: AC+70 8247 A, target: DM+67 1014 B, value: 7.6
+
+
+source: AC+70 8247 A, target: DM+76 785 A, value: 6.69
+
+
+source: DM+67 935 A, target: DM+67 935 B, value: 0.1
+
+
+source: DM+67 935 B, target: DM+67 935 A, value: 0.1
+
+
+source: AC+17 534-105 A, target: DM+20 5046 A, value: 4.49
+
+
+source: AC+17 534-105 A, target: DM+15 4733 A, value: 7.96
+
+
+source: AC+17 534-105 A, target: DM+15 4733 B, value: 7.96
+
+
+source: DM-36 13940 A, target: L 347-14 A, value: 4.31
+
+
+source: DM-36 13940 A, target: DM-45 13677 A, value: 3.41
+
+
+source: DM-36 13940 A, target: Xiuning A, value: 6.54
+
+
+source: DM-36 13940 B, target: L 347-14 A, value: 4.31
+
+
+source: DM-36 13940 B, target: DM-45 13677 A, value: 3.41
+
+
+source: DM-36 13940 B, target: Xiuning A, value: 6.54
+
+
+source: DM+27 2296 B, target: Arcturus A, value: 7.07
+
+
+source: DM+27 2296 B, target: Eta Bootis A, value: 4.83
+
+
+source: DM+27 2296 B, target: Eta Bootis B, value: 4.83
+
+
+source: DM+27 2296 B, target: DM+18 2776 A, value: 5.67
+
+
+source: DM+27 2296 B, target: DM+36 2393 A, value: 4.94
+
+
+source: DM+27 2296 B, target: DM+35 2436 A, value: 6
+
+
+source: DM+27 2296 B, target: DM+35 2436 B, value: 6
+
+
+source: DM+27 2296 B, target: Beta Comae Berenices A, value: 5.95
+
+
+source: Hochbaden A, target: Arcturus A, value: 7.07
+
+
+source: Hochbaden A, target: Eta Bootis A, value: 4.83
+
+
+source: Hochbaden A, target: Eta Bootis B, value: 4.83
+
+
+source: Hochbaden A, target: DM+18 2776 A, value: 5.67
+
+
+source: Hochbaden A, target: DM+36 2393 A, value: 4.94
+
+
+source: Hochbaden A, target: DM+35 2436 A, value: 6
+
+
+source: Hochbaden A, target: DM+35 2436 B, value: 6
+
+
+source: Hochbaden A, target: Beta Comae Berenices A, value: 5.95
+
+
+source: DM-11 3759 A, target: DM-7 4003 A, value: 4.5
+
+
+source: DM-11 3759 A, target: DM-20 4123 B, value: 4.18
+
+
+source: DM-11 3759 A, target: DM-20 4125 A, value: 4.18
+
+
+source: L 347-14 A, target: DM-36 13940 A, value: 4.31
+
+
+source: L 347-14 A, target: DM-36 13940 B, value: 4.31
+
+
+source: L 347-14 A, target: DM-45 13677 A, value: 3.34
+
+
+source: L 347-14 A, target: Davout A, value: 6.37
+
+
+source: L 347-14 A, target: D'Artagnon A, value: 6.12
+
+
+source: L 347-14 A, target: DM-46 11540 A, value: 6.64
+
+
+source: L 347-14 A, target: Delta Pavonis A, value: 6.9
+
+
+source: L 347-14 A, target: Xiuning A, value: 7.34
+
+
+source: DM+20 5046 A, target: AC+17 534-105 A, value: 4.49
+
+
+source: DM+20 5046 A, target: DM+15 4733 A, value: 6.6
+
+
+source: DM+20 5046 A, target: DM+15 4733 B, value: 6.6
+
+
+source: Broward A, target: Clarkesstar A, value: 7.43
+
+
+source: Broward A, target: DM-8 4352 B, value: 7.43
+
+
+source: Broward A, target: VB 8 C, value: 7.43
+
+
+source: Broward A, target: Wolf 629 A, value: 7.43
+
+
+source: Broward A, target: Wolf 629 B, value: 7.43
+
+
+source: Broward A, target: DM-26 12026 A, value: 6.61
+
+
+source: Broward A, target: DM-26 12026 B, value: 6.61
+
+
+source: Broward A, target: DM-26 12036 C, value: 6.53
+
+
+source: Broward A, target: Serurier A, value: 7.62
+
+
+source: DM-12 4523 B, target: Clarkesstar A, value: 7.43
+
+
+source: DM-12 4523 B, target: DM-8 4352 B, value: 7.43
+
+
+source: DM-12 4523 B, target: VB 8 C, value: 7.43
+
+
+source: DM-12 4523 B, target: Wolf 629 A, value: 7.43
+
+
+source: DM-12 4523 B, target: Wolf 629 B, value: 7.43
+
+
+source: DM-12 4523 B, target: DM-26 12026 A, value: 6.61
+
+
+source: DM-12 4523 B, target: DM-26 12026 B, value: 6.61
+
+
+source: DM-12 4523 B, target: DM-26 12036 C, value: 6.53
+
+
+source: DM-12 4523 B, target: Serurier A, value: 7.62
+
+
+source: DM-45 13677 A, target: DM-36 13940 A, value: 3.41
+
+
+source: DM-45 13677 A, target: DM-36 13940 B, value: 3.41
+
+
+source: DM-45 13677 A, target: L 347-14 A, value: 3.34
+
+
+source: DM-45 13677 A, target: Delta Pavonis A, value: 7.08
+
+
+source: DM-45 13677 A, target: Xiuning A, value: 6.27
+
+
+source: DM-20 4123 B, target: DM-7 4003 A, value: 5.93
+
+
+source: DM-20 4123 B, target: DM-11 3759 A, value: 4.18
+
+
+source: DM-20 4123 B, target: DM-40 9712 A, value: 6.99
+
+
+source: DM-20 4125 A, target: DM-7 4003 A, value: 5.93
+
+
+source: DM-20 4125 A, target: DM-11 3759 A, value: 4.18
+
+
+source: DM-20 4125 A, target: DM-40 9712 A, value: 6.99
+
+
+source: DM-40 9712 A, target: DM-37 10765 A, value: 6.78
+
+
+source: DM-40 9712 A, target: DM-37 10765 B, value: 6.78
+
+
+source: DM-40 9712 A, target: DM-20 4123 B, value: 6.99
+
+
+source: DM-40 9712 A, target: DM-20 4125 A, value: 6.99
+
+
+source: DM-40 9712 A, target: Davout A, value: 7.88
+
+
+source: DM-40 9712 A, target: DM-46 11540 A, value: 7.57
+
+
+source: DM+17 2611 A, target: Eta Bootis A, value: 7.78
+
+
+source: DM+17 2611 A, target: Eta Bootis B, value: 7.78
+
+
+source: DM+17 2611 A, target: DM+18 2776 A, value: 5.77
+
+
+source: DM+17 2611 A, target: DM+10 2531 A, value: 7.11
+
+
+source: DM+17 2611 A, target: DM+13 2618 A, value: 4.65
+
+
+source: DM+17 2611 A, target: Wolf 461 A, value: 7.83
+
+
+source: DM+17 2611 A, target: Wolf 461 B, value: 7.83
+
+
+source: DM+17 2611 A, target: Wolf 433 A, value: 7.47
+
+
+source: DM+17 2611 B, target: Eta Bootis A, value: 7.78
+
+
+source: DM+17 2611 B, target: Eta Bootis B, value: 7.78
+
+
+source: DM+17 2611 B, target: DM+18 2776 A, value: 5.77
+
+
+source: DM+17 2611 B, target: DM+10 2531 A, value: 7.11
+
+
+source: DM+17 2611 B, target: DM+13 2618 A, value: 4.65
+
+
+source: DM+17 2611 B, target: Wolf 461 A, value: 7.83
+
+
+source: DM+17 2611 B, target: Wolf 461 B, value: 7.83
+
+
+source: DM+17 2611 B, target: Wolf 433 A, value: 7.47
+
+
+source: Davout A, target: DM-26 12026 A, value: 5.78
+
+
+source: Davout A, target: DM-26 12026 B, value: 5.78
+
+
+source: Davout A, target: DM-26 12036 C, value: 5.82
+
+
+source: Davout A, target: L 347-14 A, value: 6.37
+
+
+source: Davout A, target: DM-40 9712 A, value: 7.88
+
+
+source: Davout A, target: D'Artagnon A, value: 5.55
+
+
+source: Davout A, target: DM-46 11540 A, value: 0.78
+
+
+source: Davout A, target: Serurier A, value: 7.81
+
+
+source: DM-60 7821 A, target: DM-58 8327 A, value: 6.67
+
+
+source: DM-60 7821 A, target: DM-54 9222 A, value: 4.96
+
+
+source: DM-60 7821 A, target: DM-54 9222 B, value: 4.96
+
+
+source: DM-60 7821 A, target: L 119-21 A, value: 6.15
+
+
+source: Ross 974 A, target: Ross 486 A, value: 5.16
+
+
+source: Ross 974 A, target: Ross 486 B, value: 5.16
+
+
+source: Ross 974 A, target: Wolf 457 A, value: 4.3
+
+
+source: Ross 974 A, target: Wolf 461 A, value: 7.3
+
+
+source: Ross 974 A, target: Wolf 461 B, value: 7.3
+
+
+source: Ross 974 A, target: DM+0 2989 A, value: 5.96
+
+
+source: DM-58 8327 A, target: DM-51 12998 A, value: 8
+
+
+source: DM-58 8327 A, target: DM-51 13128 A, value: 6.4
+
+
+source: DM-58 8327 A, target: L 283-7 B, value: 6.44
+
+
+source: DM-58 8327 A, target: DM-60 7821 A, value: 6.67
+
+
+source: D'Artagnon A, target: DM-46 11370 A, value: 7.16
+
+
+source: D'Artagnon A, target: DM-46 11370 B, value: 7.16
+
+
+source: D'Artagnon A, target: L 347-14 A, value: 6.12
+
+
+source: D'Artagnon A, target: Davout A, value: 5.55
+
+
+source: D'Artagnon A, target: DM-46 11540 A, value: 5.16
+
+
+source: D'Artagnon A, target: Delta Pavonis A, value: 6.1
+
+
+source: DM-54 9222 A, target: DM-47 13928 A, value: 7.59
+
+
+source: DM-54 9222 A, target: L 355-62 A, value: 6.04
+
+
+source: DM-54 9222 A, target: DM-60 7821 A, value: 4.96
+
+
+source: DM-54 9222 B, target: DM-47 13928 A, value: 7.59
+
+
+source: DM-54 9222 B, target: L 355-62 A, value: 6.04
+
+
+source: DM-54 9222 B, target: DM-60 7821 A, value: 4.96
+
+
+source: DM+36 2393 A, target: DM+27 2296 B, value: 4.94
+
+
+source: DM+36 2393 A, target: Hochbaden A, value: 4.94
+
+
+source: DM+36 2393 A, target: DM+35 2436 A, value: 2.47
+
+
+source: DM+36 2393 A, target: DM+35 2436 B, value: 2.47
+
+
+source: DM+36 2393 A, target: DM+46 1889 A, value: 5.75
+
+
+source: DM+36 2393 A, target: Beta Comae Berenices A, value: 6.56
+
+
+source: DM+36 2393 A, target: DM+48 2108 A, value: 7.57
+
+
+source: DM+36 2393 A, target: DM+48 2108 B, value: 7.57
+
+
+source: DM+36 2393 A, target: Vogelheim A, value: 7.63
+
+
+source: DM+36 2393 A, target: Beta Canum Venaticorum A, value: 7.53
+
+
+source: DM-46 11540 A, target: DM-26 12026 A, value: 6.37
+
+
+source: DM-46 11540 A, target: DM-26 12026 B, value: 6.37
+
+
+source: DM-46 11540 A, target: DM-26 12036 C, value: 6.42
+
+
+source: DM-46 11540 A, target: L 347-14 A, value: 6.64
+
+
+source: DM-46 11540 A, target: DM-40 9712 A, value: 7.57
+
+
+source: DM-46 11540 A, target: Davout A, value: 0.78
+
+
+source: DM-46 11540 A, target: D'Artagnon A, value: 5.16
+
+
+source: Wolf 457 A, target: Ross 486 A, value: 6.24
+
+
+source: Wolf 457 A, target: Ross 486 B, value: 6.24
+
+
+source: Wolf 457 A, target: DM+10 2531 A, value: 5.75
+
+
+source: Wolf 457 A, target: Ross 974 A, value: 4.3
+
+
+source: Wolf 457 A, target: DM+13 2618 A, value: 6.17
+
+
+source: Wolf 457 A, target: Wolf 461 A, value: 3.85
+
+
+source: Wolf 457 A, target: Wolf 461 B, value: 3.85
+
+
+source: Wolf 457 A, target: DM+0 2989 A, value: 4.75
+
+
+source: Wolf 457 A, target: Wolf 433 A, value: 6.71
+
+
+source: Wolf 457 A, target: Wolf 414 A, value: 6.82
+
+
+source: Wolf 489 A, target: DM+11 2576 A, value: 2.89
+
+
+source: Wolf 489 A, target: DM+11 2576 B, value: 2.89
+
+
+source: Wolf 489 A, target: Wolf 437 A, value: 7.4
+
+
+source: DM+13 2618 A, target: DM+10 2531 A, value: 4.34
+
+
+source: DM+13 2618 A, target: DM+17 2611 A, value: 4.65
+
+
+source: DM+13 2618 A, target: DM+17 2611 B, value: 4.65
+
+
+source: DM+13 2618 A, target: Wolf 457 A, value: 6.17
+
+
+source: DM+13 2618 A, target: Wolf 461 A, value: 5.73
+
+
+source: DM+13 2618 A, target: Wolf 461 B, value: 5.73
+
+
+source: DM+13 2618 A, target: Wolf 433 A, value: 3.72
+
+
+source: DM+13 2618 A, target: Wolf 414 A, value: 6.56
+
+
+source: DM-26 16501 A, target: DM-30 19255 A, value: 6.49
+
+
+source: L 258-146 A, target: DM-58 5564 A, value: 7.85
+
+
+source: DM+11 2576 A, target: Wolf 489 A, value: 2.89
+
+
+source: DM+11 2576 A, target: Wolf 437 A, value: 6.17
+
+
+source: DM+11 2576 B, target: Wolf 489 A, value: 2.89
+
+
+source: DM+11 2576 B, target: Wolf 437 A, value: 6.17
+
+
+source: DM-21 6267 A, target: DM-23 17699 A, value: 3.13
+
+
+source: DM-21 6267 A, target: DM-32 17321 A, value: 5.59
+
+
+source: DM-21 6267 A, target: Fomalhaut A, value: 6.66
+
+
+source: DM-21 6267 B, target: DM-23 17699 A, value: 3.13
+
+
+source: DM-21 6267 B, target: DM-32 17321 A, value: 5.59
+
+
+source: DM-21 6267 B, target: Fomalhaut A, value: 6.66
+
+
+source: L 717-22 C, target: DM-23 17699 A, value: 3.13
+
+
+source: L 717-22 C, target: DM-32 17321 A, value: 5.59
+
+
+source: L 717-22 C, target: Fomalhaut A, value: 6.66
+
+
+source: Wolf 461 A, target: Ross 486 A, value: 7.26
+
+
+source: Wolf 461 A, target: Ross 486 B, value: 7.26
+
+
+source: Wolf 461 A, target: DM+10 2531 A, value: 7.16
+
+
+source: Wolf 461 A, target: DM+17 2611 A, value: 7.83
+
+
+source: Wolf 461 A, target: DM+17 2611 B, value: 7.83
+
+
+source: Wolf 461 A, target: Ross 974 A, value: 7.3
+
+
+source: Wolf 461 A, target: Wolf 457 A, value: 3.85
+
+
+source: Wolf 461 A, target: DM+13 2618 A, value: 5.73
+
+
+source: Wolf 461 A, target: DM+0 2989 A, value: 3.76
+
+
+source: Wolf 461 A, target: Wolf 433 A, value: 6.4
+
+
+source: Wolf 461 A, target: Gamma Virginis A, value: 6.11
+
+
+source: Wolf 461 A, target: Gamma Virginis B, value: 6.11
+
+
+source: Wolf 461 A, target: Wolf 414 A, value: 7.98
+
+
+source: Wolf 461 B, target: Ross 486 A, value: 7.26
+
+
+source: Wolf 461 B, target: Ross 486 B, value: 7.26
+
+
+source: Wolf 461 B, target: DM+10 2531 A, value: 7.16
+
+
+source: Wolf 461 B, target: DM+17 2611 A, value: 7.83
+
+
+source: Wolf 461 B, target: DM+17 2611 B, value: 7.83
+
+
+source: Wolf 461 B, target: Ross 974 A, value: 7.3
+
+
+source: Wolf 461 B, target: Wolf 457 A, value: 3.85
+
+
+source: Wolf 461 B, target: DM+13 2618 A, value: 5.73
+
+
+source: Wolf 461 B, target: DM+0 2989 A, value: 3.76
+
+
+source: Wolf 461 B, target: Wolf 433 A, value: 6.4
+
+
+source: Wolf 461 B, target: Gamma Virginis A, value: 6.11
+
+
+source: Wolf 461 B, target: Gamma Virginis B, value: 6.11
+
+
+source: Wolf 461 B, target: Wolf 414 A, value: 7.98
+
+
+source: DM-58 5564 A, target: L 258-146 A, value: 7.85
+
+
+source: DM+35 2436 A, target: DM+27 2296 B, value: 6
+
+
+source: DM+35 2436 A, target: Hochbaden A, value: 6
+
+
+source: DM+35 2436 A, target: DM+36 2393 A, value: 2.47
+
+
+source: DM+35 2436 A, target: DM+46 1889 A, value: 6.8
+
+
+source: DM+35 2436 A, target: Beta Comae Berenices A, value: 6.9
+
+
+source: DM+35 2436 A, target: Vogelheim A, value: 5.18
+
+
+source: DM+35 2436 A, target: Beta Canum Venaticorum A, value: 6.67
+
+
+source: DM+35 2436 B, target: DM+27 2296 B, value: 6
+
+
+source: DM+35 2436 B, target: Hochbaden A, value: 6
+
+
+source: DM+35 2436 B, target: DM+36 2393 A, value: 2.47
+
+
+source: DM+35 2436 B, target: DM+46 1889 A, value: 6.8
+
+
+source: DM+35 2436 B, target: Beta Comae Berenices A, value: 6.9
+
+
+source: DM+35 2436 B, target: Vogelheim A, value: 5.18
+
+
+source: DM+35 2436 B, target: Beta Canum Venaticorum A, value: 6.67
+
+
+source: L 935-50 A, target: Wolf 1039 A, value: 6.47
+
+
+source: DM+46 1889 A, target: DM+36 2393 A, value: 5.75
+
+
+source: DM+46 1889 A, target: DM+35 2436 A, value: 6.8
+
+
+source: DM+46 1889 A, target: DM+35 2436 B, value: 6.8
+
+
+source: DM+46 1889 A, target: DM+48 2108 A, value: 3.5
+
+
+source: DM+46 1889 A, target: DM+48 2108 B, value: 3.5
+
+
+source: DM+46 1889 A, target: Beta Canum Venaticorum A, value: 6.79
+
+
+source: AC+65 6955 A, target: DM+61 2068 A, value: 2.58
+
+
+source: AC+65 6955 A, target: Chi Draconis A, value: 5.9
+
+
+source: AC+65 6955 A, target: Chi Draconis B, value: 5.9
+
+
+source: AC+65 6955 A, target: Sigma Draconis A, value: 7.67
+
+
+source: AC+65 6955 B, target: DM+61 2068 A, value: 2.58
+
+
+source: AC+65 6955 B, target: Chi Draconis A, value: 5.9
+
+
+source: AC+65 6955 B, target: Chi Draconis B, value: 5.9
+
+
+source: AC+65 6955 B, target: Sigma Draconis A, value: 7.67
+
+
+source: DM-17 3813 A, target: Ross 695 A, value: 6.67
+
+
+source: Serurier A, target: Broward A, value: 7.62
+
+
+source: Serurier A, target: DM-12 4523 B, value: 7.62
+
+
+source: Serurier A, target: Davout A, value: 7.81
+
+
+source: Serurier A, target: Barnard's Star A, value: 5.37
+
+
+source: Serurier A, target: Alpha Centauri A, value: 7.87
+
+
+source: Serurier A, target: Alpha Centauri B, value: 7.87
+
+
+source: DM+61 2068 A, target: AC+65 6955 A, value: 2.58
+
+
+source: DM+61 2068 A, target: AC+65 6955 B, value: 2.58
+
+
+source: DM+61 2068 A, target: Chi Draconis A, value: 7.53
+
+
+source: DM+61 2068 A, target: Chi Draconis B, value: 7.53
+
+
+source: DM+61 2068 A, target: Sigma Draconis A, value: 6.67
+
+
+source: DM+61 2068 A, target: DM+56 2966 A, value: 7.43
+
+
+source: DM+76 785 A, target: AC+70 8247 A, value: 6.69
+
+
+source: Chi Draconis A, target: AC+65 6955 A, value: 5.9
+
+
+source: Chi Draconis A, target: AC+65 6955 B, value: 5.9
+
+
+source: Chi Draconis A, target: DM+61 2068 A, value: 7.53
+
+
+source: Chi Draconis A, target: Sigma Draconis A, value: 7.17
+
+
+source: Chi Draconis B, target: AC+65 6955 A, value: 5.9
+
+
+source: Chi Draconis B, target: AC+65 6955 B, value: 5.9
+
+
+source: Chi Draconis B, target: DM+61 2068 A, value: 7.53
+
+
+source: Chi Draconis B, target: Sigma Draconis A, value: 7.17
+
+
+source: DM+16 2404 A, target: AC+10 95-26 A, value: 4.98
+
+
+source: DM+16 2404 A, target: DM+9 2636 A, value: 6.32
+
+
+source: DM+0 2989 A, target: Ross 486 A, value: 6.98
+
+
+source: DM+0 2989 A, target: Ross 486 B, value: 6.98
+
+
+source: DM+0 2989 A, target: Ross 974 A, value: 5.96
+
+
+source: DM+0 2989 A, target: Wolf 457 A, value: 4.75
+
+
+source: DM+0 2989 A, target: Wolf 461 A, value: 3.76
+
+
+source: DM+0 2989 A, target: Wolf 461 B, value: 3.76
+
+
+source: DM+0 2989 A, target: Gamma Virginis A, value: 3.37
+
+
+source: DM+0 2989 A, target: Gamma Virginis B, value: 3.37
+
+
+source: Gamma Pavonis A, target: L 49-19 A, value: 6
+
+
+source: Beta Comae Berenices A, target: DM+27 2296 B, value: 5.95
+
+
+source: Beta Comae Berenices A, target: Hochbaden A, value: 5.95
+
+
+source: Beta Comae Berenices A, target: DM+36 2393 A, value: 6.56
+
+
+source: Beta Comae Berenices A, target: DM+35 2436 A, value: 6.9
+
+
+source: Beta Comae Berenices A, target: DM+35 2436 B, value: 6.9
+
+
+source: Beta Comae Berenices A, target: Kimanjano A, value: 4.43
+
+
+source: DM+15 2620 A, target: Xi Bootis A, value: 7.82
+
+
+source: DM+15 2620 A, target: Xi Bootis B, value: 7.82
+
+
+source: DM+15 2620 A, target: Xi Bootis C, value: 7.82
+
+
+source: DM+15 2620 A, target: Wolf 424 A, value: 5.39
+
+
+source: DM+15 2620 A, target: Wolf 424 B, value: 5.39
+
+
+source: AC+10 95-26 A, target: DM+16 2404 A, value: 4.98
+
+
+source: AC+10 95-26 A, target: Wolf 433 A, value: 7.01
+
+
+source: AC+10 95-26 A, target: DM+9 2636 A, value: 1.68
+
+
+source: AC+10 95-26 A, target: Wolf 414 A, value: 4.96
+
+
+source: Delta Pavonis A, target: L 347-14 A, value: 6.9
+
+
+source: Delta Pavonis A, target: DM-45 13677 A, value: 7.08
+
+
+source: Delta Pavonis A, target: D'Artagnon A, value: 6.1
+
+
+source: Delta Pavonis A, target: Xiuning A, value: 6.81
+
+
+source: Delta Pavonis A, target: Beta Hydri A, value: 7.55
+
+
+source: DM-39 14192 A, target: 61 Cygni A, value: 1.5
+
+
+source: DM-39 14192 A, target: 61 Cygni B, value: 1.5
+
+
+source: DM-39 14192 A, target: 61 Cygni C, value: 1.5
+
+
+source: DM-39 14192 A, target: DM+59 1915 A, value: 6.58
+
+
+source: DM-39 14192 A, target: DM+59 1915 B, value: 6.58
+
+
+source: DM-39 14192 A, target: DM+43 4305 A, value: 5.03
+
+
+source: DM-39 14192 A, target: DM+43 4305 B, value: 5.03
+
+
+source: DM-39 14192 A, target: Kruger 60 A, value: 4.85
+
+
+source: DM-39 14192 A, target: Kruger 60 B, value: 4.85
+
+
+source: DM-39 14192 A, target: Ross 248 A, value: 5.84
+
+
+source: DM-39 14192 A, target: Groombridge 34 A, value: 7.06
+
+
+source: DM-39 14192 A, target: Groombridge 34 B, value: 7.09
+
+
+source: DM-39 14192 A, target: Groombridge 34 C, value: 7.09
+
+
+source: Ross 226 A, target: DM+57 2735 A, value: 7.8
+
+
+source: DM-23 17699 A, target: DM-21 6267 A, value: 3.13
+
+
+source: DM-23 17699 A, target: DM-21 6267 B, value: 3.13
+
+
+source: DM-23 17699 A, target: L 717-22 C, value: 3.13
+
+
+source: DM-23 17699 A, target: DM-32 17321 A, value: 3.99
+
+
+source: DM-23 17699 A, target: Fomalhaut A, value: 4.24
+
+
+source: G29-38 A, target: Wolf 1039 A, value: 4.29
+
+
+source: G29-38 A, target: Iota Piscium A, value: 3.66
+
+
+source: DM-32 17321 A, target: DM-21 6267 A, value: 5.59
+
+
+source: DM-32 17321 A, target: DM-21 6267 B, value: 5.59
+
+
+source: DM-32 17321 A, target: L 717-22 C, value: 5.59
+
+
+source: DM-32 17321 A, target: DM-23 17699 A, value: 3.99
+
+
+source: DM-32 17321 A, target: Fomalhaut A, value: 3.69
+
+
+source: DM-32 17321 A, target: L 362-81 A, value: 7.93
+
+
+source: DM+48 2108 A, target: DM+36 2393 A, value: 7.57
+
+
+source: DM+48 2108 A, target: DM+46 1889 A, value: 3.5
+
+
+source: DM+48 2108 A, target: Kimanjano A, value: 7.61
+
+
+source: DM+48 2108 A, target: Beta Canum Venaticorum A, value: 5.62
+
+
+source: DM+48 2108 A, target: C1 A, value: 5.41
+
+
+source: DM+48 2108 B, target: DM+36 2393 A, value: 7.57
+
+
+source: DM+48 2108 B, target: DM+46 1889 A, value: 3.5
+
+
+source: DM+48 2108 B, target: Kimanjano A, value: 7.61
+
+
+source: DM+48 2108 B, target: Beta Canum Venaticorum A, value: 5.62
+
+
+source: DM+48 2108 B, target: C1 A, value: 5.41
+
+
+source: Wolf 433 A, target: DM+10 2531 A, value: 7.28
+
+
+source: Wolf 433 A, target: DM+17 2611 A, value: 7.47
+
+
+source: Wolf 433 A, target: DM+17 2611 B, value: 7.47
+
+
+source: Wolf 433 A, target: Wolf 457 A, value: 6.71
+
+
+source: Wolf 433 A, target: DM+13 2618 A, value: 3.72
+
+
+source: Wolf 433 A, target: Wolf 461 A, value: 6.4
+
+
+source: Wolf 433 A, target: Wolf 461 B, value: 6.4
+
+
+source: Wolf 433 A, target: AC+10 95-26 A, value: 7.01
+
+
+source: Wolf 433 A, target: DM+9 2636 A, value: 6.13
+
+
+source: Wolf 433 A, target: Wolf 414 A, value: 3.59
+
+
+source: DM+15 4733 A, target: AC+17 534-105 A, value: 7.96
+
+
+source: DM+15 4733 A, target: DM+20 5046 A, value: 6.6
+
+
+source: DM+15 4733 A, target: DM+19 5116 A, value: 3.61
+
+
+source: DM+15 4733 A, target: DM+19 5116 B, value: 3.61
+
+
+source: DM+15 4733 A, target: DM+1 4774 A, value: 7.77
+
+
+source: DM+15 4733 B, target: AC+17 534-105 A, value: 7.96
+
+
+source: DM+15 4733 B, target: DM+20 5046 A, value: 6.6
+
+
+source: DM+15 4733 B, target: DM+19 5116 A, value: 3.61
+
+
+source: DM+15 4733 B, target: DM+19 5116 B, value: 3.61
+
+
+source: DM+15 4733 B, target: DM+1 4774 A, value: 7.77
+
+
+source: Xiuning A, target: DM-36 13940 A, value: 6.54
+
+
+source: Xiuning A, target: DM-36 13940 B, value: 6.54
+
+
+source: Xiuning A, target: L 347-14 A, value: 7.34
+
+
+source: Xiuning A, target: DM-45 13677 A, value: 6.27
+
+
+source: Xiuning A, target: Delta Pavonis A, value: 6.81
+
+
+source: Xiuning A, target: Epsilon Indi A, value: 4.54
+
+
+source: Xiuning A, target: Lacaille 9352 A, value: 6.22
+
+
+source: Xiuning A, target: Hunjiang A, value: 7.66
+
+
+source: 61 Cygni A, target: DM-39 14192 A, value: 1.5
+
+
+source: 61 Cygni A, target: DM+59 1915 A, value: 6.06
+
+
+source: 61 Cygni A, target: DM+59 1915 B, value: 6.06
+
+
+source: 61 Cygni A, target: DM+43 4305 A, value: 6.02
+
+
+source: 61 Cygni A, target: DM+43 4305 B, value: 6.02
+
+
+source: 61 Cygni A, target: Kruger 60 A, value: 5.12
+
+
+source: 61 Cygni A, target: Kruger 60 B, value: 5.12
+
+
+source: 61 Cygni A, target: Ross 248 A, value: 5.42
+
+
+source: 61 Cygni A, target: Groombridge 34 A, value: 6.85
+
+
+source: 61 Cygni A, target: Groombridge 34 B, value: 6.92
+
+
+source: 61 Cygni A, target: Groombridge 34 C, value: 6.92
+
+
+source: 61 Cygni B, target: DM-39 14192 A, value: 1.5
+
+
+source: 61 Cygni B, target: DM+59 1915 A, value: 6.06
+
+
+source: 61 Cygni B, target: DM+59 1915 B, value: 6.06
+
+
+source: 61 Cygni B, target: DM+43 4305 A, value: 6.02
+
+
+source: 61 Cygni B, target: DM+43 4305 B, value: 6.02
+
+
+source: 61 Cygni B, target: Kruger 60 A, value: 5.12
+
+
+source: 61 Cygni B, target: Kruger 60 B, value: 5.12
+
+
+source: 61 Cygni B, target: Ross 248 A, value: 5.42
+
+
+source: 61 Cygni B, target: Groombridge 34 A, value: 6.85
+
+
+source: 61 Cygni B, target: Groombridge 34 B, value: 6.92
+
+
+source: 61 Cygni B, target: Groombridge 34 C, value: 6.92
+
+
+source: 61 Cygni C, target: DM-39 14192 A, value: 1.5
+
+
+source: 61 Cygni C, target: DM+59 1915 A, value: 6.06
+
+
+source: 61 Cygni C, target: DM+59 1915 B, value: 6.06
+
+
+source: 61 Cygni C, target: DM+43 4305 A, value: 6.02
+
+
+source: 61 Cygni C, target: DM+43 4305 B, value: 6.02
+
+
+source: 61 Cygni C, target: Kruger 60 A, value: 5.12
+
+
+source: 61 Cygni C, target: Kruger 60 B, value: 5.12
+
+
+source: 61 Cygni C, target: Ross 248 A, value: 5.42
+
+
+source: 61 Cygni C, target: Groombridge 34 A, value: 6.85
+
+
+source: 61 Cygni C, target: Groombridge 34 B, value: 6.92
+
+
+source: 61 Cygni C, target: Groombridge 34 C, value: 6.92
+
+
+source: Sigma Draconis A, target: AC+65 6955 A, value: 7.67
+
+
+source: Sigma Draconis A, target: AC+65 6955 B, value: 7.67
+
+
+source: Sigma Draconis A, target: DM+61 2068 A, value: 6.67
+
+
+source: Sigma Draconis A, target: Chi Draconis A, value: 7.17
+
+
+source: Sigma Draconis A, target: Chi Draconis B, value: 7.17
+
+
+source: Sigma Draconis A, target: DM+59 1915 A, value: 7.55
+
+
+source: Sigma Draconis A, target: DM+59 1915 B, value: 7.55
+
+
+source: Sigma Draconis A, target: DM+68 946 A, value: 4.39
+
+
+source: Sigma Draconis A, target: DM+68 946 B, value: 4.39
+
+
+source: Barnard's Star A, target: Serurier A, value: 5.37
+
+
+source: Barnard's Star A, target: Alpha Centauri A, value: 6.4
+
+
+source: Barnard's Star A, target: Alpha Centauri B, value: 6.4
+
+
+source: Barnard's Star A, target: Proxima Centauri A, value: 6.46
+
+
+source: Barnard's Star A, target: Sol A, value: 5.92
+
+
+source: Vogelheim A, target: DM+36 2393 A, value: 7.63
+
+
+source: Vogelheim A, target: DM+35 2436 A, value: 5.18
+
+
+source: Vogelheim A, target: DM+35 2436 B, value: 5.18
+
+
+source: Vogelheim A, target: DM+34 2323 A, value: 6.92
+
+
+source: Vogelheim A, target: Beta Canum Venaticorum A, value: 7.92
+
+
+source: Vogelheim A, target: DM+36 2219 A, value: 7.32
+
+
+source: DM+59 1915 A, target: DM-39 14192 A, value: 6.58
+
+
+source: DM+59 1915 A, target: 61 Cygni A, value: 6.06
+
+
+source: DM+59 1915 A, target: 61 Cygni B, value: 6.06
+
+
+source: DM+59 1915 A, target: 61 Cygni C, value: 6.06
+
+
+source: DM+59 1915 A, target: Sigma Draconis A, value: 7.55
+
+
+source: DM+59 1915 A, target: DM+68 946 A, value: 4.59
+
+
+source: DM+59 1915 A, target: DM+68 946 B, value: 4.59
+
+
+source: DM+59 1915 A, target: Kruger 60 A, value: 6.16
+
+
+source: DM+59 1915 A, target: Kruger 60 B, value: 6.16
+
+
+source: DM+59 1915 B, target: DM-39 14192 A, value: 6.58
+
+
+source: DM+59 1915 B, target: 61 Cygni A, value: 6.06
+
+
+source: DM+59 1915 B, target: 61 Cygni B, value: 6.06
+
+
+source: DM+59 1915 B, target: 61 Cygni C, value: 6.06
+
+
+source: DM+59 1915 B, target: Sigma Draconis A, value: 7.55
+
+
+source: DM+59 1915 B, target: DM+68 946 A, value: 4.59
+
+
+source: DM+59 1915 B, target: DM+68 946 B, value: 4.59
+
+
+source: DM+59 1915 B, target: Kruger 60 A, value: 6.16
+
+
+source: DM+59 1915 B, target: Kruger 60 B, value: 6.16
+
+
+source: DM+68 946 A, target: Sigma Draconis A, value: 4.39
+
+
+source: DM+68 946 A, target: DM+59 1915 A, value: 4.59
+
+
+source: DM+68 946 A, target: DM+59 1915 B, value: 4.59
+
+
+source: DM+68 946 A, target: AC+79 3888 A, value: 6.78
+
+
+source: DM+68 946 B, target: Sigma Draconis A, value: 4.39
+
+
+source: DM+68 946 B, target: DM+59 1915 A, value: 4.59
+
+
+source: DM+68 946 B, target: DM+59 1915 B, value: 4.59
+
+
+source: DM+68 946 B, target: AC+79 3888 A, value: 6.78
+
+
+source: L 119-21 A, target: DM-60 7821 A, value: 6.15
+
+
+source: L 119-21 A, target: DM-73 1672 A, value: 6.1
+
+
+source: DM+9 2636 A, target: DM+16 2404 A, value: 6.32
+
+
+source: DM+9 2636 A, target: AC+10 95-26 A, value: 1.68
+
+
+source: DM+9 2636 A, target: Wolf 433 A, value: 6.13
+
+
+source: DM+9 2636 A, target: Wolf 414 A, value: 3.49
+
+
+source: Gamma Virginis A, target: Wolf 461 A, value: 6.11
+
+
+source: Gamma Virginis A, target: Wolf 461 B, value: 6.11
+
+
+source: Gamma Virginis A, target: DM+0 2989 A, value: 3.37
+
+
+source: Gamma Virginis A, target: Wolf 437 A, value: 7.38
+
+
+source: Gamma Virginis A, target: Beta Virginis A, value: 7.42
+
+
+source: Gamma Virginis B, target: Wolf 461 A, value: 6.11
+
+
+source: Gamma Virginis B, target: Wolf 461 B, value: 6.11
+
+
+source: Gamma Virginis B, target: DM+0 2989 A, value: 3.37
+
+
+source: Gamma Virginis B, target: Wolf 437 A, value: 7.38
+
+
+source: Gamma Virginis B, target: Beta Virginis A, value: 7.42
+
+
+source: Wolf 437 A, target: Wolf 489 A, value: 7.4
+
+
+source: Wolf 437 A, target: DM+11 2576 A, value: 6.17
+
+
+source: Wolf 437 A, target: DM+11 2576 B, value: 6.17
+
+
+source: Wolf 437 A, target: Gamma Virginis A, value: 7.38
+
+
+source: Wolf 437 A, target: Gamma Virginis B, value: 7.38
+
+
+source: Fomalhaut A, target: DM-21 6267 A, value: 6.66
+
+
+source: Fomalhaut A, target: DM-21 6267 B, value: 6.66
+
+
+source: Fomalhaut A, target: L 717-22 C, value: 6.66
+
+
+source: Fomalhaut A, target: DM-23 17699 A, value: 4.24
+
+
+source: Fomalhaut A, target: DM-32 17321 A, value: 3.69
+
+
+source: Fomalhaut A, target: DM-15 6290 A, value: 7.92
+
+
+source: DM-17 6768 A, target: DM-17 6769 A, value: 0.1
+
+
+source: DM-17 6768 B, target: DM-17 6769 A, value: 0.1
+
+
+source: DM-17 6769 A, target: DM-17 6768 A, value: 0.1
+
+
+source: DM-17 6769 A, target: DM-17 6768 B, value: 0.1
+
+
+source: Wolf 1039 A, target: L 935-50 A, value: 6.47
+
+
+source: Wolf 1039 A, target: G29-38 A, value: 4.29
+
+
+source: Wolf 1039 A, target: Iota Piscium A, value: 6.55
+
+
+source: Wolf 414 A, target: Wolf 457 A, value: 6.82
+
+
+source: Wolf 414 A, target: DM+13 2618 A, value: 6.56
+
+
+source: Wolf 414 A, target: Wolf 461 A, value: 7.98
+
+
+source: Wolf 414 A, target: Wolf 461 B, value: 7.98
+
+
+source: Wolf 414 A, target: AC+10 95-26 A, value: 4.96
+
+
+source: Wolf 414 A, target: Wolf 433 A, value: 3.59
+
+
+source: Wolf 414 A, target: DM+9 2636 A, value: 3.49
+
+
+source: DM-15 6290 A, target: Fomalhaut A, value: 7.92
+
+
+source: DM-15 6290 A, target: L 789-6 A, value: 5.1
+
+
+source: DM-15 6290 A, target: Lacaille 9352 A, value: 6.59
+
+
+source: DM-15 6290 A, target: DM+1 4774 A, value: 7.09
+
+
+source: DM-15 6290 A, target: Hunjiang A, value: 7.42
+
+
+source: Iota Piscium A, target: G29-38 A, value: 3.66
+
+
+source: Iota Piscium A, target: Wolf 1039 A, value: 6.55
+
+
+source: DM+34 2323 A, target: Vogelheim A, value: 6.92
+
+
+source: DM+34 2323 A, target: DM+42 2296 A, value: 7.36
+
+
+source: DM-45 7872 A, target: DM-43 7228 A, value: 7.52
+
+
+source: L 789-6 A, target: DM-15 6290 A, value: 5.1
+
+
+source: L 789-6 A, target: Epsilon Indi A, value: 7.82
+
+
+source: L 789-6 A, target: Lacaille 9352 A, value: 4.19
+
+
+source: L 789-6 A, target: Hunjiang A, value: 7.35
+
+
+source: L 789-6 A, target: Qinyuan A, value: 7.35
+
+
+source: L 789-6 A, target: UV Ceti B, value: 7.35
+
+
+source: DM+43 4305 A, target: DM-39 14192 A, value: 5.03
+
+
+source: DM+43 4305 A, target: 61 Cygni A, value: 6.02
+
+
+source: DM+43 4305 A, target: 61 Cygni B, value: 6.02
+
+
+source: DM+43 4305 A, target: 61 Cygni C, value: 6.02
+
+
+source: DM+43 4305 A, target: Kruger 60 A, value: 4.09
+
+
+source: DM+43 4305 A, target: Kruger 60 B, value: 4.09
+
+
+source: DM+43 4305 A, target: Ross 248 A, value: 5.38
+
+
+source: DM+43 4305 A, target: Groombridge 34 A, value: 5.38
+
+
+source: DM+43 4305 A, target: Groombridge 34 B, value: 5.25
+
+
+source: DM+43 4305 A, target: Groombridge 34 C, value: 5.25
+
+
+source: DM+43 4305 A, target: Eta Cassiopeiae A, value: 7.93
+
+
+source: DM+43 4305 A, target: Eta Cassiopeiae B, value: 7.93
+
+
+source: DM+43 4305 B, target: DM-39 14192 A, value: 5.03
+
+
+source: DM+43 4305 B, target: 61 Cygni A, value: 6.02
+
+
+source: DM+43 4305 B, target: 61 Cygni B, value: 6.02
+
+
+source: DM+43 4305 B, target: 61 Cygni C, value: 6.02
+
+
+source: DM+43 4305 B, target: Kruger 60 A, value: 4.09
+
+
+source: DM+43 4305 B, target: Kruger 60 B, value: 4.09
+
+
+source: DM+43 4305 B, target: Ross 248 A, value: 5.38
+
+
+source: DM+43 4305 B, target: Groombridge 34 A, value: 5.38
+
+
+source: DM+43 4305 B, target: Groombridge 34 B, value: 5.25
+
+
+source: DM+43 4305 B, target: Groombridge 34 C, value: 5.25
+
+
+source: DM+43 4305 B, target: Eta Cassiopeiae A, value: 7.93
+
+
+source: DM+43 4305 B, target: Eta Cassiopeiae B, value: 7.93
+
+
+source: Kimanjano A, target: Beta Comae Berenices A, value: 4.43
+
+
+source: Kimanjano A, target: DM+48 2108 A, value: 7.61
+
+
+source: Kimanjano A, target: DM+48 2108 B, value: 7.61
+
+
+source: Kimanjano A, target: Beta Canum Venaticorum A, value: 5.7
+
+
+source: Kimanjano A, target: Queen Alice's Star A, value: 7.26
+
+
+source: Kimanjano A, target: Catherine's Star B, value: 5.95
+
+
+source: Kimanjano A, target: Henry's Star A, value: 5.95
+
+
+source: Kimanjano A, target: 61 Ursae Majoris A, value: 7.24
+
+
+source: DM+57 2735 A, target: Ross 226 A, value: 7.8
+
+
+source: DM+57 2735 A, target: Ross 249 A, value: 7.78
+
+
+source: AC+32 86401 B, target: AC+32 86422 A, value: 0.1
+
+
+source: AC+32 86401 B, target: DM+28 4704 A, value: 5.49
+
+
+source: AC+32 86422 A, target: AC+32 86401 B, value: 0.1
+
+
+source: AC+32 86422 A, target: DM+28 4704 A, value: 5.48
+
+
+source: Beta Canum Venaticorum A, target: DM+36 2393 A, value: 7.53
+
+
+source: Beta Canum Venaticorum A, target: DM+35 2436 A, value: 6.67
+
+
+source: Beta Canum Venaticorum A, target: DM+35 2436 B, value: 6.67
+
+
+source: Beta Canum Venaticorum A, target: DM+46 1889 A, value: 6.79
+
+
+source: Beta Canum Venaticorum A, target: DM+48 2108 A, value: 5.62
+
+
+source: Beta Canum Venaticorum A, target: DM+48 2108 B, value: 5.62
+
+
+source: Beta Canum Venaticorum A, target: Vogelheim A, value: 7.92
+
+
+source: Beta Canum Venaticorum A, target: Kimanjano A, value: 5.7
+
+
+source: Beta Canum Venaticorum A, target: C1 A, value: 6.43
+
+
+source: Beta Canum Venaticorum A, target: Catherine's Star B, value: 4.55
+
+
+source: Beta Canum Venaticorum A, target: Henry's Star A, value: 4.55
+
+
+source: Beta Canum Venaticorum A, target: DM+36 2219 A, value: 7.14
+
+
+source: Beta Canum Venaticorum A, target: Berthier A, value: 6.75
+
+
+source: Beta Canum Venaticorum A, target: 61 Ursae Majoris A, value: 6.52
+
+
+source: Epsilon Indi A, target: Xiuning A, value: 4.54
+
+
+source: Epsilon Indi A, target: L 789-6 A, value: 7.82
+
+
+source: Epsilon Indi A, target: Lacaille 9352 A, value: 4.59
+
+
+source: Epsilon Indi A, target: Hunjiang A, value: 6.99
+
+
+source: DM+42 2296 A, target: DM+34 2323 A, value: 7.36
+
+
+source: DM+42 2296 A, target: DM+45 2014 A, value: 6.31
+
+
+source: Kruger 60 A, target: DM-39 14192 A, value: 4.85
+
+
+source: Kruger 60 A, target: 61 Cygni A, value: 5.12
+
+
+source: Kruger 60 A, target: 61 Cygni B, value: 5.12
+
+
+source: Kruger 60 A, target: 61 Cygni C, value: 5.12
+
+
+source: Kruger 60 A, target: DM+59 1915 A, value: 6.16
+
+
+source: Kruger 60 A, target: DM+59 1915 B, value: 6.16
+
+
+source: Kruger 60 A, target: DM+43 4305 A, value: 4.09
+
+
+source: Kruger 60 A, target: DM+43 4305 B, value: 4.09
+
+
+source: Kruger 60 A, target: Ross 248 A, value: 4.37
+
+
+source: Kruger 60 A, target: Groombridge 34 A, value: 4.81
+
+
+source: Kruger 60 A, target: Groombridge 34 B, value: 4.83
+
+
+source: Kruger 60 A, target: Groombridge 34 C, value: 4.83
+
+
+source: Kruger 60 B, target: DM-39 14192 A, value: 4.85
+
+
+source: Kruger 60 B, target: 61 Cygni A, value: 5.12
+
+
+source: Kruger 60 B, target: 61 Cygni B, value: 5.12
+
+
+source: Kruger 60 B, target: 61 Cygni C, value: 5.12
+
+
+source: Kruger 60 B, target: DM+59 1915 A, value: 6.16
+
+
+source: Kruger 60 B, target: DM+59 1915 B, value: 6.16
+
+
+source: Kruger 60 B, target: DM+43 4305 A, value: 4.09
+
+
+source: Kruger 60 B, target: DM+43 4305 B, value: 4.09
+
+
+source: Kruger 60 B, target: Ross 248 A, value: 4.37
+
+
+source: Kruger 60 B, target: Groombridge 34 A, value: 4.81
+
+
+source: Kruger 60 B, target: Groombridge 34 B, value: 4.83
+
+
+source: Kruger 60 B, target: Groombridge 34 C, value: 4.83
+
+
+source: Ross 695 A, target: DM-17 3813 A, value: 6.67
+
+
+source: Ross 695 A, target: DM-26 8883 A, value: 6.51
+
+
+source: DM+19 5116 A, target: DM+15 4733 A, value: 3.61
+
+
+source: DM+19 5116 A, target: DM+15 4733 B, value: 3.61
+
+
+source: DM+19 5116 A, target: DM+1 4774 A, value: 6.69
+
+
+source: DM+19 5116 B, target: DM+15 4733 A, value: 3.61
+
+
+source: DM+19 5116 B, target: DM+15 4733 B, value: 3.61
+
+
+source: DM+19 5116 B, target: DM+1 4774 A, value: 6.69
+
+
+source: DM-51 6859 A, target: DM-51 5974 A, value: 4.02
+
+
+source: DM+56 2966 A, target: DM+61 2068 A, value: 7.43
+
+
+source: DM+56 2966 A, target: Eta Cassiopeiae A, value: 5.49
+
+
+source: DM+56 2966 A, target: Eta Cassiopeiae B, value: 5.49
+
+
+source: DM+56 2966 A, target: Mu Cassiopeiae A, value: 7.18
+
+
+source: DM+56 2966 A, target: Mu Cassiopeiae B, value: 7.18
+
+
+source: AC+66 3955 A, target: C1 A, value: 6.83
+
+
+source: AC+66 3955 A, target: DM+66 717 A, value: 4.36
+
+
+source: Lacaille 9352 A, target: Xiuning A, value: 6.22
+
+
+source: Lacaille 9352 A, target: DM-15 6290 A, value: 6.59
+
+
+source: Lacaille 9352 A, target: L 789-6 A, value: 4.19
+
+
+source: Lacaille 9352 A, target: Epsilon Indi A, value: 4.59
+
+
+source: Lacaille 9352 A, target: Hunjiang A, value: 4.05
+
+
+source: Lacaille 9352 A, target: Qinyuan A, value: 7.08
+
+
+source: Lacaille 9352 A, target: UV Ceti B, value: 7.08
+
+
+source: Queen Alice's Star A, target: Kimanjano A, value: 7.26
+
+
+source: Queen Alice's Star A, target: C1 A, value: 7.86
+
+
+source: Queen Alice's Star A, target: Augereau A, value: 5.82
+
+
+source: Queen Alice's Star A, target: WX Ursae Majoris B, value: 5.82
+
+
+source: L 49-19 A, target: Gamma Pavonis A, value: 6
+
+
+source: L 49-19 A, target: Beta Hydri A, value: 6.56
+
+
+source: L 49-19 A, target: Zeta Tucanae A, value: 6.4
+
+
+source: L 49-19 A, target: DM-68 47 A, value: 6.67
+
+
+source: Wolf 424 A, target: DM+15 2620 A, value: 5.39
+
+
+source: Wolf 424 A, target: Ross 128 A, value: 4.38
+
+
+source: Wolf 424 A, target: Nyotekundu A, value: 7.74
+
+
+source: Wolf 424 B, target: DM+15 2620 A, value: 5.39
+
+
+source: Wolf 424 B, target: Ross 128 A, value: 4.38
+
+
+source: Wolf 424 B, target: Nyotekundu A, value: 7.74
+
+
+source: AC+13 14332 A, target: DM+55 1519 A, value: 7.36
+
+
+source: AC+13 14332 A, target: G197-50 B, value: 7.28
+
+
+source: DM+45 2014 A, target: DM+42 2296 A, value: 6.31
+
+
+source: DM+45 2014 A, target: DM+55 1519 A, value: 7.72
+
+
+source: DM+45 2014 A, target: G197-50 B, value: 7.77
+
+
+source: DM+45 2014 A, target: Berthier A, value: 7.93
+
+
+source: DM+45 2014 A, target: DM+50 1832 A, value: 6.34
+
+
+source: Ross 249 A, target: DM+57 2735 A, value: 7.78
+
+
+source: Ross 249 A, target: DM+45 4408 A, value: 7.84
+
+
+source: Ross 249 A, target: DM+45 4408 B, value: 7.84
+
+
+source: Ross 249 A, target: DM+45 4408 C, value: 7.84
+
+
+source: Alpha Centauri A, target: Serurier A, value: 7.87
+
+
+source: Alpha Centauri A, target: Barnard's Star A, value: 6.4
+
+
+source: Alpha Centauri A, target: Proxima Centauri A, value: 0.24
+
+
+source: Alpha Centauri A, target: Sol A, value: 4.48
+
+
+source: Alpha Centauri B, target: Serurier A, value: 7.87
+
+
+source: Alpha Centauri B, target: Barnard's Star A, value: 6.4
+
+
+source: Alpha Centauri B, target: Proxima Centauri A, value: 0.24
+
+
+source: Alpha Centauri B, target: Sol A, value: 4.48
+
+
+source: Proxima Centauri A, target: Barnard's Star A, value: 6.46
+
+
+source: Proxima Centauri A, target: Alpha Centauri A, value: 0.24
+
+
+source: Proxima Centauri A, target: Alpha Centauri B, value: 0.24
+
+
+source: Proxima Centauri A, target: Sol A, value: 4.29
+
+
+source: DM-73 1672 A, target: L 119-21 A, value: 6.1
+
+
+source: DM+1 4774 A, target: DM+15 4733 A, value: 7.77
+
+
+source: DM+1 4774 A, target: DM+15 4733 B, value: 7.77
+
+
+source: DM+1 4774 A, target: DM-15 6290 A, value: 7.09
+
+
+source: DM+1 4774 A, target: DM+19 5116 A, value: 6.69
+
+
+source: DM+1 4774 A, target: DM+19 5116 B, value: 6.69
+
+
+source: DM+1 4774 A, target: Van Maanen's Star A, value: 6.47
+
+
+source: DM+1 4774 A, target: DM+4 123 A, value: 6.65
+
+
+source: DM+55 1519 A, target: AC+13 14332 A, value: 7.36
+
+
+source: DM+55 1519 A, target: DM+45 2014 A, value: 7.72
+
+
+source: DM+55 1519 A, target: G197-50 B, value: 0.1
+
+
+source: DM+55 1519 A, target: DM+50 1832 A, value: 7.26
+
+
+source: G197-50 B, target: AC+13 14332 A, value: 7.28
+
+
+source: G197-50 B, target: DM+45 2014 A, value: 7.77
+
+
+source: G197-50 B, target: DM+55 1519 A, value: 0.1
+
+
+source: G197-50 B, target: DM+50 1832 A, value: 7.25
+
+
+source: C1 A, target: DM+48 2108 A, value: 5.41
+
+
+source: C1 A, target: DM+48 2108 B, value: 5.41
+
+
+source: C1 A, target: Beta Canum Venaticorum A, value: 6.43
+
+
+source: C1 A, target: AC+66 3955 A, value: 6.83
+
+
+source: C1 A, target: Queen Alice's Star A, value: 7.86
+
+
+source: C1 A, target: Catherine's Star B, value: 7.65
+
+
+source: C1 A, target: Henry's Star A, value: 7.65
+
+
+source: C1 A, target: Berthier A, value: 6.46
+
+
+source: C1 A, target: DM+66 717 A, value: 7.13
+
+
+source: L 68-27 B, target: L 145-141 A, value: 6.14
+
+
+source: L 68-28 A, target: L 145-141 A, value: 6.14
+
+
+source: Ross 248 A, target: DM-39 14192 A, value: 5.84
+
+
+source: Ross 248 A, target: 61 Cygni A, value: 5.42
+
+
+source: Ross 248 A, target: 61 Cygni B, value: 5.42
+
+
+source: Ross 248 A, target: 61 Cygni C, value: 5.42
+
+
+source: Ross 248 A, target: DM+43 4305 A, value: 5.38
+
+
+source: Ross 248 A, target: DM+43 4305 B, value: 5.38
+
+
+source: Ross 248 A, target: Kruger 60 A, value: 4.37
+
+
+source: Ross 248 A, target: Kruger 60 B, value: 4.37
+
+
+source: Ross 248 A, target: Groombridge 34 A, value: 1.6
+
+
+source: Ross 248 A, target: Groombridge 34 B, value: 1.75
+
+
+source: Ross 248 A, target: Groombridge 34 C, value: 1.75
+
+
+source: DM+74 1047 A, target: DM+66 34 A, value: 5.33
+
+
+source: DM+74 1047 A, target: DM+66 34 B, value: 5.33
+
+
+source: DM+74 1047 A, target: AC+79 1584 A, value: 7.08
+
+
+source: DM+74 1047 B, target: DM+66 34 A, value: 5.33
+
+
+source: DM+74 1047 B, target: DM+66 34 B, value: 5.33
+
+
+source: DM+74 1047 B, target: AC+79 1584 A, value: 7.08
+
+
+source: DM+74 1047 C, target: DM+66 34 A, value: 5.33
+
+
+source: DM+74 1047 C, target: DM+66 34 B, value: 5.33
+
+
+source: DM+74 1047 C, target: AC+79 1584 A, value: 7.08
+
+
+source: 85 Pegasi A, target: DM+28 4704 A, value: 6
+
+
+source: 85 Pegasi A, target: Wolf 1056 A, value: 6.35
+
+
+source: DM+26 4734 B, target: DM+28 4704 A, value: 6
+
+
+source: DM+26 4734 B, target: Wolf 1056 A, value: 6.35
+
+
+source: DM+26 4734 C, target: DM+28 4704 A, value: 6
+
+
+source: DM+26 4734 C, target: Wolf 1056 A, value: 6.35
+
+
+source: L 362-81 A, target: DM-32 17321 A, value: 7.93
+
+
+source: Sol A, target: Barnard's Star A, value: 5.92
+
+
+source: Sol A, target: Alpha Centauri A, value: 4.48
+
+
+source: Sol A, target: Alpha Centauri B, value: 4.48
+
+
+source: Sol A, target: Proxima Centauri A, value: 4.29
+
+
+source: Sol A, target: Nyotekundu A, value: 7.65
+
+
+source: Hunjiang A, target: Xiuning A, value: 7.66
+
+
+source: Hunjiang A, target: DM-15 6290 A, value: 7.42
+
+
+source: Hunjiang A, target: L 789-6 A, value: 7.35
+
+
+source: Hunjiang A, target: Epsilon Indi A, value: 6.99
+
+
+source: Hunjiang A, target: Lacaille 9352 A, value: 4.05
+
+
+source: Hunjiang A, target: Qinyuan A, value: 7.91
+
+
+source: Hunjiang A, target: UV Ceti B, value: 7.91
+
+
+source: Hunjiang A, target: Tau Ceti A, value: 7.43
+
+
+source: AC+79 3888 A, target: DM+68 946 A, value: 6.78
+
+
+source: AC+79 3888 A, target: DM+68 946 B, value: 6.78
+
+
+source: DM+44 4548 A, target: DM+45 4408 A, value: 0.37
+
+
+source: DM+44 4548 A, target: DM+45 4408 B, value: 0.37
+
+
+source: DM+44 4548 A, target: DM+45 4408 C, value: 0.37
+
+
+source: DM-9 3413 A, target: L 901-10 A, value: 2.82
+
+
+source: DM-9 3413 A, target: L 829-26 A, value: 2.87
+
+
+source: DM+45 4408 A, target: Ross 249 A, value: 7.84
+
+
+source: DM+45 4408 A, target: DM+44 4548 A, value: 0.37
+
+
+source: DM+45 4408 B, target: Ross 249 A, value: 7.84
+
+
+source: DM+45 4408 B, target: DM+44 4548 A, value: 0.37
+
+
+source: DM+45 4408 C, target: Ross 249 A, value: 7.84
+
+
+source: DM+45 4408 C, target: DM+44 4548 A, value: 0.37
+
+
+source: Beta Hydri A, target: Delta Pavonis A, value: 7.55
+
+
+source: Beta Hydri A, target: L 49-19 A, value: 6.56
+
+
+source: Beta Hydri A, target: Zeta Tucanae A, value: 5.42
+
+
+source: DM-26 8883 A, target: Ross 695 A, value: 6.51
+
+
+source: DM-26 8883 A, target: DM-39 7301 A, value: 7.44
+
+
+source: DM-26 8883 A, target: VB 5 B, value: 7.44
+
+
+source: DM-26 8883 A, target: DM-32 8179 A, value: 4.06
+
+
+source: DM-26 8883 A, target: VB 4 B, value: 4.06
+
+
+source: DM-26 8883 A, target: DM-31 9113 A, value: 5.59
+
+
+source: DM-26 8883 A, target: DM-19 3242 A, value: 6.28
+
+
+source: DM-26 8883 A, target: DM-19 3242 B, value: 6.28
+
+
+source: DM-26 8883 A, target: DM-23 9765 A, value: 6.39
+
+
+source: Groombridge 34 A, target: DM-39 14192 A, value: 7.06
+
+
+source: Groombridge 34 A, target: 61 Cygni A, value: 6.85
+
+
+source: Groombridge 34 A, target: 61 Cygni B, value: 6.85
+
+
+source: Groombridge 34 A, target: 61 Cygni C, value: 6.85
+
+
+source: Groombridge 34 A, target: DM+43 4305 A, value: 5.38
+
+
+source: Groombridge 34 A, target: DM+43 4305 B, value: 5.38
+
+
+source: Groombridge 34 A, target: Kruger 60 A, value: 4.81
+
+
+source: Groombridge 34 A, target: Kruger 60 B, value: 4.81
+
+
+source: Groombridge 34 A, target: Ross 248 A, value: 1.6
+
+
+source: Groombridge 34 A, target: Groombridge 34 B, value: 0.22
+
+
+source: Groombridge 34 A, target: Groombridge 34 C, value: 0.22
+
+
+source: Groombridge 34 B, target: DM-39 14192 A, value: 7.09
+
+
+source: Groombridge 34 B, target: 61 Cygni A, value: 6.92
+
+
+source: Groombridge 34 B, target: 61 Cygni B, value: 6.92
+
+
+source: Groombridge 34 B, target: 61 Cygni C, value: 6.92
+
+
+source: Groombridge 34 B, target: DM+43 4305 A, value: 5.25
+
+
+source: Groombridge 34 B, target: DM+43 4305 B, value: 5.25
+
+
+source: Groombridge 34 B, target: Kruger 60 A, value: 4.83
+
+
+source: Groombridge 34 B, target: Kruger 60 B, value: 4.83
+
+
+source: Groombridge 34 B, target: Ross 248 A, value: 1.75
+
+
+source: Groombridge 34 B, target: Groombridge 34 A, value: 0.22
+
+
+source: Groombridge 34 C, target: DM-39 14192 A, value: 7.09
+
+
+source: Groombridge 34 C, target: 61 Cygni A, value: 6.92
+
+
+source: Groombridge 34 C, target: 61 Cygni B, value: 6.92
+
+
+source: Groombridge 34 C, target: 61 Cygni C, value: 6.92
+
+
+source: Groombridge 34 C, target: DM+43 4305 A, value: 5.25
+
+
+source: Groombridge 34 C, target: DM+43 4305 B, value: 5.25
+
+
+source: Groombridge 34 C, target: Kruger 60 A, value: 4.83
+
+
+source: Groombridge 34 C, target: Kruger 60 B, value: 4.83
+
+
+source: Groombridge 34 C, target: Ross 248 A, value: 1.75
+
+
+source: Groombridge 34 C, target: Groombridge 34 A, value: 0.22
+
+
+source: L 145-141 A, target: L 68-27 B, value: 6.14
+
+
+source: L 145-141 A, target: L 68-28 A, value: 6.14
+
+
+source: L 145-141 A, target: L 97-12 A, value: 7.45
+
+
+source: DM+28 4704 A, target: AC+32 86401 B, value: 5.49
+
+
+source: DM+28 4704 A, target: AC+32 86422 A, value: 5.48
+
+
+source: DM+28 4704 A, target: 85 Pegasi A, value: 6
+
+
+source: DM+28 4704 A, target: DM+26 4734 B, value: 6
+
+
+source: DM+28 4704 A, target: DM+26 4734 C, value: 6
+
+
+source: DM+28 4704 A, target: Wolf 1056 A, value: 6.65
+
+
+source: Ross 128 A, target: Wolf 424 A, value: 4.38
+
+
+source: Ross 128 A, target: Wolf 424 B, value: 4.38
+
+
+source: Ross 128 A, target: Bessieres A, value: 6.44
+
+
+source: Ross 128 A, target: Bessieres B, value: 6.44
+
+
+source: Ross 128 A, target: Nyotekundu A, value: 3.93
+
+
+source: Zeta Tucanae A, target: L 49-19 A, value: 6.4
+
+
+source: Zeta Tucanae A, target: Beta Hydri A, value: 5.42
+
+
+source: Zeta Tucanae A, target: DM-68 47 A, value: 6.08
+
+
+source: Zeta Tucanae A, target: DM-56 328 B, value: 5.42
+
+
+source: Zeta Tucanae A, target: Rho Eridani A, value: 5.42
+
+
+source: Catherine's Star B, target: Kimanjano A, value: 5.95
+
+
+source: Catherine's Star B, target: Beta Canum Venaticorum A, value: 4.55
+
+
+source: Catherine's Star B, target: C1 A, value: 7.65
+
+
+source: Catherine's Star B, target: DM+36 2219 A, value: 5.65
+
+
+source: Catherine's Star B, target: Berthier A, value: 6.95
+
+
+source: Catherine's Star B, target: 61 Ursae Majoris A, value: 2.36
+
+
+source: Catherine's Star B, target: DM+27 28217 A, value: 7.16
+
+
+source: Catherine's Star B, target: Xi Ursae Majoris A, value: 5.03
+
+
+source: Catherine's Star B, target: Xi Ursae Majoris B, value: 5.03
+
+
+source: Catherine's Star B, target: Xi Ursae Majoris C, value: 5.03
+
+
+source: Catherine's Star B, target: Xi Ursae Majoris D, value: 5.03
+
+
+source: Henry's Star A, target: Kimanjano A, value: 5.95
+
+
+source: Henry's Star A, target: Beta Canum Venaticorum A, value: 4.55
+
+
+source: Henry's Star A, target: C1 A, value: 7.65
+
+
+source: Henry's Star A, target: DM+36 2219 A, value: 5.65
+
+
+source: Henry's Star A, target: Berthier A, value: 6.95
+
+
+source: Henry's Star A, target: 61 Ursae Majoris A, value: 2.36
+
+
+source: Henry's Star A, target: DM+27 28217 A, value: 7.16
+
+
+source: Henry's Star A, target: Xi Ursae Majoris A, value: 5.03
+
+
+source: Henry's Star A, target: Xi Ursae Majoris B, value: 5.03
+
+
+source: Henry's Star A, target: Xi Ursae Majoris C, value: 5.03
+
+
+source: Henry's Star A, target: Xi Ursae Majoris D, value: 5.03
+
+
+source: DM+36 2219 A, target: Vogelheim A, value: 7.32
+
+
+source: DM+36 2219 A, target: Beta Canum Venaticorum A, value: 7.14
+
+
+source: DM+36 2219 A, target: Catherine's Star B, value: 5.65
+
+
+source: DM+36 2219 A, target: Henry's Star A, value: 5.65
+
+
+source: DM+36 2219 A, target: Berthier A, value: 7.9
+
+
+source: DM+36 2219 A, target: 61 Ursae Majoris A, value: 4.85
+
+
+source: DM+36 2219 A, target: DM+27 28217 A, value: 5.47
+
+
+source: DM+36 2219 A, target: Xi Ursae Majoris A, value: 6.3
+
+
+source: DM+36 2219 A, target: Xi Ursae Majoris B, value: 6.3
+
+
+source: DM+36 2219 A, target: Xi Ursae Majoris C, value: 6.3
+
+
+source: DM+36 2219 A, target: Xi Ursae Majoris D, value: 6.3
+
+
+source: Ross 119 A, target: Beta Virginis A, value: 5.06
+
+
+source: DM-51 5974 A, target: DM-51 6859 A, value: 4.02
+
+
+source: L 901-10 A, target: DM-9 3413 A, value: 2.82
+
+
+source: L 901-10 A, target: L 829-26 A, value: 3.22
+
+
+source: Beta Virginis A, target: Gamma Virginis A, value: 7.42
+
+
+source: Beta Virginis A, target: Gamma Virginis B, value: 7.42
+
+
+source: Beta Virginis A, target: Ross 119 A, value: 5.06
+
+
+source: DM+66 34 A, target: DM+74 1047 A, value: 5.33
+
+
+source: DM+66 34 A, target: DM+74 1047 B, value: 5.33
+
+
+source: DM+66 34 A, target: DM+74 1047 C, value: 5.33
+
+
+source: DM+66 34 A, target: DM+61 195 A, value: 4.78
+
+
+source: DM+66 34 A, target: DM+61 195 B, value: 4.78
+
+
+source: DM+66 34 A, target: Wolf 47 A, value: 4.78
+
+
+source: DM+66 34 A, target: DM+63 238 A, value: 7.03
+
+
+source: DM+66 34 A, target: DM+61 366 A, value: 6.55
+
+
+source: DM+66 34 B, target: DM+74 1047 A, value: 5.33
+
+
+source: DM+66 34 B, target: DM+74 1047 B, value: 5.33
+
+
+source: DM+66 34 B, target: DM+74 1047 C, value: 5.33
+
+
+source: DM+66 34 B, target: DM+61 195 A, value: 4.78
+
+
+source: DM+66 34 B, target: DM+61 195 B, value: 4.78
+
+
+source: DM+66 34 B, target: Wolf 47 A, value: 4.78
+
+
+source: DM+66 34 B, target: DM+63 238 A, value: 7.03
+
+
+source: DM+66 34 B, target: DM+61 366 A, value: 6.55
+
+
+source: Berthier A, target: Beta Canum Venaticorum A, value: 6.75
+
+
+source: Berthier A, target: DM+45 2014 A, value: 7.93
+
+
+source: Berthier A, target: C1 A, value: 6.46
+
+
+source: Berthier A, target: Catherine's Star B, value: 6.95
+
+
+source: Berthier A, target: Henry's Star A, value: 6.95
+
+
+source: Berthier A, target: DM+36 2219 A, value: 7.9
+
+
+source: Berthier A, target: DM+50 1832 A, value: 5
+
+
+source: Bessieres A, target: Ross 128 A, value: 6.44
+
+
+source: Bessieres A, target: Nyotekundu A, value: 4
+
+
+source: Bessieres A, target: Neubayern A, value: 7.11
+
+
+source: Bessieres B, target: Ross 128 A, value: 6.44
+
+
+source: Bessieres B, target: Nyotekundu A, value: 4
+
+
+source: Bessieres B, target: Neubayern A, value: 7.11
+
+
+source: DM-39 7301 A, target: DM-26 8883 A, value: 7.44
+
+
+source: DM-39 7301 A, target: DM-43 7228 A, value: 7.48
+
+
+source: DM-39 7301 A, target: DM-32 8179 A, value: 4.94
+
+
+source: DM-39 7301 A, target: VB 4 B, value: 4.94
+
+
+source: DM-39 7301 A, target: DM-31 9113 A, value: 5.53
+
+
+source: DM-39 7301 A, target: L 396-7 A, value: 5.38
+
+
+source: VB 5 B, target: DM-26 8883 A, value: 7.44
+
+
+source: VB 5 B, target: DM-43 7228 A, value: 7.48
+
+
+source: VB 5 B, target: DM-32 8179 A, value: 4.94
+
+
+source: VB 5 B, target: VB 4 B, value: 4.94
+
+
+source: VB 5 B, target: DM-31 9113 A, value: 5.53
+
+
+source: VB 5 B, target: L 396-7 A, value: 5.38
+
+
+source: AC+71 532 A, target: DM+61 195 A, value: 6.55
+
+
+source: AC+71 532 A, target: DM+61 195 B, value: 6.55
+
+
+source: AC+71 532 A, target: Wolf 47 A, value: 6.55
+
+
+source: AC+71 532 A, target: Mu Cassiopeiae A, value: 7.43
+
+
+source: AC+71 532 A, target: Mu Cassiopeiae B, value: 7.43
+
+
+source: AC+71 532 A, target: DM+63 238 A, value: 5.12
+
+
+source: DM+66 717 A, target: AC+66 3955 A, value: 4.36
+
+
+source: DM+66 717 A, target: C1 A, value: 7.13
+
+
+source: Eta Cassiopeiae A, target: DM+43 4305 A, value: 7.93
+
+
+source: Eta Cassiopeiae A, target: DM+43 4305 B, value: 7.93
+
+
+source: Eta Cassiopeiae A, target: DM+56 2966 A, value: 5.49
+
+
+source: Eta Cassiopeiae A, target: Mu Cassiopeiae A, value: 6.14
+
+
+source: Eta Cassiopeiae A, target: Mu Cassiopeiae B, value: 6.14
+
+
+source: Eta Cassiopeiae B, target: DM+43 4305 A, value: 7.93
+
+
+source: Eta Cassiopeiae B, target: DM+43 4305 B, value: 7.93
+
+
+source: Eta Cassiopeiae B, target: DM+56 2966 A, value: 5.49
+
+
+source: Eta Cassiopeiae B, target: Mu Cassiopeiae A, value: 6.14
+
+
+source: Eta Cassiopeiae B, target: Mu Cassiopeiae B, value: 6.14
+
+
+source: L 1154-29 A, target: DM+20 85 A, value: 6.46
+
+
+source: Nyotekundu A, target: Wolf 424 A, value: 7.74
+
+
+source: Nyotekundu A, target: Wolf 424 B, value: 7.74
+
+
+source: Nyotekundu A, target: Sol A, value: 7.65
+
+
+source: Nyotekundu A, target: Ross 128 A, value: 3.93
+
+
+source: Nyotekundu A, target: Bessieres A, value: 4
+
+
+source: Nyotekundu A, target: Bessieres B, value: 4
+
+
+source: 61 Ursae Majoris A, target: Kimanjano A, value: 7.24
+
+
+source: 61 Ursae Majoris A, target: Beta Canum Venaticorum A, value: 6.52
+
+
+source: 61 Ursae Majoris A, target: Catherine's Star B, value: 2.36
+
+
+source: 61 Ursae Majoris A, target: Henry's Star A, value: 2.36
+
+
+source: 61 Ursae Majoris A, target: DM+36 2219 A, value: 4.85
+
+
+source: 61 Ursae Majoris A, target: DM+27 28217 A, value: 5.02
+
+
+source: 61 Ursae Majoris A, target: Xi Ursae Majoris A, value: 2.94
+
+
+source: 61 Ursae Majoris A, target: Xi Ursae Majoris B, value: 2.94
+
+
+source: 61 Ursae Majoris A, target: Xi Ursae Majoris C, value: 2.94
+
+
+source: 61 Ursae Majoris A, target: Xi Ursae Majoris D, value: 2.94
+
+
+source: DM+40 45 A, target: DM+39 154 A, value: 3.87
+
+
+source: Denebola A, target: Ross 627 A, value: 7.63
+
+
+source: DM+27 28217 A, target: Catherine's Star B, value: 7.16
+
+
+source: DM+27 28217 A, target: Henry's Star A, value: 7.16
+
+
+source: DM+27 28217 A, target: DM+36 2219 A, value: 5.47
+
+
+source: DM+27 28217 A, target: 61 Ursae Majoris A, value: 5.02
+
+
+source: DM+27 28217 A, target: Xi Ursae Majoris A, value: 4.77
+
+
+source: DM+27 28217 A, target: Xi Ursae Majoris B, value: 4.77
+
+
+source: DM+27 28217 A, target: Xi Ursae Majoris C, value: 4.77
+
+
+source: DM+27 28217 A, target: Xi Ursae Majoris D, value: 4.77
+
+
+source: DM+27 28217 A, target: Ross 627 A, value: 7.48
+
+
+source: L 829-26 A, target: DM-9 3413 A, value: 2.87
+
+
+source: L 829-26 A, target: L 901-10 A, value: 3.22
+
+
+source: DM-43 7228 A, target: DM-45 7872 A, value: 7.52
+
+
+source: DM-43 7228 A, target: DM-39 7301 A, value: 7.48
+
+
+source: DM-43 7228 A, target: VB 5 B, value: 7.48
+
+
+source: DM-43 7228 A, target: L 396-7 A, value: 3.23
+
+
+source: Van Maanen's Star A, target: DM+1 4774 A, value: 6.47
+
+
+source: Van Maanen's Star A, target: Qinyuan A, value: 7
+
+
+source: Van Maanen's Star A, target: UV Ceti B, value: 7
+
+
+source: Van Maanen's Star A, target: Tau Ceti A, value: 5.91
+
+
+source: Van Maanen's Star A, target: Haifeng A, value: 5.07
+
+
+source: DM-60 3532 A, target: L 192-72 A, value: 6.8
+
+
+source: DM-60 3532 B, target: L 192-72 A, value: 6.8
+
+
+source: Augereau A, target: Queen Alice's Star A, value: 5.82
+
+
+source: Augereau A, target: Neubayern A, value: 4.23
+
+
+source: Augereau A, target: DM+53 1320 A, value: 6.89
+
+
+source: Augereau A, target: DM+53 1321 B, value: 6.89
+
+
+source: DM-32 8179 A, target: DM-26 8883 A, value: 4.06
+
+
+source: DM-32 8179 A, target: DM-39 7301 A, value: 4.94
+
+
+source: DM-32 8179 A, target: VB 5 B, value: 4.94
+
+
+source: DM-32 8179 A, target: DM-31 9113 A, value: 4.77
+
+
+source: DM-32 8179 A, target: DM-19 3242 A, value: 7.29
+
+
+source: DM-32 8179 A, target: DM-19 3242 B, value: 7.29
+
+
+source: DM-32 8179 A, target: DM-23 9765 A, value: 5.7
+
+
+source: DM+50 1832 A, target: DM+45 2014 A, value: 6.34
+
+
+source: DM+50 1832 A, target: DM+55 1519 A, value: 7.26
+
+
+source: DM+50 1832 A, target: G197-50 B, value: 7.25
+
+
+source: DM+50 1832 A, target: Berthier A, value: 5
+
+
+source: DM+50 1832 A, target: DM+56 1458 A, value: 7.77
+
+
+source: DM+50 1832 A, target: DM+56 1459 A, value: 7.77
+
+
+source: VB 4 B, target: DM-26 8883 A, value: 4.06
+
+
+source: VB 4 B, target: DM-39 7301 A, value: 4.94
+
+
+source: VB 4 B, target: VB 5 B, value: 4.94
+
+
+source: VB 4 B, target: DM-31 9113 A, value: 4.77
+
+
+source: VB 4 B, target: DM-19 3242 A, value: 7.29
+
+
+source: VB 4 B, target: DM-19 3242 B, value: 7.29
+
+
+source: VB 4 B, target: DM-23 9765 A, value: 5.7
+
+
+source: WX Ursae Majoris B, target: Queen Alice's Star A, value: 5.82
+
+
+source: WX Ursae Majoris B, target: Neubayern A, value: 4.23
+
+
+source: WX Ursae Majoris B, target: DM+53 1320 A, value: 6.89
+
+
+source: WX Ursae Majoris B, target: DM+53 1321 B, value: 6.89
+
+
+source: DM-68 47 A, target: L 49-19 A, value: 6.67
+
+
+source: DM-68 47 A, target: Zeta Tucanae A, value: 6.08
+
+
+source: Qinyuan A, target: L 789-6 A, value: 7.35
+
+
+source: Qinyuan A, target: Lacaille 9352 A, value: 7.08
+
+
+source: Qinyuan A, target: Hunjiang A, value: 7.91
+
+
+source: Qinyuan A, target: Van Maanen's Star A, value: 7
+
+
+source: Qinyuan A, target: Tau Ceti A, value: 2.91
+
+
+source: Qinyuan A, target: Epsilon Eridani A, value: 5.22
+
+
+source: Qinyuan A, target: Epsilon Eridani B, value: 5.22
+
+
+source: UV Ceti B, target: L 789-6 A, value: 7.35
+
+
+source: UV Ceti B, target: Lacaille 9352 A, value: 7.08
+
+
+source: UV Ceti B, target: Hunjiang A, value: 7.91
+
+
+source: UV Ceti B, target: Van Maanen's Star A, value: 7
+
+
+source: UV Ceti B, target: Tau Ceti A, value: 2.91
+
+
+source: UV Ceti B, target: Epsilon Eridani A, value: 5.22
+
+
+source: UV Ceti B, target: Epsilon Eridani B, value: 5.22
+
+
+source: DM-31 9113 A, target: DM-26 8883 A, value: 5.59
+
+
+source: DM-31 9113 A, target: DM-39 7301 A, value: 5.53
+
+
+source: DM-31 9113 A, target: VB 5 B, value: 5.53
+
+
+source: DM-31 9113 A, target: DM-32 8179 A, value: 4.77
+
+
+source: DM-31 9113 A, target: VB 4 B, value: 4.77
+
+
+source: DM-31 9113 A, target: L 396-7 A, value: 6.05
+
+
+source: DM-31 9113 A, target: DM-23 9765 A, value: 6.86
+
+
+source: DM+61 195 A, target: DM+66 34 A, value: 4.78
+
+
+source: DM+61 195 A, target: DM+66 34 B, value: 4.78
+
+
+source: DM+61 195 A, target: AC+71 532 A, value: 6.55
+
+
+source: DM+61 195 A, target: Mu Cassiopeiae A, value: 6.52
+
+
+source: DM+61 195 A, target: Mu Cassiopeiae B, value: 6.52
+
+
+source: DM+61 195 A, target: DM+63 238 A, value: 3.25
+
+
+source: DM+61 195 A, target: DM+61 366 A, value: 4.36
+
+
+source: DM+61 195 B, target: DM+66 34 A, value: 4.78
+
+
+source: DM+61 195 B, target: DM+66 34 B, value: 4.78
+
+
+source: DM+61 195 B, target: AC+71 532 A, value: 6.55
+
+
+source: DM+61 195 B, target: Mu Cassiopeiae A, value: 6.52
+
+
+source: DM+61 195 B, target: Mu Cassiopeiae B, value: 6.52
+
+
+source: DM+61 195 B, target: DM+63 238 A, value: 3.25
+
+
+source: DM+61 195 B, target: DM+61 366 A, value: 4.36
+
+
+source: Wolf 47 A, target: DM+66 34 A, value: 4.78
+
+
+source: Wolf 47 A, target: DM+66 34 B, value: 4.78
+
+
+source: Wolf 47 A, target: AC+71 532 A, value: 6.55
+
+
+source: Wolf 47 A, target: Mu Cassiopeiae A, value: 6.52
+
+
+source: Wolf 47 A, target: Mu Cassiopeiae B, value: 6.52
+
+
+source: Wolf 47 A, target: DM+63 238 A, value: 3.25
+
+
+source: Wolf 47 A, target: DM+61 366 A, value: 4.36
+
+
+source: L 396-7 A, target: DM-39 7301 A, value: 5.38
+
+
+source: L 396-7 A, target: VB 5 B, value: 5.38
+
+
+source: L 396-7 A, target: DM-43 7228 A, value: 3.23
+
+
+source: L 396-7 A, target: DM-31 9113 A, value: 6.05
+
+
+source: Mu Cassiopeiae A, target: DM+56 2966 A, value: 7.18
+
+
+source: Mu Cassiopeiae A, target: AC+71 532 A, value: 7.43
+
+
+source: Mu Cassiopeiae A, target: Eta Cassiopeiae A, value: 6.14
+
+
+source: Mu Cassiopeiae A, target: Eta Cassiopeiae B, value: 6.14
+
+
+source: Mu Cassiopeiae A, target: DM+61 195 A, value: 6.52
+
+
+source: Mu Cassiopeiae A, target: DM+61 195 B, value: 6.52
+
+
+source: Mu Cassiopeiae A, target: Wolf 47 A, value: 6.52
+
+
+source: Mu Cassiopeiae A, target: DM+63 238 A, value: 5.96
+
+
+source: Mu Cassiopeiae B, target: DM+56 2966 A, value: 7.18
+
+
+source: Mu Cassiopeiae B, target: AC+71 532 A, value: 7.43
+
+
+source: Mu Cassiopeiae B, target: Eta Cassiopeiae A, value: 6.14
+
+
+source: Mu Cassiopeiae B, target: Eta Cassiopeiae B, value: 6.14
+
+
+source: Mu Cassiopeiae B, target: DM+61 195 A, value: 6.52
+
+
+source: Mu Cassiopeiae B, target: DM+61 195 B, value: 6.52
+
+
+source: Mu Cassiopeiae B, target: Wolf 47 A, value: 6.52
+
+
+source: Mu Cassiopeiae B, target: DM+63 238 A, value: 5.96
+
+
+source: AC+82 1111 A, target: AC+79 1584 A, value: 5.75
+
+
+source: DM+4 123 A, target: DM+1 4774 A, value: 6.65
+
+
+source: Neubayern A, target: Bessieres A, value: 7.11
+
+
+source: Neubayern A, target: Bessieres B, value: 7.11
+
+
+source: Neubayern A, target: Augereau A, value: 4.23
+
+
+source: Neubayern A, target: WX Ursae Majoris B, value: 4.23
+
+
+source: Neubayern A, target: DM+53 1320 A, value: 5.71
+
+
+source: Neubayern A, target: DM+53 1321 B, value: 5.71
+
+
+source: L 192-72 A, target: DM-60 3532 A, value: 6.8
+
+
+source: L 192-72 A, target: DM-60 3532 B, value: 6.8
+
+
+source: AC+79 1584 A, target: DM+74 1047 A, value: 7.08
+
+
+source: AC+79 1584 A, target: DM+74 1047 B, value: 7.08
+
+
+source: AC+79 1584 A, target: DM+74 1047 C, value: 7.08
+
+
+source: AC+79 1584 A, target: AC+82 1111 A, value: 5.75
+
+
+source: DM-56 328 B, target: Zeta Tucanae A, value: 5.42
+
+
+source: DM-56 328 B, target: 82 Eridani A, value: 7.59
+
+
+source: Rho Eridani A, target: Zeta Tucanae A, value: 5.42
+
+
+source: Rho Eridani A, target: 82 Eridani A, value: 7.59
+
+
+source: Tau Ceti A, target: Hunjiang A, value: 7.43
+
+
+source: Tau Ceti A, target: Van Maanen's Star A, value: 5.91
+
+
+source: Tau Ceti A, target: Qinyuan A, value: 2.91
+
+
+source: Tau Ceti A, target: UV Ceti B, value: 2.91
+
+
+source: Tau Ceti A, target: Haifeng A, value: 7.63
+
+
+source: Tau Ceti A, target: Epsilon Eridani A, value: 5.35
+
+
+source: Tau Ceti A, target: Epsilon Eridani B, value: 5.35
+
+
+source: AC+60 3496 A, target: DM+63 137 A, value: 4.95
+
+
+source: AC+60 3496 A, target: DM+62 274 A, value: 5.09
+
+
+source: AC+60 3496 A, target: DM+63 229 A, value: 4.84
+
+
+source: AC+60 3496 A, target: AC+56 13511 A, value: 5.36
+
+
+source: AC+60 3496 A, target: AC+58 13565 A, value: 5.56
+
+
+source: Xi Ursae Majoris A, target: Catherine's Star B, value: 5.03
+
+
+source: Xi Ursae Majoris A, target: Henry's Star A, value: 5.03
+
+
+source: Xi Ursae Majoris A, target: DM+36 2219 A, value: 6.3
+
+
+source: Xi Ursae Majoris A, target: 61 Ursae Majoris A, value: 2.94
+
+
+source: Xi Ursae Majoris A, target: DM+27 28217 A, value: 4.77
+
+
+source: Xi Ursae Majoris B, target: Catherine's Star B, value: 5.03
+
+
+source: Xi Ursae Majoris B, target: Henry's Star A, value: 5.03
+
+
+source: Xi Ursae Majoris B, target: DM+36 2219 A, value: 6.3
+
+
+source: Xi Ursae Majoris B, target: 61 Ursae Majoris A, value: 2.94
+
+
+source: Xi Ursae Majoris B, target: DM+27 28217 A, value: 4.77
+
+
+source: Xi Ursae Majoris C, target: Catherine's Star B, value: 5.03
+
+
+source: Xi Ursae Majoris C, target: Henry's Star A, value: 5.03
+
+
+source: Xi Ursae Majoris C, target: DM+36 2219 A, value: 6.3
+
+
+source: Xi Ursae Majoris C, target: 61 Ursae Majoris A, value: 2.94
+
+
+source: Xi Ursae Majoris C, target: DM+27 28217 A, value: 4.77
+
+
+source: Xi Ursae Majoris D, target: Catherine's Star B, value: 5.03
+
+
+source: Xi Ursae Majoris D, target: Henry's Star A, value: 5.03
+
+
+source: Xi Ursae Majoris D, target: DM+36 2219 A, value: 6.3
+
+
+source: Xi Ursae Majoris D, target: 61 Ursae Majoris A, value: 2.94
+
+
+source: Xi Ursae Majoris D, target: DM+27 28217 A, value: 4.77
+
+
+source: DM-28 302 A, target: Alpha Hydri A, value: 6.07
+
+
+source: DM+20 85 A, target: L 1154-29 A, value: 6.46
+
+
+source: AC+23 468-46 A, target: Wolf 358 A, value: 6.36
+
+
+source: DM-19 3242 A, target: DM-26 8883 A, value: 6.28
+
+
+source: DM-19 3242 A, target: DM-32 8179 A, value: 7.29
+
+
+source: DM-19 3242 A, target: VB 4 B, value: 7.29
+
+
+source: DM-19 3242 A, target: DM-23 9765 A, value: 2.82
+
+
+source: DM-19 3242 A, target: DM-18 3019 A, value: 5.38
+
+
+source: DM-19 3242 B, target: DM-26 8883 A, value: 6.28
+
+
+source: DM-19 3242 B, target: DM-32 8179 A, value: 7.29
+
+
+source: DM-19 3242 B, target: VB 4 B, value: 7.29
+
+
+source: DM-19 3242 B, target: DM-23 9765 A, value: 2.82
+
+
+source: DM-19 3242 B, target: DM-18 3019 A, value: 5.38
+
+
+source: DM+63 137 A, target: AC+60 3496 A, value: 4.95
+
+
+source: DM+63 137 A, target: DM+62 274 A, value: 2.6
+
+
+source: DM+63 137 A, target: DM+63 229 A, value: 3.54
+
+
+source: DM+63 238 A, target: DM+66 34 A, value: 7.03
+
+
+source: DM+63 238 A, target: DM+66 34 B, value: 7.03
+
+
+source: DM+63 238 A, target: AC+71 532 A, value: 5.12
+
+
+source: DM+63 238 A, target: DM+61 195 A, value: 3.25
+
+
+source: DM+63 238 A, target: DM+61 195 B, value: 3.25
+
+
+source: DM+63 238 A, target: Wolf 47 A, value: 3.25
+
+
+source: DM+63 238 A, target: Mu Cassiopeiae A, value: 5.96
+
+
+source: DM+63 238 A, target: Mu Cassiopeiae B, value: 5.96
+
+
+source: DM+63 238 A, target: DM+61 366 A, value: 4.17
+
+
+source: Wolf 1056 A, target: 85 Pegasi A, value: 6.35
+
+
+source: Wolf 1056 A, target: DM+26 4734 B, value: 6.35
+
+
+source: Wolf 1056 A, target: DM+26 4734 C, value: 6.35
+
+
+source: Wolf 1056 A, target: DM+28 4704 A, value: 6.65
+
+
+source: DM+39 154 A, target: DM+40 45 A, value: 3.87
+
+
+source: DM+39 154 A, target: DM+41 219 A, value: 4.63
+
+
+source: DM-25 225 A, target: DM-31 325 A, value: 5.78
+
+
+source: DM-25 225 A, target: DM-31 325 B, value: 5.78
+
+
+source: DM-25 225 A, target: DM-23 332 A, value: 5.57
+
+
+source: DM-25 225 B, target: DM-31 325 A, value: 5.78
+
+
+source: DM-25 225 B, target: DM-31 325 B, value: 5.78
+
+
+source: DM-25 225 B, target: DM-23 332 A, value: 5.57
+
+
+source: DM-42 249 B, target: DM-42 249 A, value: 1.15
+
+
+source: DM-42 249 B, target: Nu Phoenicis A, value: 5.15
+
+
+source: Ross 627 A, target: Denebola A, value: 7.63
+
+
+source: Ross 627 A, target: DM+27 28217 A, value: 7.48
+
+
+source: Ross 627 A, target: DM+31 2240 A, value: 6.68
+
+
+source: Ross 627 A, target: DM+31 2240 B, value: 6.68
+
+
+source: Ross 627 A, target: DM+22 2302 A, value: 3.37
+
+
+source: Ross 627 A, target: G44-42 A, value: 7.15
+
+
+source: DM-42 249 A, target: DM-42 249 B, value: 1.15
+
+
+source: DM-42 249 A, target: Nu Phoenicis A, value: 5.01
+
+
+source: L 97-12 A, target: L 145-141 A, value: 7.45
+
+
+source: DM-23 9765 A, target: DM-26 8883 A, value: 6.39
+
+
+source: DM-23 9765 A, target: DM-32 8179 A, value: 5.7
+
+
+source: DM-23 9765 A, target: VB 4 B, value: 5.7
+
+
+source: DM-23 9765 A, target: DM-31 9113 A, value: 6.86
+
+
+source: DM-23 9765 A, target: DM-19 3242 A, value: 2.82
+
+
+source: DM-23 9765 A, target: DM-19 3242 B, value: 2.82
+
+
+source: DM-23 9765 A, target: DM-18 3019 A, value: 5.08
+
+
+source: Wolf 358 A, target: AC+23 468-46 A, value: 6.36
+
+
+source: Wolf 358 A, target: DM+1 2447 A, value: 4.02
+
+
+source: Wolf 358 A, target: L 968-22 A, value: 7.89
+
+
+source: Haifeng A, target: Van Maanen's Star A, value: 5.07
+
+
+source: Haifeng A, target: Tau Ceti A, value: 7.63
+
+
+source: AC+70 4337 A, target: AC+70 4336 A, value: 0.1
+
+
+source: AC+70 4337 A, target: DM+71 482 A, value: 3.58
+
+
+source: AC+70 4337 A, target: DM+71 482 B, value: 3.58
+
+
+source: AC+70 4337 A, target: DM+63 869 A, value: 5.11
+
+
+source: AC+70 4337 A, target: DM+67 552 A, value: 5.81
+
+
+source: AC+70 4337 A, target: DM+67 552 B, value: 5.81
+
+
+source: AC+70 4336 A, target: AC+70 4337 A, value: 0.1
+
+
+source: AC+70 4336 A, target: DM+71 482 A, value: 3.55
+
+
+source: AC+70 4336 A, target: DM+71 482 B, value: 3.55
+
+
+source: AC+70 4336 A, target: DM+63 869 A, value: 5.08
+
+
+source: AC+70 4336 A, target: DM+67 552 A, value: 5.72
+
+
+source: AC+70 4336 A, target: DM+67 552 B, value: 5.72
+
+
+source: DM+61 366 A, target: DM+66 34 A, value: 6.55
+
+
+source: DM+61 366 A, target: DM+66 34 B, value: 6.55
+
+
+source: DM+61 366 A, target: DM+61 195 A, value: 4.36
+
+
+source: DM+61 366 A, target: DM+61 195 B, value: 4.36
+
+
+source: DM+61 366 A, target: Wolf 47 A, value: 4.36
+
+
+source: DM+61 366 A, target: DM+63 238 A, value: 4.17
+
+
+source: DM+61 366 A, target: AC+56 13511 A, value: 5.94
+
+
+source: DM+61 366 A, target: AC+58 13565 A, value: 7.51
+
+
+source: DM+31 2240 A, target: Ross 627 A, value: 6.68
+
+
+source: DM+31 2240 A, target: DM+22 2302 A, value: 6.18
+
+
+source: DM+31 2240 A, target: DM+39 2376 A, value: 6.88
+
+
+source: DM+31 2240 A, target: DM+39 2376 B, value: 6.88
+
+
+source: DM+31 2240 B, target: Ross 627 A, value: 6.68
+
+
+source: DM+31 2240 B, target: DM+22 2302 A, value: 6.18
+
+
+source: DM+31 2240 B, target: DM+39 2376 A, value: 6.88
+
+
+source: DM+31 2240 B, target: DM+39 2376 B, value: 6.88
+
+
+source: DM+53 1320 A, target: Augereau A, value: 6.89
+
+
+source: DM+53 1320 A, target: WX Ursae Majoris B, value: 6.89
+
+
+source: DM+53 1320 A, target: Neubayern A, value: 5.71
+
+
+source: DM+53 1321 B, target: Augereau A, value: 6.89
+
+
+source: DM+53 1321 B, target: WX Ursae Majoris B, value: 6.89
+
+
+source: DM+53 1321 B, target: Neubayern A, value: 5.71
+
+
+source: DM+62 274 A, target: AC+60 3496 A, value: 5.09
+
+
+source: DM+62 274 A, target: DM+63 137 A, value: 2.6
+
+
+source: DM+62 274 A, target: DM+63 229 A, value: 1.46
+
+
+source: DM+62 274 A, target: AC+58 13565 A, value: 6.32
+
+
+source: DM+63 229 A, target: AC+60 3496 A, value: 4.84
+
+
+source: DM+63 229 A, target: DM+63 137 A, value: 3.54
+
+
+source: DM+63 229 A, target: DM+62 274 A, value: 1.46
+
+
+source: DM+63 229 A, target: AC+56 13511 A, value: 7.58
+
+
+source: DM+63 229 A, target: AC+58 13565 A, value: 5.52
+
+
+source: Sirius A, target: Kapetyn's Star A, value: 7.49
+
+
+source: Sirius A, target: Procyon A, value: 5.17
+
+
+source: Sirius A, target: Procyon B, value: 5.17
+
+
+source: Sirius A, target: DM+5 1668 A, value: 5.68
+
+
+source: Sirius A, target: DM+5 1668 B, value: 5.68
+
+
+source: Sirius A, target: Ross 614 A, value: 5.03
+
+
+source: Sirius A, target: Ross 614 B, value: 5.03
+
+
+source: Sirius B, target: Kapetyn's Star A, value: 7.49
+
+
+source: Sirius B, target: Procyon A, value: 5.17
+
+
+source: Sirius B, target: Procyon B, value: 5.17
+
+
+source: Sirius B, target: DM+5 1668 A, value: 5.68
+
+
+source: Sirius B, target: DM+5 1668 B, value: 5.68
+
+
+source: Sirius B, target: Ross 614 A, value: 5.03
+
+
+source: Sirius B, target: Ross 614 B, value: 5.03
+
+
+source: AC+56 13511 A, target: AC+60 3496 A, value: 5.36
+
+
+source: AC+56 13511 A, target: DM+61 366 A, value: 5.94
+
+
+source: AC+56 13511 A, target: DM+63 229 A, value: 7.58
+
+
+source: AC+56 13511 A, target: AC+58 13565 A, value: 3.09
+
+
+source: Epsilon Eridani A, target: Qinyuan A, value: 5.22
+
+
+source: Epsilon Eridani A, target: UV Ceti B, value: 5.22
+
+
+source: Epsilon Eridani A, target: Tau Ceti A, value: 5.35
+
+
+source: Epsilon Eridani A, target: DM-7 781 B, value: 5.64
+
+
+source: Epsilon Eridani A, target: DM-7 781 C, value: 5.64
+
+
+source: Epsilon Eridani A, target: Omicron2 Eridani A, value: 5.64
+
+
+source: Epsilon Eridani B, target: Qinyuan A, value: 5.22
+
+
+source: Epsilon Eridani B, target: UV Ceti B, value: 5.22
+
+
+source: Epsilon Eridani B, target: Tau Ceti A, value: 5.35
+
+
+source: Epsilon Eridani B, target: DM-7 781 B, value: 5.64
+
+
+source: Epsilon Eridani B, target: DM-7 781 C, value: 5.64
+
+
+source: Epsilon Eridani B, target: Omicron2 Eridani A, value: 5.64
+
+
+source: DM+56 1458 A, target: DM+50 1832 A, value: 7.77
+
+
+source: DM+56 1458 A, target: DM+63 869 A, value: 5.53
+
+
+source: DM+56 1459 A, target: DM+50 1832 A, value: 7.77
+
+
+source: DM+56 1459 A, target: DM+63 869 A, value: 5.53
+
+
+source: DM+71 482 A, target: AC+70 4337 A, value: 3.58
+
+
+source: DM+71 482 A, target: AC+70 4336 A, value: 3.55
+
+
+source: DM+71 482 A, target: DM+63 869 A, value: 7.35
+
+
+source: DM+71 482 A, target: DM+67 552 A, value: 6.52
+
+
+source: DM+71 482 A, target: DM+67 552 B, value: 6.52
+
+
+source: DM+71 482 B, target: AC+70 4337 A, value: 3.58
+
+
+source: DM+71 482 B, target: AC+70 4336 A, value: 3.55
+
+
+source: DM+71 482 B, target: DM+63 869 A, value: 7.35
+
+
+source: DM+71 482 B, target: DM+67 552 A, value: 6.52
+
+
+source: DM+71 482 B, target: DM+67 552 B, value: 6.52
+
+
+source: DM-31 325 A, target: DM-25 225 A, value: 5.78
+
+
+source: DM-31 325 A, target: DM-25 225 B, value: 5.78
+
+
+source: DM-31 325 A, target: DM-23 332 A, value: 6.55
+
+
+source: DM-31 325 B, target: DM-25 225 A, value: 5.78
+
+
+source: DM-31 325 B, target: DM-25 225 B, value: 5.78
+
+
+source: DM-31 325 B, target: DM-23 332 A, value: 6.55
+
+
+source: Kapetyn's Star A, target: Sirius A, value: 7.49
+
+
+source: Kapetyn's Star A, target: Sirius B, value: 7.49
+
+
+source: DM+22 2302 A, target: Ross 627 A, value: 3.37
+
+
+source: DM+22 2302 A, target: DM+31 2240 A, value: 6.18
+
+
+source: DM+22 2302 A, target: DM+31 2240 B, value: 6.18
+
+
+source: DM+22 2302 A, target: G44-42 A, value: 5.64
+
+
+source: DM+41 2147 A, target: DM+39 2376 A, value: 6.16
+
+
+source: DM+41 2147 A, target: DM+39 2376 B, value: 6.16
+
+
+source: DM+41 2147 A, target: DM+46 1635 A, value: 5.98
+
+
+source: DM+63 869 A, target: AC+70 4337 A, value: 5.11
+
+
+source: DM+63 869 A, target: AC+70 4336 A, value: 5.08
+
+
+source: DM+63 869 A, target: DM+56 1458 A, value: 5.53
+
+
+source: DM+63 869 A, target: DM+56 1459 A, value: 5.53
+
+
+source: DM+63 869 A, target: DM+71 482 A, value: 7.35
+
+
+source: DM+63 869 A, target: DM+71 482 B, value: 7.35
+
+
+source: DM+63 869 A, target: DM+67 552 A, value: 7.11
+
+
+source: DM+63 869 A, target: DM+67 552 B, value: 7.11
+
+
+source: DM-23 332 A, target: DM-25 225 A, value: 5.57
+
+
+source: DM-23 332 A, target: DM-25 225 B, value: 5.57
+
+
+source: DM-23 332 A, target: DM-31 325 A, value: 6.55
+
+
+source: DM-23 332 A, target: DM-31 325 B, value: 6.55
+
+
+source: DM+19 279 A, target: L 1303-10 A, value: 5.41
+
+
+source: DM+19 279 A, target: DM+6 398 A, value: 7.79
+
+
+source: DM+19 279 A, target: DM+6 398 B, value: 7.79
+
+
+source: DM+19 279 A, target: DM+6 398 C, value: 7.79
+
+
+source: DM+19 279 A, target: AC+25 7918 A, value: 6.6
+
+
+source: DM+41 219 A, target: DM+39 154 A, value: 4.63
+
+
+source: Nu Phoenicis A, target: DM-42 249 B, value: 5.15
+
+
+source: Nu Phoenicis A, target: DM-42 249 A, value: 5.01
+
+
+source: Nu Phoenicis A, target: DM-47 502 A, value: 5.88
+
+
+source: DM+1 2447 A, target: Wolf 358 A, value: 4.02
+
+
+source: DM+1 2447 A, target: L 897-16 A, value: 7.69
+
+
+source: DM+1 2447 A, target: L 968-22 A, value: 3.93
+
+
+source: DM+1 2447 A, target: DM-3 2870 A, value: 4.94
+
+
+source: DM+1 2447 A, target: DM-3 2870 B, value: 4.94
+
+
+source: DM+39 2376 A, target: DM+31 2240 A, value: 6.88
+
+
+source: DM+39 2376 A, target: DM+31 2240 B, value: 6.88
+
+
+source: DM+39 2376 A, target: DM+41 2147 A, value: 6.16
+
+
+source: DM+39 2376 B, target: DM+31 2240 A, value: 6.88
+
+
+source: DM+39 2376 B, target: DM+31 2240 B, value: 6.88
+
+
+source: DM+39 2376 B, target: DM+41 2147 A, value: 6.16
+
+
+source: AC+58 13565 A, target: AC+60 3496 A, value: 5.56
+
+
+source: AC+58 13565 A, target: DM+61 366 A, value: 7.51
+
+
+source: AC+58 13565 A, target: DM+62 274 A, value: 6.32
+
+
+source: AC+58 13565 A, target: DM+63 229 A, value: 5.52
+
+
+source: AC+58 13565 A, target: AC+56 13511 A, value: 3.09
+
+
+source: L 89-27 A, target: Alpha Hydri A, value: 4.85
+
+
+source: Procyon A, target: Sirius A, value: 5.17
+
+
+source: Procyon A, target: Sirius B, value: 5.17
+
+
+source: Procyon A, target: DM+5 1668 A, value: 1.12
+
+
+source: Procyon A, target: DM+5 1668 B, value: 1.12
+
+
+source: Procyon A, target: Ross 614 A, value: 4.33
+
+
+source: Procyon A, target: Ross 614 B, value: 4.33
+
+
+source: Procyon B, target: Sirius A, value: 5.17
+
+
+source: Procyon B, target: Sirius B, value: 5.17
+
+
+source: Procyon B, target: DM+5 1668 A, value: 1.12
+
+
+source: Procyon B, target: DM+5 1668 B, value: 1.12
+
+
+source: Procyon B, target: Ross 614 A, value: 4.33
+
+
+source: Procyon B, target: Ross 614 B, value: 4.33
+
+
+source: DM-18 3019 A, target: DM-19 3242 A, value: 5.38
+
+
+source: DM-18 3019 A, target: DM-19 3242 B, value: 5.38
+
+
+source: DM-18 3019 A, target: DM-23 9765 A, value: 5.08
+
+
+source: DM-18 3019 A, target: L 897-16 A, value: 7.78
+
+
+source: DM-18 3019 A, target: L 824-28 A, value: 7.42
+
+
+source: Alpha Hydri A, target: DM-28 302 A, value: 6.07
+
+
+source: Alpha Hydri A, target: L 89-27 A, value: 4.85
+
+
+source: Alpha Hydri A, target: DM-54 487 A, value: 7.07
+
+
+source: L 897-16 A, target: DM+1 2447 A, value: 7.69
+
+
+source: L 897-16 A, target: DM-18 3019 A, value: 7.78
+
+
+source: L 897-16 A, target: L 968-22 A, value: 5.57
+
+
+source: L 897-16 A, target: DM-3 2870 A, value: 4.75
+
+
+source: L 897-16 A, target: DM-3 2870 B, value: 4.75
+
+
+source: 82 Eridani A, target: DM-56 328 B, value: 7.59
+
+
+source: 82 Eridani A, target: Rho Eridani A, value: 7.59
+
+
+source: G44-42 A, target: Ross 627 A, value: 7.15
+
+
+source: G44-42 A, target: DM+22 2302 A, value: 5.64
+
+
+source: DM+5 1668 A, target: Sirius A, value: 5.68
+
+
+source: DM+5 1668 A, target: Sirius B, value: 5.68
+
+
+source: DM+5 1668 A, target: Procyon A, value: 1.12
+
+
+source: DM+5 1668 A, target: Procyon B, value: 1.12
+
+
+source: DM+5 1668 A, target: Ross 614 A, value: 3.69
+
+
+source: DM+5 1668 A, target: Ross 614 B, value: 3.69
+
+
+source: DM+5 1668 A, target: YZ Canis Minoris A, value: 7.46
+
+
+source: DM+5 1668 B, target: Sirius A, value: 5.68
+
+
+source: DM+5 1668 B, target: Sirius B, value: 5.68
+
+
+source: DM+5 1668 B, target: Procyon A, value: 1.12
+
+
+source: DM+5 1668 B, target: Procyon B, value: 1.12
+
+
+source: DM+5 1668 B, target: Ross 614 A, value: 3.69
+
+
+source: DM+5 1668 B, target: Ross 614 B, value: 3.69
+
+
+source: DM+5 1668 B, target: YZ Canis Minoris A, value: 7.46
+
+
+source: DM-41 328 A, target: Delta Trianguli A, value: 7.77
+
+
+source: DM-41 328 A, target: Delta Trianguli B, value: 7.77
+
+
+source: DM-45 5378 A, target: DM-42 5678 A, value: 3.33
+
+
+source: DM-45 5378 A, target: DM-40 5404 A, value: 4.84
+
+
+source: L 127-97 A, target: Zeta1 Reticuli A, value: 3.72
+
+
+source: L 127-97 A, target: Zeta2 Reticuli A, value: 3.75
+
+
+source: DM-51 532 A, target: DM-54 487 A, value: 7.83
+
+
+source: DM-51 532 A, target: DM-44 775 A, value: 5.65
+
+
+source: DM-51 532 A, target: DM-44 775 B, value: 5.65
+
+
+source: DM+46 1635 A, target: DM+41 2147 A, value: 5.98
+
+
+source: DM+46 1635 A, target: DM+48 1829 A, value: 5
+
+
+source: DM+46 1635 A, target: DM+46 1551 A, value: 7.11
+
+
+source: DM+46 1635 A, target: DM+43 1953 A, value: 7.52
+
+
+source: DM+67 552 A, target: AC+70 4337 A, value: 5.81
+
+
+source: DM+67 552 A, target: AC+70 4336 A, value: 5.72
+
+
+source: DM+67 552 A, target: DM+71 482 A, value: 6.52
+
+
+source: DM+67 552 A, target: DM+71 482 B, value: 6.52
+
+
+source: DM+67 552 A, target: DM+63 869 A, value: 7.11
+
+
+source: DM+67 552 B, target: AC+70 4337 A, value: 5.81
+
+
+source: DM+67 552 B, target: AC+70 4336 A, value: 5.72
+
+
+source: DM+67 552 B, target: DM+71 482 A, value: 6.52
+
+
+source: DM+67 552 B, target: DM+71 482 B, value: 6.52
+
+
+source: DM+67 552 B, target: DM+63 869 A, value: 7.11
+
+
+source: Zeta1 Reticuli A, target: L 127-97 A, value: 3.72
+
+
+source: Zeta1 Reticuli A, target: Zeta2 Reticuli A, value: 0.1
+
+
+source: Zeta2 Reticuli A, target: L 127-97 A, value: 3.75
+
+
+source: Zeta2 Reticuli A, target: Zeta1 Reticuli A, value: 0.1
+
+
+source: Ross 614 A, target: Sirius A, value: 5.03
+
+
+source: Ross 614 A, target: Sirius B, value: 5.03
+
+
+source: Ross 614 A, target: Procyon A, value: 4.33
+
+
+source: Ross 614 A, target: Procyon B, value: 4.33
+
+
+source: Ross 614 A, target: DM+5 1668 A, value: 3.69
+
+
+source: Ross 614 A, target: DM+5 1668 B, value: 3.69
+
+
+source: Ross 614 A, target: DM-21 1377 A, value: 7.79
+
+
+source: Ross 614 A, target: DM-3 1123 A, value: 7.37
+
+
+source: Ross 614 A, target: LP 658-2 A, value: 7.1
+
+
+source: Ross 614 B, target: Sirius A, value: 5.03
+
+
+source: Ross 614 B, target: Sirius B, value: 5.03
+
+
+source: Ross 614 B, target: Procyon A, value: 4.33
+
+
+source: Ross 614 B, target: Procyon B, value: 4.33
+
+
+source: Ross 614 B, target: DM+5 1668 A, value: 3.69
+
+
+source: Ross 614 B, target: DM+5 1668 B, value: 3.69
+
+
+source: Ross 614 B, target: DM-21 1377 A, value: 7.79
+
+
+source: Ross 614 B, target: DM-3 1123 A, value: 7.37
+
+
+source: Ross 614 B, target: LP 658-2 A, value: 7.1
+
+
+source: DM-42 5678 A, target: DM-45 5378 A, value: 3.33
+
+
+source: DM-42 5678 A, target: DM-40 5404 A, value: 2.14
+
+
+source: DM-42 5678 A, target: DM-38 4789 A, value: 7.91
+
+
+source: L 968-22 A, target: Wolf 358 A, value: 7.89
+
+
+source: L 968-22 A, target: DM+1 2447 A, value: 3.93
+
+
+source: L 968-22 A, target: L 897-16 A, value: 5.57
+
+
+source: L 968-22 A, target: DM-3 2870 A, value: 1.15
+
+
+source: L 968-22 A, target: DM-3 2870 B, value: 1.15
+
+
+source: L 968-22 A, target: DM-12 2918 A, value: 7.62
+
+
+source: L 968-22 A, target: DM-12 2918 B, value: 7.62
+
+
+source: DM-3 2870 A, target: DM+1 2447 A, value: 4.94
+
+
+source: DM-3 2870 A, target: L 897-16 A, value: 4.75
+
+
+source: DM-3 2870 A, target: L 968-22 A, value: 1.15
+
+
+source: DM-3 2870 A, target: DM-12 2918 A, value: 7.26
+
+
+source: DM-3 2870 A, target: DM-12 2918 B, value: 7.26
+
+
+source: DM-3 2870 B, target: DM+1 2447 A, value: 4.94
+
+
+source: DM-3 2870 B, target: L 897-16 A, value: 4.75
+
+
+source: DM-3 2870 B, target: L 968-22 A, value: 1.15
+
+
+source: DM-3 2870 B, target: DM-12 2918 A, value: 7.26
+
+
+source: DM-3 2870 B, target: DM-12 2918 B, value: 7.26
+
+
+source: DM+32 828 A, target: DM-18 359 A, value: 7.38
+
+
+source: L 1303-10 A, target: DM+19 279 A, value: 5.41
+
+
+source: L 1303-10 A, target: DM+6 398 A, value: 7.57
+
+
+source: L 1303-10 A, target: DM+6 398 B, value: 7.57
+
+
+source: L 1303-10 A, target: DM+6 398 C, value: 7.57
+
+
+source: L 1303-10 A, target: AC+25 7918 A, value: 1.35
+
+
+source: DM-18 359 A, target: DM+32 828 A, value: 7.38
+
+
+source: DM-18 359 A, target: DM-23 693 A, value: 7.87
+
+
+source: DM-18 359 A, target: DM-13 544 A, value: 6.6
+
+
+source: DM-47 502 A, target: Nu Phoenicis A, value: 5.88
+
+
+source: DM-7 781 B, target: Epsilon Eridani A, value: 5.64
+
+
+source: DM-7 781 B, target: Epsilon Eridani B, value: 5.64
+
+
+source: DM-7 781 B, target: DM-3 1123 A, value: 6.71
+
+
+source: DM-7 781 C, target: Epsilon Eridani A, value: 5.64
+
+
+source: DM-7 781 C, target: Epsilon Eridani B, value: 5.64
+
+
+source: DM-7 781 C, target: DM-3 1123 A, value: 6.71
+
+
+source: Omicron2 Eridani A, target: Epsilon Eridani A, value: 5.64
+
+
+source: Omicron2 Eridani A, target: Epsilon Eridani B, value: 5.64
+
+
+source: Omicron2 Eridani A, target: DM-3 1123 A, value: 6.71
+
+
+source: AC+3 2259-31 A, target: DM+2 348 A, value: 4.22
+
+
+source: DM-54 487 A, target: Alpha Hydri A, value: 7.07
+
+
+source: DM-54 487 A, target: DM-51 532 A, value: 7.83
+
+
+source: DM-54 487 A, target: Iota Horologii A, value: 4.72
+
+
+source: AC+38 23616 A, target: AC+33 25644 A, value: 2.03
+
+
+source: AC+38 23616 B, target: AC+33 25644 A, value: 2.03
+
+
+source: DM+6 398 A, target: DM+19 279 A, value: 7.79
+
+
+source: DM+6 398 A, target: L 1303-10 A, value: 7.57
+
+
+source: DM+6 398 B, target: DM+19 279 A, value: 7.79
+
+
+source: DM+6 398 B, target: L 1303-10 A, value: 7.57
+
+
+source: DM+6 398 C, target: DM+19 279 A, value: 7.79
+
+
+source: DM+6 398 C, target: L 1303-10 A, value: 7.57
+
+
+source: AC+25 7918 A, target: DM+19 279 A, value: 6.6
+
+
+source: AC+25 7918 A, target: L 1303-10 A, value: 1.35
+
+
+source: L 678-39 A, target: DM-12 2918 A, value: 4.91
+
+
+source: L 678-39 A, target: DM-12 2918 B, value: 4.91
+
+
+source: L 678-39 A, target: L 675-81 A, value: 6.26
+
+
+source: DM-40 5404 A, target: DM-45 5378 A, value: 4.84
+
+
+source: DM-40 5404 A, target: DM-42 5678 A, value: 2.14
+
+
+source: DM-40 5404 A, target: DM-38 4789 A, value: 6.46
+
+
+source: DM-44 775 A, target: DM-51 532 A, value: 5.65
+
+
+source: DM-44 775 A, target: DM-48 1011 A, value: 7.74
+
+
+source: DM-44 775 B, target: DM-51 532 A, value: 5.65
+
+
+source: DM-44 775 B, target: DM-48 1011 A, value: 7.74
+
+
+source: Delta Trianguli A, target: DM-41 328 A, value: 7.77
+
+
+source: Delta Trianguli B, target: DM-41 328 A, value: 7.77
+
+
+source: DM-23 693 A, target: DM-18 359 A, value: 7.87
+
+
+source: DM-23 693 A, target: Ross 555 A, value: 7.55
+
+
+source: DM-45 5627 A, target: L 316-62 A, value: 7.73
+
+
+source: AC+33 25644 A, target: AC+38 23616 A, value: 2.03
+
+
+source: AC+33 25644 A, target: AC+38 23616 B, value: 2.03
+
+
+source: DM+48 1829 A, target: DM+46 1635 A, value: 5
+
+
+source: DM+48 1829 A, target: G195-19 A, value: 7.59
+
+
+source: DM+48 1829 A, target: DM+46 1551 A, value: 3.04
+
+
+source: DM+48 1829 A, target: DM+43 1953 A, value: 5.36
+
+
+source: L 870-2 A, target: Ross 555 A, value: 6.24
+
+
+source: Ross 555 A, target: DM-23 693 A, value: 7.55
+
+
+source: Ross 555 A, target: L 870-2 A, value: 6.24
+
+
+source: L 824-28 A, target: DM-18 3019 A, value: 7.42
+
+
+source: L 824-28 A, target: DM-11 2741 A, value: 4.69
+
+
+source: DM-13 544 A, target: DM-18 359 A, value: 6.6
+
+
+source: DM-13 544 A, target: Delta Eridani A, value: 7.1
+
+
+source: LP 425-140 A, target: Ross 619 A, value: 4.97
+
+
+source: DM-21 1377 A, target: Ross 614 A, value: 7.79
+
+
+source: DM-21 1377 A, target: Ross 614 B, value: 7.79
+
+
+source: DM-21 1377 A, target: DM-3 1123 A, value: 6.73
+
+
+source: DM-21 1377 A, target: LP 658-2 A, value: 6.06
+
+
+source: DM+2 348 A, target: AC+3 2259-31 A, value: 4.22
+
+
+source: Theta Persei A, target: Iota Persei A, value: 4.35
+
+
+source: Theta Persei A, target: AC+45 133-65 A, value: 4.61
+
+
+source: Theta Persei B, target: Iota Persei A, value: 4.35
+
+
+source: Theta Persei B, target: AC+45 133-65 A, value: 4.61
+
+
+source: DM-12 2918 A, target: L 968-22 A, value: 7.62
+
+
+source: DM-12 2918 A, target: DM-3 2870 A, value: 7.26
+
+
+source: DM-12 2918 A, target: DM-3 2870 B, value: 7.26
+
+
+source: DM-12 2918 A, target: L 678-39 A, value: 4.91
+
+
+source: DM-12 2918 A, target: L 675-81 A, value: 7.94
+
+
+source: DM-12 2918 B, target: L 968-22 A, value: 7.62
+
+
+source: DM-12 2918 B, target: DM-3 2870 A, value: 7.26
+
+
+source: DM-12 2918 B, target: DM-3 2870 B, value: 7.26
+
+
+source: DM-12 2918 B, target: L 678-39 A, value: 4.91
+
+
+source: DM-12 2918 B, target: L 675-81 A, value: 7.94
+
+
+source: YZ Canis Minoris A, target: DM+5 1668 A, value: 7.46
+
+
+source: YZ Canis Minoris A, target: DM+5 1668 B, value: 7.46
+
+
+source: YZ Canis Minoris A, target: Ross 619 A, value: 3.59
+
+
+source: Iota Persei A, target: Theta Persei A, value: 4.35
+
+
+source: Iota Persei A, target: Theta Persei B, value: 4.35
+
+
+source: Iota Persei A, target: AC+45 133-65 A, value: 6.18
+
+
+source: Ross 619 A, target: LP 425-140 A, value: 4.97
+
+
+source: Ross 619 A, target: YZ Canis Minoris A, value: 3.59
+
+
+source: G195-19 A, target: DM+48 1829 A, value: 7.59
+
+
+source: G195-19 A, target: Iota Ursae Majoris A, value: 5.73
+
+
+source: G195-19 A, target: Iota Ursae Majoris B, value: 5.73
+
+
+source: G195-19 A, target: Iota Ursae Majoris C, value: 5.73
+
+
+source: G195-19 A, target: Iota Ursae Majoris D, value: 5.73
+
+
+source: DM+52 857 A, target: DM+53 934 A, value: 6.04
+
+
+source: DM+52 857 A, target: DM+53 935 A, value: 6.04
+
+
+source: DM+52 857 A, target: Ross 594 A, value: 7.48
+
+
+source: DM-32 5613 A, target: L 675-81 A, value: 4.74
+
+
+source: DM-32 5613 A, target: DM-38 4789 A, value: 6.01
+
+
+source: AC+12 1800-213 A, target: DM-3 1123 A, value: 5.46
+
+
+source: AC+12 1800-213 A, target: LP 658-2 A, value: 5.75
+
+
+source: AC+12 1800-213 A, target: Pi3 Orionis A, value: 7.76
+
+
+source: DM-3 1123 A, target: Ross 614 A, value: 7.37
+
+
+source: DM-3 1123 A, target: Ross 614 B, value: 7.37
+
+
+source: DM-3 1123 A, target: DM-7 781 B, value: 6.71
+
+
+source: DM-3 1123 A, target: DM-7 781 C, value: 6.71
+
+
+source: DM-3 1123 A, target: Omicron2 Eridani A, value: 6.71
+
+
+source: DM-3 1123 A, target: DM-21 1377 A, value: 6.73
+
+
+source: DM-3 1123 A, target: AC+12 1800-213 A, value: 5.46
+
+
+source: DM-3 1123 A, target: LP 658-2 A, value: 2
+
+
+source: DM+46 1551 A, target: DM+46 1635 A, value: 7.11
+
+
+source: DM+46 1551 A, target: DM+48 1829 A, value: 3.04
+
+
+source: DM+46 1551 A, target: DM+43 1953 A, value: 3.62
+
+
+source: DM+46 1551 A, target: Iota Ursae Majoris A, value: 7.41
+
+
+source: DM+46 1551 A, target: Iota Ursae Majoris B, value: 7.41
+
+
+source: DM+46 1551 A, target: Iota Ursae Majoris C, value: 7.41
+
+
+source: DM+46 1551 A, target: Iota Ursae Majoris D, value: 7.41
+
+
+source: Iota Horologii A, target: DM-54 487 A, value: 4.72
+
+
+source: Iota Horologii A, target: DM-46 943 A, value: 6.17
+
+
+source: DM-29 8019 A, target: DM-23 8646 A, value: 6.18
+
+
+source: LP 658-2 A, target: Ross 614 A, value: 7.1
+
+
+source: LP 658-2 A, target: Ross 614 B, value: 7.1
+
+
+source: LP 658-2 A, target: DM-21 1377 A, value: 6.06
+
+
+source: LP 658-2 A, target: AC+12 1800-213 A, value: 5.75
+
+
+source: LP 658-2 A, target: DM-3 1123 A, value: 2
+
+
+source: DM-48 1011 A, target: DM-44 775 A, value: 7.74
+
+
+source: DM-48 1011 A, target: DM-44 775 B, value: 7.74
+
+
+source: DM-48 1011 A, target: DM-46 943 A, value: 6.61
+
+
+source: DM-48 1011 A, target: DM-45 1184 A, value: 3.07
+
+
+source: DM-48 1011 A, target: DM-53 889 A, value: 6.97
+
+
+source: DM-28 694 A, target: DM-26 828 A, value: 5.44
+
+
+source: DM+43 1953 A, target: DM+46 1635 A, value: 7.52
+
+
+source: DM+43 1953 A, target: DM+48 1829 A, value: 5.36
+
+
+source: DM+43 1953 A, target: DM+46 1551 A, value: 3.62
+
+
+source: DM+43 1953 A, target: DM+42 1956 A, value: 7.11
+
+
+source: DM+43 1953 A, target: DM+42 1956 B, value: 7.11
+
+
+source: DM+43 1953 A, target: DM+36 1970 A, value: 5.57
+
+
+source: L 675-81 A, target: L 678-39 A, value: 6.26
+
+
+source: L 675-81 A, target: DM-12 2918 A, value: 7.94
+
+
+source: L 675-81 A, target: DM-12 2918 B, value: 7.94
+
+
+source: L 675-81 A, target: DM-32 5613 A, value: 4.74
+
+
+source: DM-38 4789 A, target: DM-42 5678 A, value: 7.91
+
+
+source: DM-38 4789 A, target: DM-40 5404 A, value: 6.46
+
+
+source: DM-38 4789 A, target: DM-32 5613 A, value: 6.01
+
+
+source: DM+53 934 A, target: DM+52 857 A, value: 6.04
+
+
+source: DM+53 935 A, target: DM+52 857 A, value: 6.04
+
+
+source: DM-11 2741 A, target: L 824-28 A, value: 4.69
+
+
+source: DM-11 2741 A, target: DM-2 3000 A, value: 6.83
+
+
+source: L 316-62 A, target: DM-45 5627 A, value: 7.73
+
+
+source: DM-46 943 A, target: Iota Horologii A, value: 6.17
+
+
+source: DM-46 943 A, target: DM-48 1011 A, value: 6.61
+
+
+source: DM-46 943 A, target: DM-45 1184 A, value: 5.05
+
+
+source: DM-46 943 A, target: DM-38 1058 A, value: 6.29
+
+
+source: DM-45 1184 A, target: DM-48 1011 A, value: 3.07
+
+
+source: DM-45 1184 A, target: DM-46 943 A, value: 5.05
+
+
+source: DM-45 1184 A, target: DM-38 1058 A, value: 6.71
+
+
+source: DM-45 1184 A, target: DM-41 1288 A, value: 7.95
+
+
+source: AC+45 133-65 A, target: Theta Persei A, value: 4.61
+
+
+source: AC+45 133-65 A, target: Theta Persei B, value: 4.61
+
+
+source: AC+45 133-65 A, target: Iota Persei A, value: 6.18
+
+
+source: AC+45 133-65 A, target: DM+37 748 A, value: 6.04
+
+
+source: DM-53 889 A, target: DM-48 1011 A, value: 6.97
+
+
+source: Ross 28 A, target: DM+49 1280 A, value: 5.81
+
+
+source: DM-21 1051 A, target: DM-22 1210 B, value: 4.74
+
+
+source: DM-21 1051 A, target: Gamma Leporis A, value: 4.74
+
+
+source: DM-21 1051 A, target: VB 1 C, value: 4.8
+
+
+source: DM-21 1051 B, target: DM-22 1210 B, value: 4.74
+
+
+source: DM-21 1051 B, target: Gamma Leporis A, value: 4.74
+
+
+source: DM-21 1051 B, target: VB 1 C, value: 4.8
+
+
+source: DM-2 3000 A, target: DM-11 2741 A, value: 6.83
+
+
+source: DM-2 3000 A, target: DM-2 2901 A, value: 5.63
+
+
+source: DM-2 3000 A, target: DM-2 2902 B, value: 5.63
+
+
+source: Kappa Reticuli A, target: Delta Eridani A, value: 7.5
+
+
+source: Ross 594 A, target: DM+52 857 A, value: 7.48
+
+
+source: DM+42 1956 A, target: DM+43 1953 A, value: 7.11
+
+
+source: DM+42 1956 A, target: DM+36 1970 A, value: 7.65
+
+
+source: DM+42 1956 A, target: Iota Ursae Majoris A, value: 7.4
+
+
+source: DM+42 1956 A, target: Iota Ursae Majoris B, value: 7.4
+
+
+source: DM+42 1956 A, target: Iota Ursae Majoris C, value: 7.4
+
+
+source: DM+42 1956 A, target: Iota Ursae Majoris D, value: 7.4
+
+
+source: DM+42 1956 B, target: DM+43 1953 A, value: 7.11
+
+
+source: DM+42 1956 B, target: DM+36 1970 A, value: 7.65
+
+
+source: DM+42 1956 B, target: Iota Ursae Majoris A, value: 7.4
+
+
+source: DM+42 1956 B, target: Iota Ursae Majoris B, value: 7.4
+
+
+source: DM+42 1956 B, target: Iota Ursae Majoris C, value: 7.4
+
+
+source: DM+42 1956 B, target: Iota Ursae Majoris D, value: 7.4
+
+
+source: L 182-44 A, target: DM-49 2340 A, value: 6.86
+
+
+source: DM+36 1970 A, target: DM+43 1953 A, value: 5.57
+
+
+source: DM+36 1970 A, target: DM+42 1956 A, value: 7.65
+
+
+source: DM+36 1970 A, target: DM+42 1956 B, value: 7.65
+
+
+source: Iota Ursae Majoris A, target: G195-19 A, value: 5.73
+
+
+source: Iota Ursae Majoris A, target: DM+46 1551 A, value: 7.41
+
+
+source: Iota Ursae Majoris A, target: DM+42 1956 A, value: 7.4
+
+
+source: Iota Ursae Majoris A, target: DM+42 1956 B, value: 7.4
+
+
+source: Iota Ursae Majoris B, target: G195-19 A, value: 5.73
+
+
+source: Iota Ursae Majoris B, target: DM+46 1551 A, value: 7.41
+
+
+source: Iota Ursae Majoris B, target: DM+42 1956 A, value: 7.4
+
+
+source: Iota Ursae Majoris B, target: DM+42 1956 B, value: 7.4
+
+
+source: Iota Ursae Majoris C, target: G195-19 A, value: 5.73
+
+
+source: Iota Ursae Majoris C, target: DM+46 1551 A, value: 7.41
+
+
+source: Iota Ursae Majoris C, target: DM+42 1956 A, value: 7.4
+
+
+source: Iota Ursae Majoris C, target: DM+42 1956 B, value: 7.4
+
+
+source: Iota Ursae Majoris D, target: G195-19 A, value: 5.73
+
+
+source: Iota Ursae Majoris D, target: DM+46 1551 A, value: 7.41
+
+
+source: Iota Ursae Majoris D, target: DM+42 1956 A, value: 7.4
+
+
+source: Iota Ursae Majoris D, target: DM+42 1956 B, value: 7.4
+
+
+source: Pi3 Orionis A, target: AC+12 1800-213 A, value: 7.76
+
+
+source: Pi3 Orionis A, target: Ross 41 A, value: 5.58
+
+
+source: Pi3 Orionis A, target: DM-5 1123 A, value: 7.89
+
+
+source: Pi3 Orionis A, target: DM-5 1123 B, value: 7.89
+
+
+source: Delta Eridani A, target: DM-13 544 A, value: 7.1
+
+
+source: Delta Eridani A, target: Kappa Reticuli A, value: 7.5
+
+
+source: DM-23 8646 A, target: DM-29 8019 A, value: 6.18
+
+
+source: DM-26 828 A, target: DM-28 694 A, value: 5.44
+
+
+source: DM-26 828 A, target: Tau1 Eridani A, value: 7.79
+
+
+source: DM-22 1210 B, target: DM-21 1051 A, value: 4.74
+
+
+source: DM-22 1210 B, target: DM-21 1051 B, value: 4.74
+
+
+source: DM-22 1210 B, target: VB 1 C, value: 0.14
+
+
+source: Gamma Leporis A, target: DM-21 1051 A, value: 4.74
+
+
+source: Gamma Leporis A, target: DM-21 1051 B, value: 4.74
+
+
+source: Gamma Leporis A, target: VB 1 C, value: 0.14
+
+
+source: Ross 64 A, target: DM+17 1320 A, value: 5.64
+
+
+source: Ross 64 A, target: Chi1 Orionis A, value: 6.79
+
+
+source: VB 1 C, target: DM-21 1051 A, value: 4.8
+
+
+source: VB 1 C, target: DM-21 1051 B, value: 4.8
+
+
+source: VB 1 C, target: DM-22 1210 B, value: 0.14
+
+
+source: VB 1 C, target: Gamma Leporis A, value: 0.14
+
+
+source: DM-38 1058 A, target: DM-46 943 A, value: 6.29
+
+
+source: DM-38 1058 A, target: DM-45 1184 A, value: 6.71
+
+
+source: DM-38 1058 A, target: Alpha Fornacis A, value: 7.01
+
+
+source: DM-38 1058 A, target: Alpha Fornacis B, value: 7.01
+
+
+source: G107-70 C, target: G107-70 D, value: 0.2
+
+
+source: G107-70 C, target: G107-69 A, value: 2.72
+
+
+source: G107-70 C, target: G107-69 B, value: 2.72
+
+
+source: G107-70 C, target: AC+47 256-150 A, value: 5.48
+
+
+source: G107-70 D, target: G107-70 C, value: 0.2
+
+
+source: G107-70 D, target: G107-69 A, value: 2.67
+
+
+source: G107-70 D, target: G107-69 B, value: 2.67
+
+
+source: G107-70 D, target: AC+47 256-150 A, value: 5.45
+
+
+source: DM+37 748 A, target: AC+45 133-65 A, value: 6.04
+
+
+source: DM+37 748 A, target: DM+33 529 A, value: 7.17
+
+
+source: DM+49 1280 A, target: Ross 28 A, value: 5.81
+
+
+source: DM+49 1280 A, target: DM+52 911 A, value: 6.33
+
+
+source: DM+49 1280 A, target: Capella A, value: 3.72
+
+
+source: DM+49 1280 A, target: Capella B, value: 3.72
+
+
+source: DM+49 1280 A, target: Capella H A, value: 4.03
+
+
+source: DM+49 1280 A, target: Capella H B, value: 4.03
+
+
+source: G107-69 A, target: G107-70 C, value: 2.72
+
+
+source: G107-69 A, target: G107-70 D, value: 2.67
+
+
+source: G107-69 A, target: AC+47 256-150 A, value: 3.08
+
+
+source: G107-69 B, target: G107-70 C, value: 2.72
+
+
+source: G107-69 B, target: G107-70 D, value: 2.67
+
+
+source: G107-69 B, target: AC+47 256-150 A, value: 3.08
+
+
+source: DM-31 6229 A, target: DM-34 4036 A, value: 7.82
+
+
+source: DM-31 6229 A, target: DM-34 4036 B, value: 7.82
+
+
+source: DM+33 529 A, target: DM+37 748 A, value: 7.17
+
+
+source: DM+36 1638 A, target: Pollux A, value: 5.8
+
+
+source: DM+36 1638 B, target: Pollux A, value: 5.8
+
+
+source: Ross 41 A, target: Pi3 Orionis A, value: 5.58
+
+
+source: Ross 41 A, target: Chi1 Orionis A, value: 7.57
+
+
+source: Ross 41 A, target: DM+10 1032 A, value: 6.26
+
+
+source: Ross 41 A, target: DM+10 1032 B, value: 6.26
+
+
+source: Ross 989 C, target: Pollux A, value: 5.8
+
+
+source: Pollux A, target: DM+36 1638 A, value: 5.8
+
+
+source: Pollux A, target: DM+36 1638 B, value: 5.8
+
+
+source: Pollux A, target: Ross 989 C, value: 5.8
+
+
+source: DM-4 2490 A, target: L 820-19 A, value: 5.32
+
+
+source: DM-4 2490 A, target: L 820-19 B, value: 5.32
+
+
+source: DM+52 911 A, target: DM+49 1280 A, value: 6.33
+
+
+source: DM+52 911 A, target: Capella A, value: 7.85
+
+
+source: DM+52 911 A, target: Capella B, value: 7.85
+
+
+source: DM+52 911 A, target: Capella H A, value: 7.67
+
+
+source: DM+52 911 A, target: Capella H B, value: 7.67
+
+
+source: Alpha Fornacis A, target: DM-38 1058 A, value: 7.01
+
+
+source: Alpha Fornacis B, target: DM-38 1058 A, value: 7.01
+
+
+source: L 820-19 A, target: DM-8 2582 A, value: 7.93
+
+
+source: L 820-19 A, target: DM-8 2582 B, value: 7.93
+
+
+source: L 820-19 A, target: DM-12 2449 A, value: 6.28
+
+
+source: L 820-19 B, target: DM-8 2582 A, value: 7.93
+
+
+source: L 820-19 B, target: DM-8 2582 B, value: 7.93
+
+
+source: L 820-19 B, target: DM-12 2449 A, value: 6.28
+
+
+source: DM-2 2901 A, target: DM-2 3000 A, value: 5.63
+
+
+source: DM-2 2901 A, target: DM-8 2582 A, value: 6.64
+
+
+source: DM-2 2901 A, target: DM-8 2582 B, value: 6.64
+
+
+source: DM-2 2902 B, target: DM-2 3000 A, value: 5.63
+
+
+source: DM-2 2902 B, target: DM-8 2582 A, value: 6.64
+
+
+source: DM-2 2902 B, target: DM-8 2582 B, value: 6.64
+
+
+source: DM+28 1660 A, target: G47-9 B, value: 0.1
+
+
+source: G47-9 B, target: DM+28 1660 A, value: 0.1
+
+
+source: DM-5 1123 A, target: Pi3 Orionis A, value: 7.89
+
+
+source: DM-5 1123 B, target: Pi3 Orionis A, value: 7.89
+
+
+source: Tau1 Eridani A, target: DM-26 828 A, value: 7.79
+
+
+source: Tau1 Eridani A, target: Epsilon Ceti A, value: 5.69
+
+
+source: Tau1 Eridani A, target: Epsilon Ceti B, value: 5.69
+
+
+source: Epsilon Ceti A, target: Tau1 Eridani A, value: 5.69
+
+
+source: Epsilon Ceti B, target: Tau1 Eridani A, value: 5.69
+
+
+source: G5-43 A, target: Wolf 219 A, value: 7.91
+
+
+source: Capella A, target: DM+49 1280 A, value: 3.72
+
+
+source: Capella A, target: DM+52 911 A, value: 7.85
+
+
+source: Capella A, target: Capella H A, value: 0.58
+
+
+source: Capella A, target: Capella H B, value: 0.58
+
+
+source: Capella A, target: Lambda Aurigae A, value: 7.07
+
+
+source: Capella B, target: DM+49 1280 A, value: 3.72
+
+
+source: Capella B, target: DM+52 911 A, value: 7.85
+
+
+source: Capella B, target: Capella H A, value: 0.58
+
+
+source: Capella B, target: Capella H B, value: 0.58
+
+
+source: Capella B, target: Lambda Aurigae A, value: 7.07
+
+
+source: DM-49 2340 A, target: L 182-44 A, value: 6.86
+
+
+source: DM+17 1320 A, target: Ross 64 A, value: 5.64
+
+
+source: DM+17 1320 A, target: Chi1 Orionis A, value: 5.89
+
+
+source: DM+17 1320 A, target: DM+10 1032 A, value: 5.26
+
+
+source: DM+17 1320 A, target: DM+10 1032 B, value: 5.26
+
+
+source: DM+21 652 A, target: DM+18 683 A, value: 2.84
+
+
+source: DM-41 1288 A, target: DM-45 1184 A, value: 7.95
+
+
+source: AC+47 256-150 A, target: G107-70 C, value: 5.48
+
+
+source: AC+47 256-150 A, target: G107-70 D, value: 5.45
+
+
+source: AC+47 256-150 A, target: G107-69 A, value: 3.08
+
+
+source: AC+47 256-150 A, target: G107-69 B, value: 3.08
+
+
+source: AC+47 256-150 A, target: Psi5 Aurigae A, value: 6.38
+
+
+source: DM+18 683 A, target: DM+21 652 A, value: 2.84
+
+
+source: Capella H A, target: DM+49 1280 A, value: 4.03
+
+
+source: Capella H A, target: DM+52 911 A, value: 7.67
+
+
+source: Capella H A, target: Capella A, value: 0.58
+
+
+source: Capella H A, target: Capella B, value: 0.58
+
+
+source: Capella H A, target: Lambda Aurigae A, value: 6.58
+
+
+source: Capella H B, target: DM+49 1280 A, value: 4.03
+
+
+source: Capella H B, target: DM+52 911 A, value: 7.67
+
+
+source: Capella H B, target: Capella A, value: 0.58
+
+
+source: Capella H B, target: Capella B, value: 0.58
+
+
+source: Capella H B, target: Lambda Aurigae A, value: 6.58
+
+
+source: Chi1 Orionis A, target: Ross 64 A, value: 6.79
+
+
+source: Chi1 Orionis A, target: Ross 41 A, value: 7.57
+
+
+source: Chi1 Orionis A, target: DM+17 1320 A, value: 5.89
+
+
+source: Chi1 Orionis A, target: DM+10 1032 A, value: 5.95
+
+
+source: Chi1 Orionis A, target: DM+10 1032 B, value: 5.95
+
+
+source: Chi1 Orionis A, target: DM+11 878 A, value: 7.98
+
+
+source: DM-5 1844 A, target: DM-5 1844 B, value: 0.1
+
+
+source: DM-5 1844 B, target: DM-5 1844 A, value: 0.1
+
+
+source: DM+10 1032 A, target: Ross 41 A, value: 6.26
+
+
+source: DM+10 1032 A, target: DM+17 1320 A, value: 5.26
+
+
+source: DM+10 1032 A, target: Chi1 Orionis A, value: 5.95
+
+
+source: DM+10 1032 A, target: DM+11 878 A, value: 7.97
+
+
+source: DM+10 1032 B, target: Ross 41 A, value: 6.26
+
+
+source: DM+10 1032 B, target: DM+17 1320 A, value: 5.26
+
+
+source: DM+10 1032 B, target: Chi1 Orionis A, value: 5.95
+
+
+source: DM+10 1032 B, target: DM+11 878 A, value: 7.97
+
+
+source: DM+25 613 A, target: AC+33 10883 A, value: 7.13
+
+
+source: DM+25 613 A, target: Wolf 219 A, value: 6.53
+
+
+source: DM+25 613 A, target: G7-17 A, value: 7.62
+
+
+source: DM+25 613 A, target: DM+21 587 A, value: 6.76
+
+
+source: DM-8 2582 A, target: L 820-19 A, value: 7.93
+
+
+source: DM-8 2582 A, target: L 820-19 B, value: 7.93
+
+
+source: DM-8 2582 A, target: DM-2 2901 A, value: 6.64
+
+
+source: DM-8 2582 A, target: DM-2 2902 B, value: 6.64
+
+
+source: DM-8 2582 B, target: L 820-19 A, value: 7.93
+
+
+source: DM-8 2582 B, target: L 820-19 B, value: 7.93
+
+
+source: DM-8 2582 B, target: DM-2 2901 A, value: 6.64
+
+
+source: DM-8 2582 B, target: DM-2 2902 B, value: 6.64
+
+
+source: AC+33 10883 A, target: DM+25 613 A, value: 7.13
+
+
+source: L 737-9 A, target: L 736-30 A, value: 4.21
+
+
+source: L 737-9 A, target: DM-17 954 A, value: 7.45
+
+
+source: DM-12 2449 A, target: L 820-19 A, value: 6.28
+
+
+source: DM-12 2449 A, target: L 820-19 B, value: 6.28
+
+
+source: DM-12 2449 A, target: DM-13 2267 A, value: 7.89
+
+
+source: DM-12 2449 A, target: DM-13 2267 B, value: 7.89
+
+
+source: DM-34 4036 A, target: DM-31 6229 A, value: 7.82
+
+
+source: DM-34 4036 B, target: DM-31 6229 A, value: 7.82
+
+
+source: DM-5 642 A, target: DM-7 699 A, value: 5.95
+
+
+source: DM-5 642 A, target: DM-1 565 A, value: 7.17
+
+
+source: DM-5 642 A, target: DM-1 565 B, value: 7.17
+
+
+source: DM-5 642 A, target: DM-1 565 C, value: 7.17
+
+
+source: Psi5 Aurigae A, target: AC+47 256-150 A, value: 6.38
+
+
+source: Wolf 219 A, target: G5-43 A, value: 7.91
+
+
+source: Wolf 219 A, target: DM+25 613 A, value: 6.53
+
+
+source: Wolf 219 A, target: G7-17 A, value: 3.47
+
+
+source: Wolf 219 A, target: DM+21 587 A, value: 5.22
+
+
+source: Wolf 219 A, target: Lowne 1 A, value: 7.49
+
+
+source: L 736-30 A, target: L 737-9 A, value: 4.21
+
+
+source: L 736-30 A, target: DM-17 954 A, value: 3.29
+
+
+source: DM-7 699 A, target: DM-5 642 A, value: 5.95
+
+
+source: DM-7 699 A, target: DM-1 565 A, value: 4.97
+
+
+source: DM-7 699 A, target: DM-1 565 B, value: 4.97
+
+
+source: DM-7 699 A, target: DM-1 565 C, value: 4.97
+
+
+source: DM+11 878 A, target: Chi1 Orionis A, value: 7.98
+
+
+source: DM+11 878 A, target: DM+10 1032 A, value: 7.97
+
+
+source: DM+11 878 A, target: DM+10 1032 B, value: 7.97
+
+
+source: Lambda Aurigae A, target: Capella A, value: 7.07
+
+
+source: Lambda Aurigae A, target: Capella B, value: 7.07
+
+
+source: Lambda Aurigae A, target: Capella H A, value: 6.58
+
+
+source: Lambda Aurigae A, target: Capella H B, value: 6.58
+
+
+source: G7-17 A, target: DM+25 613 A, value: 7.62
+
+
+source: G7-17 A, target: Wolf 219 A, value: 3.47
+
+
+source: G7-17 A, target: DM+21 587 A, value: 2.89
+
+
+source: G7-17 A, target: Lowne 1 A, value: 4.1
+
+
+source: G7-17 A, target: DM+20 802 A, value: 7.88
+
+
+source: DM+21 587 A, target: DM+25 613 A, value: 6.76
+
+
+source: DM+21 587 A, target: Wolf 219 A, value: 5.22
+
+
+source: DM+21 587 A, target: G7-17 A, value: 2.89
+
+
+source: DM+21 587 A, target: Lowne 1 A, value: 3.95
+
+
+source: DM+21 587 A, target: DM+20 802 A, value: 7.03
+
+
+source: DM-17 954 A, target: L 737-9 A, value: 7.45
+
+
+source: DM-17 954 A, target: L 736-30 A, value: 3.29
+
+
+source: DM-1 565 A, target: DM-5 642 A, value: 7.17
+
+
+source: DM-1 565 A, target: DM-7 699 A, value: 4.97
+
+
+source: DM-1 565 B, target: DM-5 642 A, value: 7.17
+
+
+source: DM-1 565 B, target: DM-7 699 A, value: 4.97
+
+
+source: DM-1 565 C, target: DM-5 642 A, value: 7.17
+
+
+source: DM-1 565 C, target: DM-7 699 A, value: 4.97
+
+
+source: DM-25 3913 A, target: L 597-31 A, value: 6.3
+
+
+source: Lowne 1 A, target: Wolf 219 A, value: 7.49
+
+
+source: Lowne 1 A, target: G7-17 A, value: 4.1
+
+
+source: Lowne 1 A, target: DM+21 587 A, value: 3.95
+
+
+source: Lowne 1 A, target: DM+20 802 A, value: 3.89
+
+
+source: DM-3 2001 A, target: DM-3 2002 B, value: 0.1
+
+
+source: DM-3 2002 B, target: DM-3 2001 A, value: 0.1
+
+
+source: DM-13 2267 A, target: DM-12 2449 A, value: 7.89
+
+
+source: DM-13 2267 B, target: DM-12 2449 A, value: 7.89
+
+
+source: DM+20 802 A, target: G7-17 A, value: 7.88
+
+
+source: DM+20 802 A, target: DM+21 587 A, value: 7.03
+
+
+source: DM+20 802 A, target: Lowne 1 A, value: 3.89
+
+
+source: DM+20 802 A, target: AC+19 1165-38 A, value: 6.09
+
+
+source: L 597-31 A, target: DM-25 3913 A, value: 6.3
+
+
+source: AC+19 1165-38 A, target: DM+20 802 A, value: 6.09
+
+
+source: DM-3 1061 A, target: DM-3 1061 B, value: 0.1
+
+
+source: DM-3 1061 A, target: DM-3 1110 A, value: 2.16
+
+
+source: DM-3 1061 A, target: AC+1 1951-103 A, value: 6.77
+
+
+source: DM-3 1061 A, target: V371 Orionis A, value: 7.27
+
+
+source: DM-3 1061 B, target: DM-3 1061 A, value: 0.1
+
+
+source: DM-3 1061 B, target: DM-3 1110 A, value: 2.15
+
+
+source: DM-3 1061 B, target: AC+1 1951-103 A, value: 6.83
+
+
+source: DM-3 1061 B, target: V371 Orionis A, value: 7.33
+
+
+source: DM-3 1110 A, target: DM-3 1061 A, value: 2.16
+
+
+source: DM-3 1110 A, target: DM-3 1061 B, value: 2.15
+
+
+source: DM-3 1110 A, target: AC+1 1951-103 A, value: 7.8
+
+
+source: DM-3 1110 A, target: V371 Orionis A, value: 6.17
+
+
+source: Ross 42 A, target: V371 Orionis A, value: 7.21
+
+
+source: Ross 42 B, target: V371 Orionis A, value: 7.21
+
+
+source: AC+1 1951-103 A, target: DM-3 1061 A, value: 6.77
+
+
+source: AC+1 1951-103 A, target: DM-3 1061 B, value: 6.83
+
+
+source: AC+1 1951-103 A, target: DM-3 1110 A, value: 7.8
+
+
+source: AC+1 1951-103 A, target: V371 Orionis A, value: 7.45
+
+
+source: V371 Orionis A, target: DM-3 1061 A, value: 7.27
+
+
+source: V371 Orionis A, target: DM-3 1061 B, value: 7.33
+
+
+source: V371 Orionis A, target: DM-3 1110 A, value: 6.17
+
+
+source: V371 Orionis A, target: Ross 42 A, value: 7.21
+
+
+source: V371 Orionis A, target: Ross 42 B, value: 7.21
+
+
+source: V371 Orionis A, target: AC+1 1951-103 A, value: 7.45
