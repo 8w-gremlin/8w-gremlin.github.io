@@ -1,48 +1,179 @@
-<html>
-<head>
-    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+<!doctype html>
+<HTML>
+<HEAD>
+  <meta charset="utf-8" />
+  <TITLE>[vis.js] Network | Basic Usage | TEST: Load External JSON Datafile</TITLE>
 
-    <style type="text/css">
-        #mynetwork {
-            width: 600px;
-            height: 400px;
-            border: 1px solid lightgray;
-        }
+  <!-- NPM (http://visjs.org/index.html#download_install): -->
+  <!-- <script type="text/javascript" src="node_modules/vis/dist/vis.min.js"></script> -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+
+  <!-- Needed for JSON file import (https://stackoverflow.com/questions/33392557/vis-js-simple-example-edges-do-not-show): -->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  <!-- http://visjs.org/index.html#download_install -->
+  <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+
+  <style type="text/css">
+    #mynetwork {
+        /* width: 600px; */
+        width: 80%;
+        height: 80%;
+        margin: auto;
+        padding: 0;
+    }
     </style>
-</head>
-<body>
+</HEAD>
+
+<BODY>
+
 <div id="mynetwork"></div>
 
+<!-- Add an invisible <div> element to the document, to hold the JSON data: -->
+<div id="networkJSON-results" class="results" style="display:none"></div>
+
 <script type="text/javascript">
-    // create an array with nodes
-    var nodes = new vis.DataSet([
-        {id: 1, label: 'Node 1'},
-        {id: 2, label: 'Node 2'},
-        {id: 3, label: 'Node 3'},
-        {id: 4, label: 'Node 4'},
-        {id: 5, label: 'Node 5'}
-    ]);
 
-    // create an array with edges
-    var edges = new vis.DataSet([
-        {from: 1, to: 3},
-        {from: 1, to: 2},
-        {from: 2, to: 4},
-        {from: 2, to: 5}
-    ]);
+  // -------------------------------------------------------------------------
+  // OPTIONS:
 
-    // create a network
-    var container = document.getElementById('mynetwork');
+  // http://visjs.org/docs/network/#modules
+  // http://visjs.org/docs/network/edges.html#
+  // http://visjs.org/docs/network/physics.html#
 
-    // provide the data in the vis format
+  var options = {
+    edges: {
+      arrows: {
+        to: {enabled: true, scaleFactor:0.75, type:'arrow'},
+        // to: {enabled: false, scaleFactor:0.5, type:'bar'},
+        middle: {enabled: false, scalefactor:1, type:'arrow'},
+        from: {enabled: true, scaleFactor:0.3, type:'arrow'}
+        // from: {enabled: false, scaleFactor:0.5, type:'arrow'}
+      },
+      arrowStrikethrough: true,
+      chosen: true,
+      color: {
+      // color:'#848484',
+      color:'red',
+      highlight:'#848484',
+      hover: '#848484',
+      inherit: 'from',
+      opacity:1.0
+      },
+      dashes: false,
+      font: {
+        color: '#343434',
+        size: 14, // px
+        face: 'arial',
+        background: 'none',
+        strokeWidth: 2, // px
+        strokeColor: '#ffffff',
+        align: 'horizontal',
+        multi: false,
+        vadjust: 0,
+        bold: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'bold'
+        },
+        ital: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'italic'
+        },
+        boldital: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'bold italic'
+        },
+        mono: {
+          color: '#343434',
+          size: 15, // px
+          face: 'courier new',
+          vadjust: 2,
+          mod: ''
+        }
+      }
+    },
+    // http://visjs.org/docs/network/physics.html#
+    physics: {
+      enabled: true,
+      barnesHut: {
+        gravitationalConstant: -2000,
+        centralGravity: 0.3,
+        // springLength: 95,
+        springLength: 175,
+        springConstant: 0.04,
+        damping: 0.09,
+        avoidOverlap: 0
+      },
+      forceAtlas2Based: {
+        gravitationalConstant: -50,
+        centralGravity: 0.01,
+        springConstant: 0.08,
+        springLength: 100,
+        damping: 0.4,
+        avoidOverlap: 0
+      },
+      repulsion: {
+        centralGravity: 0.2,
+        springLength: 200,
+        springConstant: 0.05,
+        nodeDistance: 100,
+        damping: 0.09
+      },
+      hierarchicalRepulsion: {
+        centralGravity: 0.0,
+        springLength: 100,
+        springConstant: 0.01,
+        nodeDistance: 120,
+        damping: 0.09
+      },
+      maxVelocity: 50,
+      minVelocity: 0.1,
+      solver: 'barnesHut',
+      stabilization: {
+        enabled: true,
+        iterations: 1000,
+        updateInterval: 100,
+        onlyDynamicEdges: false,
+        fit: true
+      },
+      timestep: 0.5,
+      adaptiveTimestep: true
+    },
+  };
+
+// -------------------------------------------------------------------------
+// IMPORT DATA FROM EXTERNAL JSON FILE:
+
+// Per: https://github.com/ikwattro/blog/blob/master/sources/easy-graph-visualization-with-vis-dot-js.adoc:
+
+// NOTES:
+// 1. Must use double quotes ("; not ') in that JSON file;
+// 2. Cannot have comments in that file, only data!  See:
+//    https://stackoverflow.com/questions/244777/can-comments-be-used-in-json
+// 3. Per the path below, place the "test.json" file in a "data" subdirectory.
+
+var json = $.getJSON("data/data.json")
+  .done(function(data){
     var data = {
-        nodes: nodes,
-        edges: edges
+      nodes: data.nodes,
+      edges: data.edges
     };
-    var options = {};
-
-    // initialize your network!
     var network = new vis.Network(container, data, options);
+  });
+
+var container = document.getElementById('mynetwork');
+
 </script>
-</body>
-</html>
+
+</BODY>
+</HTML>
