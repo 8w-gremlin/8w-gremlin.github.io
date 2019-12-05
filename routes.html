@@ -18,8 +18,8 @@
   <style type="text/css">
     #mynetwork {
         /* width: 600px; */
-        width: 80%;
-        height: 80%;
+        width: 100vw;
+        height: 100vh;
         margin: auto;
         padding: 0;
     }
@@ -45,13 +45,16 @@
   // http://visjs.org/docs/network/edges.html#
   // http://visjs.org/docs/network/physics.html#
 
+  //Red: #b35900
+  //Yellow: #b3b300
+  //Green: #5ab300
+
   var options = {
     edges: {
       arrowStrikethrough: true,
       chosen: true,
       color: {
-      // color:'#848484',
-      color:'red',
+      color:'#5ab300',
       highlight:'#848484',
       hover: '#848484',
       inherit: 'from',
