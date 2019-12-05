@@ -32,11 +32,10 @@ var trace1 = {
 var data = [trace1];
 var layout = {
     'font': {'color': '#2a3f5f'},
-    'hoverlabel': {'align': 'left'},
     'hovermode': 'closest',
     'mapbox': {'style': 'light'},
     'paper_bgcolor': '#121212',
-    'plot_bgcolor': '#E5ECF6',
+    'plot_bgcolor': '#121212',
     'polar': {'angularaxis': {'gridcolor': '#666666', 'linecolor': '#666666', 'ticks': ''},
               'bgcolor': '#E5ECF6',
               'radialaxis': {'gridcolor': '#666666', 'linecolor': '#666666', 'ticks': ''}},
@@ -61,7 +60,8 @@ var layout = {
                         'showbackground': 'True',
                         'ticks': '',
                         'zerolinecolor': '#666666'}},
-    'title': {'x': 0.05}
+    'title': {'x': 0.05},
+    "showlegend": false
 }
 
 Plotly.newPlot('myDiv', data, layout, {showSendToCloud: true});
