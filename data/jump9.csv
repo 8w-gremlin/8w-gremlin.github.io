@@ -1,507 +1,507 @@
-from: ,SS+28 9357 A,to: ,SS-22 4654 B,label: ,8.9,color:,#b3b300
-from: ,HC+25 1902 A,to: ,DK+21 6825A,label: ,8.77,color:,#b3b300
-from: ,Oneil 723  A,to: ,SS-22 4654 A,label: ,8.24,color:,#b3b300
-from: ,SS-22 4654 B,to: ,SS+28 9357 A,label: ,8.9,color:,#b3b300
-from: ,SS-22 4654 B,to: ,Oneil 723  A,label: ,8.24,color:,#b3b300
-from: ,SS-22 4654 B,to: ,BK-1 1423 ,label: ,8.95,color:,#b3b300
-from: ,DK-26 2485 A,to: ,BK-5 9201 A,label: ,8.22,color:,#b3b300
-from: ,SS-19 2424  A,to: ,HC+31 8213 A,label: ,8.5,color:,#b3b300
-from: ,DM-21 5081 A,to: ,L 850-62 A,label: ,8.61,color:,#b3b300
-from: ,DM-1 3474 A,to: ,AC+3 2528-176 A,label: ,8.49,color:,#b3b300
-from: ,HC-4 9701 Kaa'a'ah A,to: ,BK-2 0075 ,label: ,8.9,color:,#b3b300
-from: ,Delta Aquilae B,to: ,DM+2 4076 A,label: ,8.12,color:,#b3b300
-from: ,L 850-62 A,to: ,DM-18 4986 A,label: ,8.17,color:,#b3b300
-from: ,L 850-62 A,to: ,DM-21 5081 A,label: ,8.61,color:,#b3b300
-from: ,DM+7 4052 A,to: ,DM+5 3993 A,label: ,8.4,color:,#b3b300
-from: ,BK-2 0075 ,to: ,HC-4 9701 Kaa'a'ah A,label: ,8.9,color:,#b3b300
-from: ,BK-1 1423 ,to: ,SS-22 4654 B,label: ,8.95,color:,#b3b300
-from: ,BK-1 1423 ,to: ,BK+7 5675 A,label: ,8.82,color:,#b3b300
-from: ,Chien 414  A,to: ,Chien 820  A,label: ,8.45,color:,#b3b300
-from: ,DM+3 3465 A,to: ,DM+5 3409 A,label: ,8.53,color:,#b3b300
-from: ,AC+16 247-80 A,to: ,DM+15 3364 A,label: ,8.99,color:,#b3b300
-from: ,BK+7 5675 A,to: ,BK+15 3434 A,label: ,8.58,color:,#b3b300
-from: ,BK+7 5675 A,to: ,BK-1 1423 ,label: ,8.82,color:,#b3b300
-from: ,DM+4 4157 A,to: ,L 997-21 A,label: ,8.25,color:,#b3b300
-from: ,HC-6 2111,to: ,Chien 414  A,label: ,8.22,color:,#b3b300
-from: ,DM+25 3719 A,to: ,DM+31 3767 A,label: ,8.23,color:,#b3b300
-from: ,AC+13 1185-145 A,to: ,DM+2 4076 A,label: ,8.68,color:,#b3b300
-from: ,BPM 94172 A,to: ,AC+8 142-393 A,label: ,8.6,color:,#b3b300
-from: ,BK+10 1245 A,to: ,HC+18 9881 A,label: ,8.81,color:,#b3b300
-from: ,BK+10 1245 A,to: ,Chien 112 A,label: ,8.48,color:,#b3b300
-from: ,DM+2 4076 A,to: ,Delta Aquilae B,label: ,8.12,color:,#b3b300
-from: ,DM+2 4076 A,to: ,DM+7 4052 A,label: ,8.55,color:,#b3b300
-from: ,Chien 112 A,to: ,BK+10 1245 A,label: ,8.48,color:,#b3b300
-from: ,VB 11 B,to: ,DM-14 5936 A,label: ,8.1,color:,#b3b300
-from: ,VB 11 B,to: ,DM-14 5936 B,label: ,8.1,color:,#b3b300
-from: ,DM-4 4225 A,to: ,DM+5 3409 B,label: ,8.29,color:,#b3b300
-from: ,DM-4 4226 A,to: ,DM+5 3409 A,label: ,8.29,color:,#b3b300
-from: ,AC+8 142-393 A,to: ,AC+16 247-80 A,label: ,8.32,color:,#b3b300
-from: ,AC+8 142-393 A,to: ,BPM 94172 A,label: ,8.6,color:,#b3b300
-from: ,DM-14 5936 A,to: ,L 856-54 B,label: ,8.97,color:,#b3b300
-from: ,DM-14 5936 B,to: ,Ross 193 A,label: ,8.1,color:,#b3b300
-from: ,DM-14 5936 B,to: ,VB 11 B,label: ,8.1,color:,#b3b300
-from: ,DM-14 5936 B,to: ,L 856-54 A,label: ,8.97,color:,#b3b300
-from: ,L 489-58 B,to: ,DM-48 12818 A,label: ,8.18,color:,#b3b300
-from: ,DM+45 2688 A,to: ,DM+52 2294 A,label: ,8.56,color:,#b3b300
-from: ,DM-24 16193 A,to: ,Psi Capricorni A,label: ,8.8,color:,#b3b300
-from: ,Ross 867 B,to: ,DM+32 2896 A,label: ,8.39,color:,#b3b300
-from: ,Ross 867 B,to: ,Zeta Herculis B,label: ,8.46,color:,#b3b300
-from: ,DM+13 2901 A,to: ,HC-6 2111,label: ,8.53,color:,#b3b300
-from: ,DM+13 2901 A,to: ,DM+19 2881 B,label: ,8.78,color:,#b3b300
-from: ,DM-43 12343 A,to: ,DM-48 11837 A,label: ,8.09,color:,#b3b300
-from: ,DM+31 3767 B,to: ,DM+25 3719 A,label: ,8.23,color:,#b3b300
-from: ,DM+5 3409 B,to: ,DM+3 3465 A,label: ,8.53,color:,#b3b300
-from: ,DM+5 3409 B,to: ,DM-4 4225 A,label: ,8.29,color:,#b3b300
-from: ,DM+5 3409 B,to: ,DM-4 4226 A,label: ,8.29,color:,#b3b300
-from: ,L 997-21 A,to: ,DM+4 4157 A,label: ,8.25,color:,#b3b300
-from: ,DM-23 15935 A,to: ,AC+20 76187 A,label: ,8.47,color:,#b3b300
-from: ,Ross 868 A,to: ,Mu Herculis A,label: ,8.96,color:,#b3b300
-from: ,Ross 868 A,to: ,Mu Herculis B,label: ,8.96,color:,#b3b300
-from: ,Ross 868 A,to: ,Mu Herculis C,label: ,8.96,color:,#b3b300
-from: ,DM+25 3173 A,to: ,L 1346-53 A,label: ,8.18,color:,#b3b300
-from: ,AC+41 726-154 A,to: ,DM+38 3095 A,label: ,8.04,color:,#b3b300
-from: ,L 856-54 B,to: ,DM-14 5936 A,label: ,8.97,color:,#b3b300
-from: ,L 856-54 B,to: ,DM-14 5936 B,label: ,8.97,color:,#b3b300
-from: ,L 856-54 B,to: ,Psi Capricorni A,label: ,8.27,color:,#b3b300
-from: ,Lambda Serpentis A,to: ,L 1346-53 A,label: ,8.3,color:,#b3b300
-from: ,DM+24 2786 A,to: ,DM+19 2881 A,label: ,8.57,color:,#b3b300
-from: ,DM+24 2786 B,to: ,DM+19 2881 B,label: ,8.57,color:,#b3b300
-from: ,DM+24 2786 B,to: ,DM+30 2512 A,label: ,8.11,color:,#b3b300
-from: ,DM+24 2733 A,to: ,DM+30 2512 A,label: ,8.66,color:,#b3b300
-from: ,DM+38 3095 A,to: ,AC+41 726-154 A,label: ,8.04,color:,#b3b300
-from: ,L 1346-53 A,to: ,Gamma Serpentis,label: ,8.01,color:,#b3b300
-from: ,L 1346-53 A,to: ,DM+25 3173 A,label: ,8.18,color:,#b3b300
-from: ,L 1346-53 A,to: ,Ross 863 A,label: ,8.56,color:,#b3b300
-from: ,L 1346-53 A,to: ,Zeta Herculis A,label: ,8.02,color:,#b3b300
-from: ,Psi Capricorni A,to: ,DM-24 16193 A,label: ,8.8,color:,#b3b300
-from: ,Psi Capricorni A,to: ,L 856-54 B,label: ,8.27,color:,#b3b300
-from: ,DM-48 11837 A,to: ,DM-43 12343 A,label: ,8.09,color:,#b3b300
-from: ,DM-48 12818 A,to: ,L 489-58 B,label: ,8.18,color:,#b3b300
-from: ,Zeta Herculis A,to: ,Ross 867 B,label: ,8.46,color:,#b3b300
-from: ,Zeta Herculis B,to: ,L 1346-53 A,label: ,8.02,color:,#b3b300
-from: ,Zeta Herculis B,to: ,Mu Herculis A,label: ,8.87,color:,#b3b300
-from: ,Zeta Herculis B,to: ,Mu Herculis B,label: ,8.87,color:,#b3b300
-from: ,Zeta Herculis B,to: ,Mu Herculis C,label: ,8.87,color:,#b3b300
-from: ,DM+19 2881 A,to: ,DM+13 2901 A,label: ,8.78,color:,#b3b300
-from: ,DM+19 2881 A,to: ,DM+24 2786 A,label: ,8.57,color:,#b3b300
-from: ,DM+19 2881 B,to: ,DM+24 2786 B,label: ,8.57,color:,#b3b300
-from: ,Botany Bay A,to: ,Ross 867 B,label: ,8.66,color:,#b3b300
-from: ,Botany Bay A,to: ,DM+43 2796 A,label: ,8.28,color:,#b3b300
-from: ,AC+20 1463-148 A,to: ,Vega A,label: ,8.91,color:,#b3b300
-from: ,Wolf 534 A,to: ,Ross 848 A,label: ,8.16,color:,#b3b300
-from: ,Wolf 534 A,to: ,DM-3 3508 A,label: ,8.99,color:,#b3b300
-from: ,King A,to: ,70 Ophiuchi B,label: ,8.6,color:,#b3b300
-from: ,DM-3 4233 A,to: ,DM+4 4048 A,label: ,8.63,color:,#b3b300
-from: ,AC+20 76187 A,to: ,DM-23 15935 A,label: ,8.47,color:,#b3b300
-from: ,Mu Herculis A,to: ,Zeta Herculis B,label: ,8.87,color:,#b3b300
-from: ,Mu Herculis A,to: ,Botany Bay A,label: ,8.77,color:,#b3b300
-from: ,Mu Herculis A,to: ,AC+32 54804 B,label: ,8.33,color:,#b3b300
-from: ,Mu Herculis B,to: ,Ross 868 A,label: ,8.96,color:,#b3b300
-from: ,Mu Herculis B,to: ,Zeta Herculis A,label: ,8.87,color:,#b3b300
-from: ,Mu Herculis B,to: ,AC+32 54804 A,label: ,8.33,color:,#b3b300
-from: ,Mu Herculis C,to: ,Zeta Herculis B,label: ,8.87,color:,#b3b300
-from: ,Mu Herculis C,to: ,Botany Bay A,label: ,8.77,color:,#b3b300
-from: ,Mu Herculis C,to: ,AC+32 54804 B,label: ,8.33,color:,#b3b300
-from: ,AC-12 2306-155 A,to: ,DM-1 2892 A,label: ,8.81,color:,#b3b300
-from: ,AC+32 54804 A,to: ,Mu Herculis A,label: ,8.33,color:,#b3b300
-from: ,AC+32 54804 A,to: ,Mu Herculis B,label: ,8.33,color:,#b3b300
-from: ,AC+32 54804 A,to: ,Mu Herculis C,label: ,8.33,color:,#b3b300
-from: ,Ross 52 A,to: ,Eta Bootis A,label: ,8.67,color:,#b3b300
-from: ,Ross 52 A,to: ,Eta Bootis B,label: ,8.67,color:,#b3b300
-from: ,Ross 52 B,to: ,DM+27 2296 B,label: ,8.88,color:,#b3b300
-from: ,Ross 52 B,to: ,Hochbaden A,label: ,8.88,color:,#b3b300
-from: ,AC+44 871-589 A,to: ,AC+39 60670 A,label: ,8.6,color:,#b3b300
-from: ,DM+30 2512 A,to: ,DM+24 2786 A,label: ,8.11,color:,#b3b300
-from: ,DM+30 2512 A,to: ,DM+25 2874 A,label: ,8.47,color:,#b3b300
-from: ,Vega A,to: ,AC+20 1463-148 A,label: ,8.91,color:,#b3b300
-from: ,Ross 848 A,to: ,Wolf 534 A,label: ,8.16,color:,#b3b300
-from: ,L 715-89 A,to: ,DM-30 19175 A,label: ,8.93,color:,#b3b300
-from: ,AC+39 60670 B,to: ,AC+44 871-589 A,label: ,8.6,color:,#b3b300
-from: ,DM-3 3508 B,to: ,Wolf 534 A,label: ,8.99,color:,#b3b300
-from: ,DM-3 3508 B,to: ,Ross 486 A,label: ,8.85,color:,#b3b300
-from: ,DM-3 3508 B,to: ,Ross 486 B,label: ,8.85,color:,#b3b300
-from: ,Clarkesstar A,to: ,DM-7 4003 A,label: ,8.62,color:,#b3b300
-from: ,VB 8 C,to: ,DM-7 4003 A,label: ,8.62,color:,#b3b300
-from: ,Wolf 629 B,to: ,DM-7 4003 A,label: ,8.62,color:,#b3b300
-from: ,AC+17 536-125 A,to: ,DM+19 5036 A,label: ,8.6,color:,#b3b300
-from: ,Iota Pegasi B,to: ,AC+16 734-144 A,label: ,8.14,color:,#b3b300
-from: ,DM-34 11626 A,to: ,Davout A,label: ,8.69,color:,#b3b300
-from: ,DM-34 11626 B,to: ,DM-40 9712 A,label: ,8.99,color:,#b3b300
-from: ,DM-34 11626 C,to: ,Davout A,label: ,8.69,color:,#b3b300
-from: ,AC+16 734-144 A,to: ,Iota Pegasi B,label: ,8.14,color:,#b3b300
-from: ,DM+4 4048 A,to: ,DM-3 4233 A,label: ,8.63,color:,#b3b300
-from: ,DM-1 2892 A,to: ,AC-12 2306-155 A,label: ,8.81,color:,#b3b300
-from: ,DM-51 12998 A,to: ,DM-54 9222 B,label: ,8.54,color:,#b3b300
-from: ,Theta Bootis B,to: ,DM+47 2112 A,label: ,8.9,color:,#b3b300
-from: ,Theta Bootis B,to: ,DM+47 2112 B,label: ,8.9,color:,#b3b300
-from: ,DM-47 13928 A,to: ,L 355-62 A,label: ,8.09,color:,#b3b300
-from: ,70 Ophiuchi A,to: ,DM-12 4523 B,label: ,8.07,color:,#b3b300
-from: ,70 Ophiuchi B,to: ,King A,label: ,8.6,color:,#b3b300
-from: ,70 Ophiuchi B,to: ,Broward A,label: ,8.07,color:,#b3b300
-from: ,DM+2 3482 C,to: ,DM-12 4523 B,label: ,8.07,color:,#b3b300
-from: ,DM+67 1014 B,to: ,DM+67 935 A,label: ,8.31,color:,#b3b300
-from: ,DM+67 1014 B,to: ,DM+67 935 B,label: ,8.24,color:,#b3b300
-from: ,DM-7 4003 A,to: ,DM-8 4352 B,label: ,8.62,color:,#b3b300
-from: ,DM-7 4003 A,to: ,Wolf 629 A,label: ,8.62,color:,#b3b300
-from: ,Beta Trianguli Australis A,to: ,Zeta Draconis A,label: ,8.33,color:,#b3b300
-from: ,DM-26 12026 A,to: ,DM-40 9712 A,label: ,8.38,color:,#b3b300
-from: ,DM-26 12036 C,to: ,DM-40 9712 A,label: ,8.44,color:,#b3b300
-from: ,DM-51 13128 A,to: ,DM-60 7821 A,label: ,8.97,color:,#b3b300
-from: ,DM-51 13128 A,to: ,DM-54 9222 A,label: ,8.06,color:,#b3b300
-from: ,L 283-7 B,to: ,DM-54 9222 B,label: ,8.11,color:,#b3b300
-from: ,DM+62 1916 A,to: ,Wolf 1084 A,label: ,8.45,color:,#b3b300
-from: ,Eta Bootis A,to: ,Beta Comae Berenices A,label: ,8.51,color:,#b3b300
-from: ,Eta Bootis B,to: ,DM+16 2708 A,label: ,8.54,color:,#b3b300
-from: ,Eta Bootis B,to: ,Ross 52 A,label: ,8.67,color:,#b3b300
-from: ,Eta Bootis B,to: ,Ross 52 B,label: ,8.67,color:,#b3b300
-from: ,Eta Bootis B,to: ,DM+11 2576 A,label: ,8.68,color:,#b3b300
-from: ,Eta Bootis B,to: ,DM+11 2576 B,label: ,8.68,color:,#b3b300
-from: ,Ross 486 A,to: ,DM-3 3508 B,label: ,8.85,color:,#b3b300
-from: ,Ross 486 B,to: ,DM-3 3508 A,label: ,8.85,color:,#b3b300
-from: ,DM+47 2112 A,to: ,Theta Bootis A,label: ,8.9,color:,#b3b300
-from: ,DM+47 2112 A,to: ,Theta Bootis B,label: ,8.9,color:,#b3b300
-from: ,Wolf 1561 A,to: ,DM-21 6267 B,label: ,8.03,color:,#b3b300
-from: ,Wolf 1561 B,to: ,DM-21 6267 A,label: ,8.03,color:,#b3b300
-from: ,Wolf 1561 B,to: ,L 717-22 C,label: ,8.03,color:,#b3b300
-from: ,DM-5 5715 A,to: ,DM-21 6267 B,label: ,8.81,color:,#b3b300
-from: ,DM+10 2531 A,to: ,Ross 974 A,label: ,8.92,color:,#b3b300
-from: ,DM+10 2531 A,to: ,Wolf 414 A,label: ,8.67,color:,#b3b300
-from: ,L 355-62 A,to: ,DM-47 13928 A,label: ,8.09,color:,#b3b300
-from: ,DM+67 935 A,to: ,DM+67 1014 A,label: ,8.31,color:,#b3b300
-from: ,DM+67 935 A,to: ,DM+67 1014 B,label: ,8.31,color:,#b3b300
-from: ,Hochbaden A,to: ,Ross 52 A,label: ,8.88,color:,#b3b300
-from: ,Hochbaden A,to: ,Ross 52 B,label: ,8.88,color:,#b3b300
-from: ,Broward A,to: ,70 Ophiuchi A,label: ,8.07,color:,#b3b300
-from: ,Broward A,to: ,DM+2 3482 C,label: ,8.07,color:,#b3b300
-from: ,DM-12 4523 B,to: ,70 Ophiuchi B,label: ,8.07,color:,#b3b300
-from: ,DM-12 4523 B,to: ,DM-20 4123 B,label: ,8.1,color:,#b3b300
-from: ,DM-12 4523 B,to: ,DM-20 4125 A,label: ,8.1,color:,#b3b300
-from: ,DM-12 4523 B,to: ,Davout A,label: ,8.72,color:,#b3b300
-from: ,DM-12 4523 B,to: ,Barnard's Star A,label: ,8.35,color:,#b3b300
-from: ,DM+19 5036 A,to: ,AC+17 536-125 A,label: ,8.6,color:,#b3b300
-from: ,DM-20 4123 B,to: ,Broward A,label: ,8.1,color:,#b3b300
-from: ,DM-20 4125 A,to: ,DM-12 4523 B,label: ,8.1,color:,#b3b300
-from: ,DM-40 9712 A,to: ,DM-26 12026 B,label: ,8.38,color:,#b3b300
-from: ,DM-40 9712 A,to: ,D'Artagnon A,label: ,8.89,color:,#b3b300
-from: ,Zeta Draconis B,to: ,Beta Trianguli Australis A,label: ,8.33,color:,#b3b300
-from: ,Davout A,to: ,DM-34 11626 A,label: ,8.69,color:,#b3b300
-from: ,Davout A,to: ,DM-34 11626 B,label: ,8.69,color:,#b3b300
-from: ,Davout A,to: ,DM-34 11626 C,label: ,8.69,color:,#b3b300
-from: ,Davout A,to: ,Broward A,label: ,8.72,color:,#b3b300
-from: ,DM-60 7821 A,to: ,DM-51 13128 A,label: ,8.97,color:,#b3b300
-from: ,Ross 974 A,to: ,DM+10 2531 A,label: ,8.92,color:,#b3b300
-from: ,DM-58 8327 A,to: ,DM-54 9222 A,label: ,8.08,color:,#b3b300
-from: ,DM-54 9222 A,to: ,DM-51 12998 A,label: ,8.54,color:,#b3b300
-from: ,DM-54 9222 B,to: ,DM-51 13128 A,label: ,8.06,color:,#b3b300
-from: ,DM-54 9222 B,to: ,L 283-7 B,label: ,8.11,color:,#b3b300
-from: ,DM-54 9222 B,to: ,DM-58 8327 A,label: ,8.08,color:,#b3b300
-from: ,DM-54 9222 B,to: ,L 119-21 A,label: ,8.35,color:,#b3b300
-from: ,DM+36 2393 A,to: ,Kimanjano A,label: ,8.44,color:,#b3b300
-from: ,DM-46 11540 A,to: ,Serurier A,label: ,8.12,color:,#b3b300
-from: ,Wolf 457 A,to: ,Gamma Virginis A,label: ,8.09,color:,#b3b300
-from: ,Wolf 457 A,to: ,Gamma Virginis B,label: ,8.09,color:,#b3b300
-from: ,DM+13 2618 A,to: ,AC+10 95-26 A,label: ,8.49,color:,#b3b300
-from: ,DM+13 2618 A,to: ,DM+9 2636 A,label: ,8.15,color:,#b3b300
-from: ,DM+11 2576 A,to: ,Eta Bootis A,label: ,8.68,color:,#b3b300
-from: ,DM+11 2576 A,to: ,Eta Bootis B,label: ,8.68,color:,#b3b300
-from: ,DM+11 2576 A,to: ,Beta Comae Berenices A,label: ,8.54,color:,#b3b300
-from: ,DM+11 2576 B,to: ,DM+15 2620 A,label: ,8.91,color:,#b3b300
-from: ,DM-21 6267 A,to: ,Wolf 1561 B,label: ,8.03,color:,#b3b300
-from: ,DM-21 6267 B,to: ,Wolf 1561 A,label: ,8.03,color:,#b3b300
-from: ,DM-21 6267 B,to: ,DM-5 5715 A,label: ,8.81,color:,#b3b300
-from: ,L 717-22 C,to: ,Wolf 1561 B,label: ,8.03,color:,#b3b300
-from: ,Wolf 461 B,to: ,Wolf 437 A,label: ,8.1,color:,#b3b300
-from: ,DM+35 2436 A,to: ,DM+48 2108 B,label: ,8.43,color:,#b3b300
-from: ,DM+35 2436 B,to: ,DM+48 2108 A,label: ,8.43,color:,#b3b300
-from: ,DM+35 2436 B,to: ,Kimanjano A,label: ,8.45,color:,#b3b300
-from: ,L 935-50 A,to: ,DM-17 6768 B,label: ,8.28,color:,#b3b300
-from: ,Serurier A,to: ,DM-46 11540 A,label: ,8.12,color:,#b3b300
-from: ,Serurier A,to: ,Proxima Centauri A,label: ,8.01,color:,#b3b300
-from: ,DM+0 2989 A,to: ,Wolf 433 A,label: ,8.66,color:,#b3b300
-from: ,DM+0 2989 A,to: ,Wolf 414 A,label: ,8.9,color:,#b3b300
-from: ,Beta Comae Berenices A,to: ,Eta Bootis A,label: ,8.51,color:,#b3b300
-from: ,Beta Comae Berenices A,to: ,Eta Bootis B,label: ,8.51,color:,#b3b300
-from: ,Beta Comae Berenices A,to: ,Beta Canum Venaticorum A,label: ,8.14,color:,#b3b300
-from: ,DM+15 2620 A,to: ,DM+11 2576 A,label: ,8.91,color:,#b3b300
-from: ,DM+15 2620 A,to: ,DM+11 2576 B,label: ,8.91,color:,#b3b300
-from: ,Delta Pavonis A,to: ,Epsilon Indi A,label: ,8.53,color:,#b3b300
-from: ,DM+48 2108 A,to: ,DM+35 2436 A,label: ,8.43,color:,#b3b300
-from: ,DM+48 2108 B,to: ,DM+35 2436 B,label: ,8.43,color:,#b3b300
-from: ,DM+48 2108 B,to: ,Queen Alice's Star A,label: ,8.54,color:,#b3b300
-from: ,Wolf 433 A,to: ,Ross 119 A,label: ,8.99,color:,#b3b300
-from: ,Sigma Draconis A,to: ,Kruger 60 B,label: ,8.18,color:,#b3b300
-from: ,Barnard's Star A,to: ,DM-12 4523 B,label: ,8.35,color:,#b3b300
-from: ,DM+59 1915 B,to: ,Ross 248 A,label: ,8.58,color:,#b3b300
-from: ,DM+68 946 A,to: ,Kruger 60 A,label: ,8.22,color:,#b3b300
-from: ,DM+68 946 B,to: ,Kruger 60 B,label: ,8.22,color:,#b3b300
-from: ,L 119-21 A,to: ,DM-54 9222 B,label: ,8.35,color:,#b3b300
-from: ,DM+9 2636 A,to: ,Wolf 457 A,label: ,8.58,color:,#b3b300
-from: ,DM+9 2636 A,to: ,DM+13 2618 A,label: ,8.15,color:,#b3b300
-from: ,Gamma Virginis B,to: ,Ross 974 A,label: ,8.96,color:,#b3b300
-from: ,Gamma Virginis B,to: ,Wolf 457 A,label: ,8.09,color:,#b3b300
-from: ,Wolf 437 A,to: ,Wolf 461 A,label: ,8.1,color:,#b3b300
-from: ,Wolf 437 A,to: ,DM+0 2989 A,label: ,8.92,color:,#b3b300
-from: ,Fomalhaut A,to: ,Hunjiang A,label: ,8.97,color:,#b3b300
-from: ,DM-17 6768 A,to: ,L 935-50 A,label: ,8.28,color:,#b3b300
-from: ,DM-17 6769 A,to: ,L 935-50 A,label: ,8.36,color:,#b3b300
-from: ,Wolf 414 A,to: ,DM+10 2531 A,label: ,8.67,color:,#b3b300
-from: ,Wolf 414 A,to: ,DM+16 2404 A,label: ,8.53,color:,#b3b300
-from: ,Wolf 414 A,to: ,Denebola A,label: ,8.55,color:,#b3b300
-from: ,DM+34 2323 A,to: ,DM+45 2014 A,label: ,8.63,color:,#b3b300
-from: ,DM+43 4305 B,to: ,DM+56 2966 A,label: ,8.2,color:,#b3b300
-from: ,Kimanjano A,to: ,DM+35 2436 A,label: ,8.45,color:,#b3b300
-from: ,Kimanjano A,to: ,C1 A,label: ,8.91,color:,#b3b300
-from: ,AC+32 86401 B,to: ,DM+40 45 A,label: ,8.8,color:,#b3b300
-from: ,Beta Canum Venaticorum A,to: ,Beta Comae Berenices A,label: ,8.14,color:,#b3b300
-from: ,Epsilon Indi A,to: ,Delta Pavonis A,label: ,8.53,color:,#b3b300
-from: ,Epsilon Indi A,to: ,Alpha Centauri A,label: ,8.99,color:,#b3b300
-from: ,Epsilon Indi A,to: ,Alpha Centauri B,label: ,8.99,color:,#b3b300
-from: ,Kruger 60 A,to: ,Sigma Draconis A,label: ,8.18,color:,#b3b300
-from: ,Kruger 60 A,to: ,Eta Cassiopeiae A,label: ,8.05,color:,#b3b300
-from: ,Kruger 60 A,to: ,Eta Cassiopeiae B,label: ,8.05,color:,#b3b300
-from: ,Kruger 60 B,to: ,DM+68 946 A,label: ,8.22,color:,#b3b300
-from: ,Kruger 60 B,to: ,DM+68 946 B,label: ,8.22,color:,#b3b300
-from: ,Ross 695 A,to: ,DM-19 3242 A,label: ,8.72,color:,#b3b300
-from: ,Ross 695 A,to: ,DM-19 3242 B,label: ,8.72,color:,#b3b300
-from: ,DM+56 2966 A,to: ,DM+43 4305 A,label: ,8.2,color:,#b3b300
-from: ,DM+56 2966 A,to: ,AC+71 532 A,label: ,8.37,color:,#b3b300
-from: ,Lacaille 9352 A,to: ,Tau Ceti A,label: ,8.01,color:,#b3b300
-from: ,Queen Alice's Star A,to: ,DM+48 2108 B,label: ,8.54,color:,#b3b300
-from: ,Wolf 424 A,to: ,Bessieres A,label: ,8.54,color:,#b3b300
-from: ,Wolf 424 B,to: ,Bessieres B,label: ,8.54,color:,#b3b300
-from: ,AC+13 14332 A,to: ,DM+74 456 A,label: ,8.54,color:,#b3b300
-from: ,DM+45 2014 A,to: ,DM+34 2323 A,label: ,8.63,color:,#b3b300
-from: ,Ross 249 A,to: ,DM+40 45 A,label: ,8.54,color:,#b3b300
-from: ,Alpha Centauri A,to: ,Nyotekundu A,label: ,8.16,color:,#b3b300
-from: ,Alpha Centauri B,to: ,Epsilon Indi A,label: ,8.99,color:,#b3b300
-from: ,Proxima Centauri A,to: ,Serurier A,label: ,8.01,color:,#b3b300
-from: ,Proxima Centauri A,to: ,Nyotekundu A,label: ,8.09,color:,#b3b300
-from: ,DM-73 1672 A,to: ,DM-68 47 A,label: ,8.73,color:,#b3b300
-from: ,L 68-28 A,to: ,L 97-12 A,label: ,8.4,color:,#b3b300
-from: ,Ross 248 A,to: ,DM+59 1915 B,label: ,8.58,color:,#b3b300
-from: ,85 Pegasi A,to: ,DM+20 85 A,label: ,8.01,color:,#b3b300
-from: ,DM+26 4734 C,to: ,DM+20 85 A,label: ,8.01,color:,#b3b300
-from: ,Sol A,to: ,Bessieres A,label: ,8.26,color:,#b3b300
-from: ,Sol A,to: ,UV Ceti B,label: ,8.78,color:,#b3b300
-from: ,Hunjiang A,to: ,Fomalhaut A,label: ,8.97,color:,#b3b300
-from: ,AC+79 3888 A,to: ,Sigma Draconis A,label: ,8.48,color:,#b3b300
-from: ,AC+79 3888 A,to: ,Neubayern A,label: ,8.47,color:,#b3b300
-from: ,DM+44 4548 A,to: ,Ross 249 A,label: ,8.16,color:,#b3b300
-from: ,Beta Hydri A,to: ,Rho Eridani A,label: ,8.02,color:,#b3b300
-from: ,Groombridge 34 A,to: ,Eta Cassiopeiae A,label: ,8.65,color:,#b3b300
-from: ,Groombridge 34 A,to: ,Eta Cassiopeiae B,label: ,8.65,color:,#b3b300
-from: ,Groombridge 34 A,to: ,Van Maanen's Star A,label: ,8.69,color:,#b3b300
-from: ,Groombridge 34 C,to: ,Eta Cassiopeiae A,label: ,8.51,color:,#b3b300
-from: ,Groombridge 34 C,to: ,Eta Cassiopeiae B,label: ,8.51,color:,#b3b300
-from: ,Groombridge 34 C,to: ,Van Maanen's Star A,label: ,8.64,color:,#b3b300
-from: ,Beta Cassiopeiae A,to: ,DM+63 137 A,label: ,8.02,color:,#b3b300
-from: ,Beta Cassiopeiae B,to: ,Ross 226 A,label: ,8.89,color:,#b3b300
-from: ,DM+36 2219 A,to: ,DM+31 2240 A,label: ,8.8,color:,#b3b300
-from: ,DM-51 5974 A,to: ,DM-39 7301 A,label: ,8.51,color:,#b3b300
-from: ,L 901-10 A,to: ,Beta Virginis A,label: ,8.77,color:,#b3b300
-from: ,DM+66 34 A,to: ,DM+57 2735 A,label: ,8.75,color:,#b3b300
-from: ,DM+66 34 B,to: ,AC+71 532 A,label: ,8.65,color:,#b3b300
-from: ,DM+66 34 B,to: ,AC+60 3496 A,label: ,8.07,color:,#b3b300
-from: ,DM+66 34 B,to: ,AC+56 13511 A,label: ,8.59,color:,#b3b300
-from: ,Bessieres A,to: ,Wolf 424 A,label: ,8.54,color:,#b3b300
-from: ,Bessieres A,to: ,Wolf 424 B,label: ,8.54,color:,#b3b300
-from: ,Bessieres A,to: ,Sol A,label: ,8.26,color:,#b3b300
-from: ,VB 5 B,to: ,DM-51 5974 A,label: ,8.51,color:,#b3b300
-from: ,AC+71 532 A,to: ,DM+66 34 A,label: ,8.65,color:,#b3b300
-from: ,AC+71 532 A,to: ,DM+66 34 B,label: ,8.65,color:,#b3b300
-from: ,AC+71 532 A,to: ,DM+61 366 A,label: ,8.95,color:,#b3b300
-from: ,Eta Cassiopeiae A,to: ,Kruger 60 A,label: ,8.05,color:,#b3b300
-from: ,Eta Cassiopeiae A,to: ,Groombridge 34 A,label: ,8.65,color:,#b3b300
-from: ,Eta Cassiopeiae A,to: ,Groombridge 34 C,label: ,8.51,color:,#b3b300
-from: ,Eta Cassiopeiae B,to: ,Kruger 60 B,label: ,8.05,color:,#b3b300
-from: ,Eta Cassiopeiae B,to: ,Groombridge 34 B,label: ,8.51,color:,#b3b300
-from: ,Eta Cassiopeiae B,to: ,AC+71 532 A,label: ,8.46,color:,#b3b300
-from: ,Nyotekundu A,to: ,Sirius A,label: ,8.95,color:,#b3b300
-from: ,Nyotekundu A,to: ,Sirius B,label: ,8.95,color:,#b3b300
-from: ,DM+40 45 A,to: ,AC+32 86401 B,label: ,8.8,color:,#b3b300
-from: ,DM+40 45 A,to: ,DM+41 219 A,label: ,8.17,color:,#b3b300
-from: ,DM+74 456 A,to: ,AC+13 14332 A,label: ,8.54,color:,#b3b300
-from: ,DM+74 456 A,to: ,AC+70 4337 A,label: ,8.04,color:,#b3b300
-from: ,DM+74 456 A,to: ,AC+70 4336 A,label: ,8.1,color:,#b3b300
-from: ,DM+27 2055 A,to: ,Ross 627 A,label: ,8.54,color:,#b3b300
-from: ,DM+27 2055 A,to: ,DM+31 2240 B,label: ,8.12,color:,#b3b300
-from: ,Van Maanen's Star A,to: ,L 789-6 A,label: ,8.5,color:,#b3b300
-from: ,Van Maanen's Star A,to: ,Groombridge 34 A,label: ,8.69,color:,#b3b300
-from: ,Van Maanen's Star A,to: ,Groombridge 34 C,label: ,8.64,color:,#b3b300
-from: ,Van Maanen's Star A,to: ,DM+4 123 A,label: ,8.89,color:,#b3b300
-from: ,Augereau A,to: ,AC+23 468-46 A,label: ,8.13,color:,#b3b300
-from: ,DM-32 8179 A,to: ,L 396-7 A,label: ,8.79,color:,#b3b300
-from: ,DM-68 47 A,to: ,DM-73 1672 A,label: ,8.73,color:,#b3b300
-from: ,Qinyuan A,to: ,Sol A,label: ,8.78,color:,#b3b300
-from: ,DM+61 195 B,to: ,AC+56 13511 A,label: ,8.09,color:,#b3b300
-from: ,L 396-7 A,to: ,VB 4 B,label: ,8.79,color:,#b3b300
-from: ,Mu Cassiopeiae B,to: ,DM+61 366 A,label: ,8.97,color:,#b3b300
-from: ,Neubayern A,to: ,AC+79 3888 A,label: ,8.47,color:,#b3b300
-from: ,DM-56 328 B,to: ,Beta Hydri A,label: ,8.02,color:,#b3b300
-from: ,Tau Ceti A,to: ,Lacaille 9352 A,label: ,8.01,color:,#b3b300
-from: ,DM-28 302 A,to: ,L 89-27 A,label: ,8.01,color:,#b3b300
-from: ,DM+20 85 A,to: ,DM+26 4734 B,label: ,8.01,color:,#b3b300
-from: ,AC+23 468-46 A,to: ,Augereau A,label: ,8.13,color:,#b3b300
-from: ,DM-19 3242 B,to: ,Ross 695 A,label: ,8.72,color:,#b3b300
-from: ,DM-19 3242 B,to: ,DM-31 9113 A,label: ,8.13,color:,#b3b300
-from: ,DM+63 137 A,to: ,Beta Cassiopeiae A,label: ,8.02,color:,#b3b300
-from: ,DM+63 137 A,to: ,Beta Cassiopeiae B,label: ,8.02,color:,#b3b300
-from: ,DM+39 154 A,to: ,Wolf 1056 A,label: ,8.52,color:,#b3b300
-from: ,Ross 627 A,to: ,DM+27 2055 A,label: ,8.54,color:,#b3b300
-from: ,L 724-32 A,to: ,DM-18 359 A,label: ,8.35,color:,#b3b300
-from: ,L 97-12 A,to: ,L 68-28 A,label: ,8.4,color:,#b3b300
-from: ,Wolf 358 A,to: ,DM-3 2870 B,label: ,8.88,color:,#b3b300
-from: ,Haifeng A,to: ,DM+6 398 A,label: ,8.82,color:,#b3b300
-from: ,Haifeng A,to: ,DM+6 398 B,label: ,8.82,color:,#b3b300
-from: ,Haifeng A,to: ,DM+6 398 C,label: ,8.82,color:,#b3b300
-from: ,AC+70 4337 A,to: ,DM+74 456 B,label: ,8.04,color:,#b3b300
-from: ,AC+70 4336 A,to: ,DM+74 456 A,label: ,8.1,color:,#b3b300
-from: ,DM+61 366 A,to: ,Mu Cassiopeiae A,label: ,8.97,color:,#b3b300
-from: ,DM+31 2240 A,to: ,DM+36 2219 A,label: ,8.8,color:,#b3b300
-from: ,DM+31 2240 A,to: ,DM+41 2147 A,label: ,8.47,color:,#b3b300
-from: ,DM+31 2240 B,to: ,DM+27 2055 A,label: ,8.12,color:,#b3b300
-from: ,DM+53 1320 A,to: ,AC+38 23616 A,label: ,8.64,color:,#b3b300
-from: ,DM+53 1320 A,to: ,AC+38 23616 B,label: ,8.64,color:,#b3b300
-from: ,DM+62 274 A,to: ,AC+56 13511 A,label: ,8.31,color:,#b3b300
-from: ,Sirius A,to: ,Sol A,label: ,8.63,color:,#b3b300
-from: ,Sirius A,to: ,Epsilon Eridani A,label: ,8.03,color:,#b3b300
-from: ,Sirius A,to: ,Epsilon Eridani B,label: ,8.03,color:,#b3b300
-from: ,Sirius B,to: ,Nyotekundu A,label: ,8.95,color:,#b3b300
-from: ,AC+56 13511 A,to: ,DM+66 34 A,label: ,8.59,color:,#b3b300
-from: ,AC+56 13511 A,to: ,DM+66 34 B,label: ,8.59,color:,#b3b300
-from: ,AC+56 13511 A,to: ,DM+61 195 B,label: ,8.09,color:,#b3b300
-from: ,AC+56 13511 A,to: ,DM+62 274 A,label: ,8.31,color:,#b3b300
-from: ,Epsilon Eridani B,to: ,Haifeng A,label: ,8.47,color:,#b3b300
-from: ,Epsilon Eridani B,to: ,Sirius A,label: ,8.03,color:,#b3b300
-from: ,Epsilon Eridani B,to: ,Sirius B,label: ,8.03,color:,#b3b300
-from: ,Epsilon Eridani B,to: ,Kapetyn's Star A,label: ,8.5,color:,#b3b300
-from: ,Kapetyn's Star A,to: ,Epsilon Eridani A,label: ,8.5,color:,#b3b300
-from: ,Kapetyn's Star A,to: ,Epsilon Eridani B,label: ,8.5,color:,#b3b300
-from: ,DM+41 2147 A,to: ,DM+31 2240 A,label: ,8.47,color:,#b3b300
-from: ,DM+19 279 A,to: ,DM+4 123 A,label: ,8.35,color:,#b3b300
-from: ,AC+58 13565 A,to: ,DM+63 137 A,label: ,8.2,color:,#b3b300
-from: ,AC+58 13565 A,to: ,Theta Persei B,label: ,8.14,color:,#b3b300
-from: ,Procyon B,to: ,Nyotekundu A,label: ,8.6,color:,#b3b300
-from: ,Procyon B,to: ,YZ Canis Minoris A,label: ,8.32,color:,#b3b300
-from: ,L 897-16 A,to: ,L 824-28 A,label: ,8.11,color:,#b3b300
-from: ,DM-41 328 A,to: ,DM+47 612 A,label: ,8.09,color:,#b3b300
-from: ,DM-45 5378 A,to: ,DM-59 2351 A,label: ,8.06,color:,#b3b300
-from: ,L 127-97 A,to: ,DM-54 487 A,label: ,8.86,color:,#b3b300
-from: ,DM+47 612 A,to: ,DM-41 328 A,label: ,8.09,color:,#b3b300
-from: ,DM+47 612 A,to: ,Delta Trianguli A,label: ,8.07,color:,#b3b300
-from: ,Ross 614 A,to: ,DM-7 781 C,label: ,8.81,color:,#b3b300
-from: ,Ross 614 A,to: ,AC+12 1800-213 A,label: ,8.36,color:,#b3b300
-from: ,Ross 614 B,to: ,DM-7 781 B,label: ,8.81,color:,#b3b300
-from: ,Ross 614 B,to: ,Omicron2 Eridani A,label: ,8.81,color:,#b3b300
-from: ,Ross 614 B,to: ,YZ Canis Minoris A,label: ,8.67,color:,#b3b300
-from: ,DM-3 2870 B,to: ,Wolf 358 A,label: ,8.88,color:,#b3b300
-from: ,DM+32 828 A,to: ,DM-44 775 A,label: ,8.22,color:,#b3b300
-from: ,DM+32 828 A,to: ,DM-44 775 B,label: ,8.22,color:,#b3b300
-from: ,DM+32 828 A,to: ,DM-23 693 A,label: ,8.8,color:,#b3b300
-from: ,DM-18 359 A,to: ,L 724-32 A,label: ,8.35,color:,#b3b300
-from: ,DM-7 781 B,to: ,Ross 614 B,label: ,8.81,color:,#b3b300
-from: ,DM-7 781 B,to: ,LP 658-2 A,label: ,8.47,color:,#b3b300
-from: ,DM-7 781 C,to: ,Ross 614 A,label: ,8.81,color:,#b3b300
-from: ,Omicron2 Eridani A,to: ,Ross 614 B,label: ,8.81,color:,#b3b300
-from: ,Omicron2 Eridani A,to: ,LP 658-2 A,label: ,8.47,color:,#b3b300
-from: ,DM-54 487 A,to: ,L 127-97 A,label: ,8.86,color:,#b3b300
-from: ,AC+38 23616 A,to: ,DM+53 1320 A,label: ,8.64,color:,#b3b300
-from: ,AC+38 23616 A,to: ,DM+53 1321 B,label: ,8.64,color:,#b3b300
-from: ,DM+6 398 A,to: ,AC+25 7918 A,label: ,8.14,color:,#b3b300
-from: ,DM+6 398 A,to: ,DM-13 544 A,label: ,8.86,color:,#b3b300
-from: ,DM+6 398 B,to: ,Haifeng A,label: ,8.82,color:,#b3b300
-from: ,DM+6 398 B,to: ,Kappa Reticuli A,label: ,8.82,color:,#b3b300
-from: ,DM+6 398 C,to: ,AC+25 7918 A,label: ,8.14,color:,#b3b300
-from: ,DM+6 398 C,to: ,DM-13 544 A,label: ,8.86,color:,#b3b300
-from: ,DM-16 214 A,to: ,DM-23 332 A,label: ,8.08,color:,#b3b300
-from: ,DM-44 775 B,to: ,DM+32 828 A,label: ,8.22,color:,#b3b300
-from: ,DM-44 775 B,to: ,DM-45 1184 A,label: ,8.3,color:,#b3b300
-from: ,Delta Trianguli B,to: ,DM+47 612 A,label: ,8.07,color:,#b3b300
-from: ,DM-23 693 A,to: ,DM-28 694 A,label: ,8.02,color:,#b3b300
-from: ,AC+33 25644 A,to: ,AC+12 1800-213 A,label: ,9,color:,#b3b300
-from: ,L 824-28 A,to: ,L 897-16 A,label: ,8.11,color:,#b3b300
-from: ,L 824-28 A,to: ,DM-2 3000 A,label: ,8.4,color:,#b3b300
-from: ,DM-13 544 A,to: ,DM+6 398 A,label: ,8.86,color:,#b3b300
-from: ,DM-13 544 A,to: ,DM+6 398 B,label: ,8.86,color:,#b3b300
-from: ,DM-13 544 A,to: ,DM+6 398 C,label: ,8.86,color:,#b3b300
-from: ,LP 425-140 A,to: ,YZ Canis Minoris A,label: ,8.37,color:,#b3b300
-from: ,DM-21 1377 A,to: ,DM-21 1051 B,label: ,8.54,color:,#b3b300
-from: ,DM-21 1377 A,to: ,Gamma Leporis A,label: ,8.18,color:,#b3b300
-from: ,DM-21 1377 A,to: ,VB 1 C,label: ,8.11,color:,#b3b300
-from: ,Theta Persei A,to: ,AC+58 13565 A,label: ,8.14,color:,#b3b300
-from: ,YZ Canis Minoris A,to: ,Procyon A,label: ,8.32,color:,#b3b300
-from: ,YZ Canis Minoris A,to: ,Procyon B,label: ,8.32,color:,#b3b300
-from: ,YZ Canis Minoris A,to: ,Ross 614 A,label: ,8.67,color:,#b3b300
-from: ,G195-19 A,to: ,DM+46 1551 A,label: ,8.14,color:,#b3b300
-from: ,DM+52 857 A,to: ,Ross 28 A,label: ,8.63,color:,#b3b300
-from: ,DM-32 5613 A,to: ,L 678-39 A,label: ,8.28,color:,#b3b300
-from: ,AC+12 1800-213 A,to: ,Ross 614 B,label: ,8.36,color:,#b3b300
-from: ,AC+12 1800-213 A,to: ,AC+33 25644 A,label: ,9,color:,#b3b300
-from: ,DM+46 1551 A,to: ,DM+36 1970 A,label: ,8.69,color:,#b3b300
-from: ,LP 658-2 A,to: ,DM-7 781 C,label: ,8.47,color:,#b3b300
-from: ,DM-48 1011 A,to: ,DM-51 532 A,label: ,8.85,color:,#b3b300
-from: ,DM+43 1953 A,to: ,Iota Ursae Majoris A,label: ,8.17,color:,#b3b300
-from: ,DM+43 1953 A,to: ,Iota Ursae Majoris B,label: ,8.17,color:,#b3b300
-from: ,DM+43 1953 A,to: ,Iota Ursae Majoris C,label: ,8.17,color:,#b3b300
-from: ,DM+43 1953 A,to: ,Iota Ursae Majoris D,label: ,8.17,color:,#b3b300
-from: ,DM-38 4789 A,to: ,DM-45 5378 A,label: ,8.3,color:,#b3b300
-from: ,DM-45 1184 A,to: ,DM-53 889 A,label: ,8.13,color:,#b3b300
-from: ,Ross 28 A,to: ,Iota Persei A,label: ,8.03,color:,#b3b300
-from: ,Ross 28 A,to: ,DM+52 857 A,label: ,8.63,color:,#b3b300
-from: ,DM-21 1051 A,to: ,DM-21 1377 A,label: ,8.54,color:,#b3b300
-from: ,DM-21 1051 A,to: ,DM-5 1123 A,label: ,8.93,color:,#b3b300
-from: ,DM-21 1051 B,to: ,DM-5 1123 B,label: ,8.93,color:,#b3b300
-from: ,DM+6 2182 A,to: ,AC+13 1301-119 A,label: ,8.61,color:,#b3b300
-from: ,Iota Ursae Majoris A,to: ,DM+48 1829 A,label: ,8.99,color:,#b3b300
-from: ,Iota Ursae Majoris B,to: ,DM+43 1953 A,label: ,8.17,color:,#b3b300
-from: ,Iota Ursae Majoris C,to: ,DM+48 1829 A,label: ,8.99,color:,#b3b300
-from: ,Iota Ursae Majoris D,to: ,DM+43 1953 A,label: ,8.17,color:,#b3b300
-from: ,DM-22 1210 B,to: ,DM-21 1377 A,label: ,8.18,color:,#b3b300
-from: ,Ross 64 A,to: ,DM+10 1032 A,label: ,8.22,color:,#b3b300
-from: ,VB 1 C,to: ,DM-21 1377 A,label: ,8.11,color:,#b3b300
-from: ,DM-38 1058 A,to: ,DM-41 1288 A,label: ,8.52,color:,#b3b300
-from: ,G107-70 C,to: ,DM+36 1638 A,label: ,8.94,color:,#b3b300
-from: ,G107-70 C,to: ,DM+36 1638 B,label: ,8.94,color:,#b3b300
-from: ,G107-70 C,to: ,Ross 989 C,label: ,8.94,color:,#b3b300
-from: ,DM+37 748 A,to: ,AC+33 10883 A,label: ,8.66,color:,#b3b300
-from: ,G107-69 A,to: ,Psi5 Aurigae A,label: ,8.84,color:,#b3b300
-from: ,DM-31 6229 A,to: ,DM-38 4789 A,label: ,8.02,color:,#b3b300
-from: ,DM+36 1638 A,to: ,G107-70 C,label: ,8.94,color:,#b3b300
-from: ,DM+36 1638 B,to: ,G107-70 D,label: ,8.92,color:,#b3b300
-from: ,Ross 41 A,to: ,DM-5 1123 A,label: ,8.69,color:,#b3b300
-from: ,Ross 989 C,to: ,G107-70 C,label: ,8.94,color:,#b3b300
-from: ,Alpha Fornacis A,to: ,DM-20 643 A,label: ,8.52,color:,#b3b300
-from: ,DM-5 1123 A,to: ,DM-21 1051 A,label: ,8.93,color:,#b3b300
-from: ,DM-5 1123 A,to: ,Ross 41 A,label: ,8.69,color:,#b3b300
-from: ,DM-5 1123 B,to: ,DM-21 1051 B,label: ,8.93,color:,#b3b300
-from: ,DM-20 643 A,to: ,Alpha Fornacis A,label: ,8.52,color:,#b3b300
-from: ,DM-4 2226 A,to: ,L 745-46 B,label: ,8.8,color:,#b3b300
-from: ,DM-41 1288 A,to: ,DM-46 943 A,label: ,8.95,color:,#b3b300
-from: ,L 745-46 A,to: ,DM-4 2226 A,label: ,8.8,color:,#b3b300
-from: ,Chi1 Orionis A,to: ,DM+18 1214 A,label: ,8.44,color:,#b3b300
-from: ,DM+10 1032 A,to: ,Ross 64 A,label: ,8.22,color:,#b3b300
-from: ,AC+33 10883 A,to: ,DM+37 748 A,label: ,8.66,color:,#b3b300
-from: ,DM-5 642 A,to: ,DM-63 110 A,label: ,8.95,color:,#b3b300
-from: ,Psi5 Aurigae A,to: ,G107-69 B,label: ,8.84,color:,#b3b300
-from: ,DM+18 1214 A,to: ,DM+17 1320 A,label: ,8.09,color:,#b3b300
-from: ,DM-35 3233 B,to: ,DM-25 3913 A,label: ,8.1,color:,#b3b300
-from: ,DM-35 3233 B,to: ,L 597-31 A,label: ,8.37,color:,#b3b300
-from: ,Wolf 1539 A,to: ,DM+11 878 A,label: ,8.3,color:,#b3b300
-from: ,DM-63 110 A,to: ,DM-1 565 A,label: ,8.34,color:,#b3b300
-from: ,DM-63 110 A,to: ,DM-1 565 C,label: ,8.34,color:,#b3b300
-from: ,DM-1 565 B,to: ,DM-63 110 A,label: ,8.34,color:,#b3b300
-from: ,DM-3 2002 B,to: ,DM-13 2267 A,label: ,8.89,color:,#b3b300
-from: ,DM-3 2002 B,to: ,DM-13 2267 B,label: ,8.89,color:,#b3b300
-from: ,DM-3 2002 B,to: ,L 886-6 A,label: ,8.18,color:,#b3b300
-from: ,DM-13 2267 A,to: ,DM-3 2002 B,label: ,8.89,color:,#b3b300
-from: ,DM-13 2267 B,to: ,DM-3 2001 A,label: ,8.92,color:,#b3b300
-from: ,L 597-31 A,to: ,DM-35 3233 A,label: ,8.37,color:,#b3b300
-from: ,L 597-31 A,to: ,DM-35 3233 B,label: ,8.37,color:,#b3b300
-from: ,AC+19 1165-38 A,to: ,Ross 42 A,label: ,8.85,color:,#b3b300
-from: ,L 886-6 A,to: ,DM-3 2002 B,label: ,8.18,color:,#b3b300
-from: ,L 886-6 A,to: ,Ross 417 A,label: ,8.64,color:,#b3b300
-from: ,Ross 42 B,to: ,AC+19 1165-38 A,label: ,8.85,color:,#b3b300
-from: ,DM-4 2490 A,to: ,DM-4 2226 A,label: ,8.52,color:,#b3b300
-from: ,DM-4 2490 A,to: ,DM-8 2582 A,label: ,8.83,color:,#b3b300
-from: ,DM-4 2490 A,to: ,DM-8 2582 B,label: ,8.83,color:,#b3b300
-from: ,DM-4 2490 A,to: ,DM-12 2449 A,label: ,8.4,color:,#b3b300
+{"from": "SS+28 9357 A","to": "SS-22 4654 B", "label": "8.9","color": "#b3b300"},
+{"from": "HC+25 1902 A","to": "DK+21 6825A", "label": "8.77","color": "#b3b300"},
+{"from": "Oneil 723  A","to": "SS-22 4654 A", "label": "8.24","color": "#b3b300"},
+{"from": "SS-22 4654 B","to": "SS+28 9357 A", "label": "8.9","color": "#b3b300"},
+{"from": "SS-22 4654 B","to": "Oneil 723  A", "label": "8.24","color": "#b3b300"},
+{"from": "SS-22 4654 B","to": "BK-1 1423 ", "label": "8.95","color": "#b3b300"},
+{"from": "DK-26 2485 A","to": "BK-5 9201 A", "label": "8.22","color": "#b3b300"},
+{"from": "SS-19 2424  A","to": "HC+31 8213 A", "label": "8.5","color": "#b3b300"},
+{"from": "DM-21 5081 A","to": "L 850-62 A", "label": "8.61","color": "#b3b300"},
+{"from": "DM-1 3474 A","to": "AC+3 2528-176 A", "label": "8.49","color": "#b3b300"},
+{"from": "HC-4 9701 Kaa'a'ah A","to": "BK-2 0075 ", "label": "8.9","color": "#b3b300"},
+{"from": "Delta Aquilae B","to": "DM+2 4076 A", "label": "8.12","color": "#b3b300"},
+{"from": "L 850-62 A","to": "DM-18 4986 A", "label": "8.17","color": "#b3b300"},
+{"from": "L 850-62 A","to": "DM-21 5081 A", "label": "8.61","color": "#b3b300"},
+{"from": "DM+7 4052 A","to": "DM+5 3993 A", "label": "8.4","color": "#b3b300"},
+{"from": "BK-2 0075 ","to": "HC-4 9701 Kaa'a'ah A", "label": "8.9","color": "#b3b300"},
+{"from": "BK-1 1423 ","to": "SS-22 4654 B", "label": "8.95","color": "#b3b300"},
+{"from": "BK-1 1423 ","to": "BK+7 5675 A", "label": "8.82","color": "#b3b300"},
+{"from": "Chien 414  A","to": "Chien 820  A", "label": "8.45","color": "#b3b300"},
+{"from": "DM+3 3465 A","to": "DM+5 3409 A", "label": "8.53","color": "#b3b300"},
+{"from": "AC+16 247-80 A","to": "DM+15 3364 A", "label": "8.99","color": "#b3b300"},
+{"from": "BK+7 5675 A","to": "BK+15 3434 A", "label": "8.58","color": "#b3b300"},
+{"from": "BK+7 5675 A","to": "BK-1 1423 ", "label": "8.82","color": "#b3b300"},
+{"from": "DM+4 4157 A","to": "L 997-21 A", "label": "8.25","color": "#b3b300"},
+{"from": "HC-6 2111","to": "Chien 414  A", "label": "8.22","color": "#b3b300"},
+{"from": "DM+25 3719 A","to": "DM+31 3767 A", "label": "8.23","color": "#b3b300"},
+{"from": "AC+13 1185-145 A","to": "DM+2 4076 A", "label": "8.68","color": "#b3b300"},
+{"from": "BPM 94172 A","to": "AC+8 142-393 A", "label": "8.6","color": "#b3b300"},
+{"from": "BK+10 1245 A","to": "HC+18 9881 A", "label": "8.81","color": "#b3b300"},
+{"from": "BK+10 1245 A","to": "Chien 112 A", "label": "8.48","color": "#b3b300"},
+{"from": "DM+2 4076 A","to": "Delta Aquilae B", "label": "8.12","color": "#b3b300"},
+{"from": "DM+2 4076 A","to": "DM+7 4052 A", "label": "8.55","color": "#b3b300"},
+{"from": "Chien 112 A","to": "BK+10 1245 A", "label": "8.48","color": "#b3b300"},
+{"from": "VB 11 B","to": "DM-14 5936 A", "label": "8.1","color": "#b3b300"},
+{"from": "VB 11 B","to": "DM-14 5936 B", "label": "8.1","color": "#b3b300"},
+{"from": "DM-4 4225 A","to": "DM+5 3409 B", "label": "8.29","color": "#b3b300"},
+{"from": "DM-4 4226 A","to": "DM+5 3409 A", "label": "8.29","color": "#b3b300"},
+{"from": "AC+8 142-393 A","to": "AC+16 247-80 A", "label": "8.32","color": "#b3b300"},
+{"from": "AC+8 142-393 A","to": "BPM 94172 A", "label": "8.6","color": "#b3b300"},
+{"from": "DM-14 5936 A","to": "L 856-54 B", "label": "8.97","color": "#b3b300"},
+{"from": "DM-14 5936 B","to": "Ross 193 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM-14 5936 B","to": "VB 11 B", "label": "8.1","color": "#b3b300"},
+{"from": "DM-14 5936 B","to": "L 856-54 A", "label": "8.97","color": "#b3b300"},
+{"from": "L 489-58 B","to": "DM-48 12818 A", "label": "8.18","color": "#b3b300"},
+{"from": "DM+45 2688 A","to": "DM+52 2294 A", "label": "8.56","color": "#b3b300"},
+{"from": "DM-24 16193 A","to": "Psi Capricorni A", "label": "8.8","color": "#b3b300"},
+{"from": "Ross 867 B","to": "DM+32 2896 A", "label": "8.39","color": "#b3b300"},
+{"from": "Ross 867 B","to": "Zeta Herculis B", "label": "8.46","color": "#b3b300"},
+{"from": "DM+13 2901 A","to": "HC-6 2111", "label": "8.53","color": "#b3b300"},
+{"from": "DM+13 2901 A","to": "DM+19 2881 B", "label": "8.78","color": "#b3b300"},
+{"from": "DM-43 12343 A","to": "DM-48 11837 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM+31 3767 B","to": "DM+25 3719 A", "label": "8.23","color": "#b3b300"},
+{"from": "DM+5 3409 B","to": "DM+3 3465 A", "label": "8.53","color": "#b3b300"},
+{"from": "DM+5 3409 B","to": "DM-4 4225 A", "label": "8.29","color": "#b3b300"},
+{"from": "DM+5 3409 B","to": "DM-4 4226 A", "label": "8.29","color": "#b3b300"},
+{"from": "L 997-21 A","to": "DM+4 4157 A", "label": "8.25","color": "#b3b300"},
+{"from": "DM-23 15935 A","to": "AC+20 76187 A", "label": "8.47","color": "#b3b300"},
+{"from": "Ross 868 A","to": "Mu Herculis A", "label": "8.96","color": "#b3b300"},
+{"from": "Ross 868 A","to": "Mu Herculis B", "label": "8.96","color": "#b3b300"},
+{"from": "Ross 868 A","to": "Mu Herculis C", "label": "8.96","color": "#b3b300"},
+{"from": "DM+25 3173 A","to": "L 1346-53 A", "label": "8.18","color": "#b3b300"},
+{"from": "AC+41 726-154 A","to": "DM+38 3095 A", "label": "8.04","color": "#b3b300"},
+{"from": "L 856-54 B","to": "DM-14 5936 A", "label": "8.97","color": "#b3b300"},
+{"from": "L 856-54 B","to": "DM-14 5936 B", "label": "8.97","color": "#b3b300"},
+{"from": "L 856-54 B","to": "Psi Capricorni A", "label": "8.27","color": "#b3b300"},
+{"from": "Lambda Serpentis A","to": "L 1346-53 A", "label": "8.3","color": "#b3b300"},
+{"from": "DM+24 2786 A","to": "DM+19 2881 A", "label": "8.57","color": "#b3b300"},
+{"from": "DM+24 2786 B","to": "DM+19 2881 B", "label": "8.57","color": "#b3b300"},
+{"from": "DM+24 2786 B","to": "DM+30 2512 A", "label": "8.11","color": "#b3b300"},
+{"from": "DM+24 2733 A","to": "DM+30 2512 A", "label": "8.66","color": "#b3b300"},
+{"from": "DM+38 3095 A","to": "AC+41 726-154 A", "label": "8.04","color": "#b3b300"},
+{"from": "L 1346-53 A","to": "Gamma Serpentis", "label": "8.01","color": "#b3b300"},
+{"from": "L 1346-53 A","to": "DM+25 3173 A", "label": "8.18","color": "#b3b300"},
+{"from": "L 1346-53 A","to": "Ross 863 A", "label": "8.56","color": "#b3b300"},
+{"from": "L 1346-53 A","to": "Zeta Herculis A", "label": "8.02","color": "#b3b300"},
+{"from": "Psi Capricorni A","to": "DM-24 16193 A", "label": "8.8","color": "#b3b300"},
+{"from": "Psi Capricorni A","to": "L 856-54 B", "label": "8.27","color": "#b3b300"},
+{"from": "DM-48 11837 A","to": "DM-43 12343 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM-48 12818 A","to": "L 489-58 B", "label": "8.18","color": "#b3b300"},
+{"from": "Zeta Herculis A","to": "Ross 867 B", "label": "8.46","color": "#b3b300"},
+{"from": "Zeta Herculis B","to": "L 1346-53 A", "label": "8.02","color": "#b3b300"},
+{"from": "Zeta Herculis B","to": "Mu Herculis A", "label": "8.87","color": "#b3b300"},
+{"from": "Zeta Herculis B","to": "Mu Herculis B", "label": "8.87","color": "#b3b300"},
+{"from": "Zeta Herculis B","to": "Mu Herculis C", "label": "8.87","color": "#b3b300"},
+{"from": "DM+19 2881 A","to": "DM+13 2901 A", "label": "8.78","color": "#b3b300"},
+{"from": "DM+19 2881 A","to": "DM+24 2786 A", "label": "8.57","color": "#b3b300"},
+{"from": "DM+19 2881 B","to": "DM+24 2786 B", "label": "8.57","color": "#b3b300"},
+{"from": "Botany Bay A","to": "Ross 867 B", "label": "8.66","color": "#b3b300"},
+{"from": "Botany Bay A","to": "DM+43 2796 A", "label": "8.28","color": "#b3b300"},
+{"from": "AC+20 1463-148 A","to": "Vega A", "label": "8.91","color": "#b3b300"},
+{"from": "Wolf 534 A","to": "Ross 848 A", "label": "8.16","color": "#b3b300"},
+{"from": "Wolf 534 A","to": "DM-3 3508 A", "label": "8.99","color": "#b3b300"},
+{"from": "King A","to": "70 Ophiuchi B", "label": "8.6","color": "#b3b300"},
+{"from": "DM-3 4233 A","to": "DM+4 4048 A", "label": "8.63","color": "#b3b300"},
+{"from": "AC+20 76187 A","to": "DM-23 15935 A", "label": "8.47","color": "#b3b300"},
+{"from": "Mu Herculis A","to": "Zeta Herculis B", "label": "8.87","color": "#b3b300"},
+{"from": "Mu Herculis A","to": "Botany Bay A", "label": "8.77","color": "#b3b300"},
+{"from": "Mu Herculis A","to": "AC+32 54804 B", "label": "8.33","color": "#b3b300"},
+{"from": "Mu Herculis B","to": "Ross 868 A", "label": "8.96","color": "#b3b300"},
+{"from": "Mu Herculis B","to": "Zeta Herculis A", "label": "8.87","color": "#b3b300"},
+{"from": "Mu Herculis B","to": "AC+32 54804 A", "label": "8.33","color": "#b3b300"},
+{"from": "Mu Herculis C","to": "Zeta Herculis B", "label": "8.87","color": "#b3b300"},
+{"from": "Mu Herculis C","to": "Botany Bay A", "label": "8.77","color": "#b3b300"},
+{"from": "Mu Herculis C","to": "AC+32 54804 B", "label": "8.33","color": "#b3b300"},
+{"from": "AC-12 2306-155 A","to": "DM-1 2892 A", "label": "8.81","color": "#b3b300"},
+{"from": "AC+32 54804 A","to": "Mu Herculis A", "label": "8.33","color": "#b3b300"},
+{"from": "AC+32 54804 A","to": "Mu Herculis B", "label": "8.33","color": "#b3b300"},
+{"from": "AC+32 54804 A","to": "Mu Herculis C", "label": "8.33","color": "#b3b300"},
+{"from": "Ross 52 A","to": "Eta Bootis A", "label": "8.67","color": "#b3b300"},
+{"from": "Ross 52 A","to": "Eta Bootis B", "label": "8.67","color": "#b3b300"},
+{"from": "Ross 52 B","to": "DM+27 2296 B", "label": "8.88","color": "#b3b300"},
+{"from": "Ross 52 B","to": "Hochbaden A", "label": "8.88","color": "#b3b300"},
+{"from": "AC+44 871-589 A","to": "AC+39 60670 A", "label": "8.6","color": "#b3b300"},
+{"from": "DM+30 2512 A","to": "DM+24 2786 A", "label": "8.11","color": "#b3b300"},
+{"from": "DM+30 2512 A","to": "DM+25 2874 A", "label": "8.47","color": "#b3b300"},
+{"from": "Vega A","to": "AC+20 1463-148 A", "label": "8.91","color": "#b3b300"},
+{"from": "Ross 848 A","to": "Wolf 534 A", "label": "8.16","color": "#b3b300"},
+{"from": "L 715-89 A","to": "DM-30 19175 A", "label": "8.93","color": "#b3b300"},
+{"from": "AC+39 60670 B","to": "AC+44 871-589 A", "label": "8.6","color": "#b3b300"},
+{"from": "DM-3 3508 B","to": "Wolf 534 A", "label": "8.99","color": "#b3b300"},
+{"from": "DM-3 3508 B","to": "Ross 486 A", "label": "8.85","color": "#b3b300"},
+{"from": "DM-3 3508 B","to": "Ross 486 B", "label": "8.85","color": "#b3b300"},
+{"from": "Clarkesstar A","to": "DM-7 4003 A", "label": "8.62","color": "#b3b300"},
+{"from": "VB 8 C","to": "DM-7 4003 A", "label": "8.62","color": "#b3b300"},
+{"from": "Wolf 629 B","to": "DM-7 4003 A", "label": "8.62","color": "#b3b300"},
+{"from": "AC+17 536-125 A","to": "DM+19 5036 A", "label": "8.6","color": "#b3b300"},
+{"from": "Iota Pegasi B","to": "AC+16 734-144 A", "label": "8.14","color": "#b3b300"},
+{"from": "DM-34 11626 A","to": "Davout A", "label": "8.69","color": "#b3b300"},
+{"from": "DM-34 11626 B","to": "DM-40 9712 A", "label": "8.99","color": "#b3b300"},
+{"from": "DM-34 11626 C","to": "Davout A", "label": "8.69","color": "#b3b300"},
+{"from": "AC+16 734-144 A","to": "Iota Pegasi B", "label": "8.14","color": "#b3b300"},
+{"from": "DM+4 4048 A","to": "DM-3 4233 A", "label": "8.63","color": "#b3b300"},
+{"from": "DM-1 2892 A","to": "AC-12 2306-155 A", "label": "8.81","color": "#b3b300"},
+{"from": "DM-51 12998 A","to": "DM-54 9222 B", "label": "8.54","color": "#b3b300"},
+{"from": "Theta Bootis B","to": "DM+47 2112 A", "label": "8.9","color": "#b3b300"},
+{"from": "Theta Bootis B","to": "DM+47 2112 B", "label": "8.9","color": "#b3b300"},
+{"from": "DM-47 13928 A","to": "L 355-62 A", "label": "8.09","color": "#b3b300"},
+{"from": "70 Ophiuchi A","to": "DM-12 4523 B", "label": "8.07","color": "#b3b300"},
+{"from": "70 Ophiuchi B","to": "King A", "label": "8.6","color": "#b3b300"},
+{"from": "70 Ophiuchi B","to": "Broward A", "label": "8.07","color": "#b3b300"},
+{"from": "DM+2 3482 C","to": "DM-12 4523 B", "label": "8.07","color": "#b3b300"},
+{"from": "DM+67 1014 B","to": "DM+67 935 A", "label": "8.31","color": "#b3b300"},
+{"from": "DM+67 1014 B","to": "DM+67 935 B", "label": "8.24","color": "#b3b300"},
+{"from": "DM-7 4003 A","to": "DM-8 4352 B", "label": "8.62","color": "#b3b300"},
+{"from": "DM-7 4003 A","to": "Wolf 629 A", "label": "8.62","color": "#b3b300"},
+{"from": "Beta Trianguli Australis A","to": "Zeta Draconis A", "label": "8.33","color": "#b3b300"},
+{"from": "DM-26 12026 A","to": "DM-40 9712 A", "label": "8.38","color": "#b3b300"},
+{"from": "DM-26 12036 C","to": "DM-40 9712 A", "label": "8.44","color": "#b3b300"},
+{"from": "DM-51 13128 A","to": "DM-60 7821 A", "label": "8.97","color": "#b3b300"},
+{"from": "DM-51 13128 A","to": "DM-54 9222 A", "label": "8.06","color": "#b3b300"},
+{"from": "L 283-7 B","to": "DM-54 9222 B", "label": "8.11","color": "#b3b300"},
+{"from": "DM+62 1916 A","to": "Wolf 1084 A", "label": "8.45","color": "#b3b300"},
+{"from": "Eta Bootis A","to": "Beta Comae Berenices A", "label": "8.51","color": "#b3b300"},
+{"from": "Eta Bootis B","to": "DM+16 2708 A", "label": "8.54","color": "#b3b300"},
+{"from": "Eta Bootis B","to": "Ross 52 A", "label": "8.67","color": "#b3b300"},
+{"from": "Eta Bootis B","to": "Ross 52 B", "label": "8.67","color": "#b3b300"},
+{"from": "Eta Bootis B","to": "DM+11 2576 A", "label": "8.68","color": "#b3b300"},
+{"from": "Eta Bootis B","to": "DM+11 2576 B", "label": "8.68","color": "#b3b300"},
+{"from": "Ross 486 A","to": "DM-3 3508 B", "label": "8.85","color": "#b3b300"},
+{"from": "Ross 486 B","to": "DM-3 3508 A", "label": "8.85","color": "#b3b300"},
+{"from": "DM+47 2112 A","to": "Theta Bootis A", "label": "8.9","color": "#b3b300"},
+{"from": "DM+47 2112 A","to": "Theta Bootis B", "label": "8.9","color": "#b3b300"},
+{"from": "Wolf 1561 A","to": "DM-21 6267 B", "label": "8.03","color": "#b3b300"},
+{"from": "Wolf 1561 B","to": "DM-21 6267 A", "label": "8.03","color": "#b3b300"},
+{"from": "Wolf 1561 B","to": "L 717-22 C", "label": "8.03","color": "#b3b300"},
+{"from": "DM-5 5715 A","to": "DM-21 6267 B", "label": "8.81","color": "#b3b300"},
+{"from": "DM+10 2531 A","to": "Ross 974 A", "label": "8.92","color": "#b3b300"},
+{"from": "DM+10 2531 A","to": "Wolf 414 A", "label": "8.67","color": "#b3b300"},
+{"from": "L 355-62 A","to": "DM-47 13928 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM+67 935 A","to": "DM+67 1014 A", "label": "8.31","color": "#b3b300"},
+{"from": "DM+67 935 A","to": "DM+67 1014 B", "label": "8.31","color": "#b3b300"},
+{"from": "Hochbaden A","to": "Ross 52 A", "label": "8.88","color": "#b3b300"},
+{"from": "Hochbaden A","to": "Ross 52 B", "label": "8.88","color": "#b3b300"},
+{"from": "Broward A","to": "70 Ophiuchi A", "label": "8.07","color": "#b3b300"},
+{"from": "Broward A","to": "DM+2 3482 C", "label": "8.07","color": "#b3b300"},
+{"from": "DM-12 4523 B","to": "70 Ophiuchi B", "label": "8.07","color": "#b3b300"},
+{"from": "DM-12 4523 B","to": "DM-20 4123 B", "label": "8.1","color": "#b3b300"},
+{"from": "DM-12 4523 B","to": "DM-20 4125 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM-12 4523 B","to": "Davout A", "label": "8.72","color": "#b3b300"},
+{"from": "DM-12 4523 B","to": "Barnard's Star A", "label": "8.35","color": "#b3b300"},
+{"from": "DM+19 5036 A","to": "AC+17 536-125 A", "label": "8.6","color": "#b3b300"},
+{"from": "DM-20 4123 B","to": "Broward A", "label": "8.1","color": "#b3b300"},
+{"from": "DM-20 4125 A","to": "DM-12 4523 B", "label": "8.1","color": "#b3b300"},
+{"from": "DM-40 9712 A","to": "DM-26 12026 B", "label": "8.38","color": "#b3b300"},
+{"from": "DM-40 9712 A","to": "D'Artagnon A", "label": "8.89","color": "#b3b300"},
+{"from": "Zeta Draconis B","to": "Beta Trianguli Australis A", "label": "8.33","color": "#b3b300"},
+{"from": "Davout A","to": "DM-34 11626 A", "label": "8.69","color": "#b3b300"},
+{"from": "Davout A","to": "DM-34 11626 B", "label": "8.69","color": "#b3b300"},
+{"from": "Davout A","to": "DM-34 11626 C", "label": "8.69","color": "#b3b300"},
+{"from": "Davout A","to": "Broward A", "label": "8.72","color": "#b3b300"},
+{"from": "DM-60 7821 A","to": "DM-51 13128 A", "label": "8.97","color": "#b3b300"},
+{"from": "Ross 974 A","to": "DM+10 2531 A", "label": "8.92","color": "#b3b300"},
+{"from": "DM-58 8327 A","to": "DM-54 9222 A", "label": "8.08","color": "#b3b300"},
+{"from": "DM-54 9222 A","to": "DM-51 12998 A", "label": "8.54","color": "#b3b300"},
+{"from": "DM-54 9222 B","to": "DM-51 13128 A", "label": "8.06","color": "#b3b300"},
+{"from": "DM-54 9222 B","to": "L 283-7 B", "label": "8.11","color": "#b3b300"},
+{"from": "DM-54 9222 B","to": "DM-58 8327 A", "label": "8.08","color": "#b3b300"},
+{"from": "DM-54 9222 B","to": "L 119-21 A", "label": "8.35","color": "#b3b300"},
+{"from": "DM+36 2393 A","to": "Kimanjano A", "label": "8.44","color": "#b3b300"},
+{"from": "DM-46 11540 A","to": "Serurier A", "label": "8.12","color": "#b3b300"},
+{"from": "Wolf 457 A","to": "Gamma Virginis A", "label": "8.09","color": "#b3b300"},
+{"from": "Wolf 457 A","to": "Gamma Virginis B", "label": "8.09","color": "#b3b300"},
+{"from": "DM+13 2618 A","to": "AC+10 95-26 A", "label": "8.49","color": "#b3b300"},
+{"from": "DM+13 2618 A","to": "DM+9 2636 A", "label": "8.15","color": "#b3b300"},
+{"from": "DM+11 2576 A","to": "Eta Bootis A", "label": "8.68","color": "#b3b300"},
+{"from": "DM+11 2576 A","to": "Eta Bootis B", "label": "8.68","color": "#b3b300"},
+{"from": "DM+11 2576 A","to": "Beta Comae Berenices A", "label": "8.54","color": "#b3b300"},
+{"from": "DM+11 2576 B","to": "DM+15 2620 A", "label": "8.91","color": "#b3b300"},
+{"from": "DM-21 6267 A","to": "Wolf 1561 B", "label": "8.03","color": "#b3b300"},
+{"from": "DM-21 6267 B","to": "Wolf 1561 A", "label": "8.03","color": "#b3b300"},
+{"from": "DM-21 6267 B","to": "DM-5 5715 A", "label": "8.81","color": "#b3b300"},
+{"from": "L 717-22 C","to": "Wolf 1561 B", "label": "8.03","color": "#b3b300"},
+{"from": "Wolf 461 B","to": "Wolf 437 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM+35 2436 A","to": "DM+48 2108 B", "label": "8.43","color": "#b3b300"},
+{"from": "DM+35 2436 B","to": "DM+48 2108 A", "label": "8.43","color": "#b3b300"},
+{"from": "DM+35 2436 B","to": "Kimanjano A", "label": "8.45","color": "#b3b300"},
+{"from": "L 935-50 A","to": "DM-17 6768 B", "label": "8.28","color": "#b3b300"},
+{"from": "Serurier A","to": "DM-46 11540 A", "label": "8.12","color": "#b3b300"},
+{"from": "Serurier A","to": "Proxima Centauri A", "label": "8.01","color": "#b3b300"},
+{"from": "DM+0 2989 A","to": "Wolf 433 A", "label": "8.66","color": "#b3b300"},
+{"from": "DM+0 2989 A","to": "Wolf 414 A", "label": "8.9","color": "#b3b300"},
+{"from": "Beta Comae Berenices A","to": "Eta Bootis A", "label": "8.51","color": "#b3b300"},
+{"from": "Beta Comae Berenices A","to": "Eta Bootis B", "label": "8.51","color": "#b3b300"},
+{"from": "Beta Comae Berenices A","to": "Beta Canum Venaticorum A", "label": "8.14","color": "#b3b300"},
+{"from": "DM+15 2620 A","to": "DM+11 2576 A", "label": "8.91","color": "#b3b300"},
+{"from": "DM+15 2620 A","to": "DM+11 2576 B", "label": "8.91","color": "#b3b300"},
+{"from": "Delta Pavonis A","to": "Epsilon Indi A", "label": "8.53","color": "#b3b300"},
+{"from": "DM+48 2108 A","to": "DM+35 2436 A", "label": "8.43","color": "#b3b300"},
+{"from": "DM+48 2108 B","to": "DM+35 2436 B", "label": "8.43","color": "#b3b300"},
+{"from": "DM+48 2108 B","to": "Queen Alice's Star A", "label": "8.54","color": "#b3b300"},
+{"from": "Wolf 433 A","to": "Ross 119 A", "label": "8.99","color": "#b3b300"},
+{"from": "Sigma Draconis A","to": "Kruger 60 B", "label": "8.18","color": "#b3b300"},
+{"from": "Barnard's Star A","to": "DM-12 4523 B", "label": "8.35","color": "#b3b300"},
+{"from": "DM+59 1915 B","to": "Ross 248 A", "label": "8.58","color": "#b3b300"},
+{"from": "DM+68 946 A","to": "Kruger 60 A", "label": "8.22","color": "#b3b300"},
+{"from": "DM+68 946 B","to": "Kruger 60 B", "label": "8.22","color": "#b3b300"},
+{"from": "L 119-21 A","to": "DM-54 9222 B", "label": "8.35","color": "#b3b300"},
+{"from": "DM+9 2636 A","to": "Wolf 457 A", "label": "8.58","color": "#b3b300"},
+{"from": "DM+9 2636 A","to": "DM+13 2618 A", "label": "8.15","color": "#b3b300"},
+{"from": "Gamma Virginis B","to": "Ross 974 A", "label": "8.96","color": "#b3b300"},
+{"from": "Gamma Virginis B","to": "Wolf 457 A", "label": "8.09","color": "#b3b300"},
+{"from": "Wolf 437 A","to": "Wolf 461 A", "label": "8.1","color": "#b3b300"},
+{"from": "Wolf 437 A","to": "DM+0 2989 A", "label": "8.92","color": "#b3b300"},
+{"from": "Fomalhaut A","to": "Hunjiang A", "label": "8.97","color": "#b3b300"},
+{"from": "DM-17 6768 A","to": "L 935-50 A", "label": "8.28","color": "#b3b300"},
+{"from": "DM-17 6769 A","to": "L 935-50 A", "label": "8.36","color": "#b3b300"},
+{"from": "Wolf 414 A","to": "DM+10 2531 A", "label": "8.67","color": "#b3b300"},
+{"from": "Wolf 414 A","to": "DM+16 2404 A", "label": "8.53","color": "#b3b300"},
+{"from": "Wolf 414 A","to": "Denebola A", "label": "8.55","color": "#b3b300"},
+{"from": "DM+34 2323 A","to": "DM+45 2014 A", "label": "8.63","color": "#b3b300"},
+{"from": "DM+43 4305 B","to": "DM+56 2966 A", "label": "8.2","color": "#b3b300"},
+{"from": "Kimanjano A","to": "DM+35 2436 A", "label": "8.45","color": "#b3b300"},
+{"from": "Kimanjano A","to": "C1 A", "label": "8.91","color": "#b3b300"},
+{"from": "AC+32 86401 B","to": "DM+40 45 A", "label": "8.8","color": "#b3b300"},
+{"from": "Beta Canum Venaticorum A","to": "Beta Comae Berenices A", "label": "8.14","color": "#b3b300"},
+{"from": "Epsilon Indi A","to": "Delta Pavonis A", "label": "8.53","color": "#b3b300"},
+{"from": "Epsilon Indi A","to": "Alpha Centauri A", "label": "8.99","color": "#b3b300"},
+{"from": "Epsilon Indi A","to": "Alpha Centauri B", "label": "8.99","color": "#b3b300"},
+{"from": "Kruger 60 A","to": "Sigma Draconis A", "label": "8.18","color": "#b3b300"},
+{"from": "Kruger 60 A","to": "Eta Cassiopeiae A", "label": "8.05","color": "#b3b300"},
+{"from": "Kruger 60 A","to": "Eta Cassiopeiae B", "label": "8.05","color": "#b3b300"},
+{"from": "Kruger 60 B","to": "DM+68 946 A", "label": "8.22","color": "#b3b300"},
+{"from": "Kruger 60 B","to": "DM+68 946 B", "label": "8.22","color": "#b3b300"},
+{"from": "Ross 695 A","to": "DM-19 3242 A", "label": "8.72","color": "#b3b300"},
+{"from": "Ross 695 A","to": "DM-19 3242 B", "label": "8.72","color": "#b3b300"},
+{"from": "DM+56 2966 A","to": "DM+43 4305 A", "label": "8.2","color": "#b3b300"},
+{"from": "DM+56 2966 A","to": "AC+71 532 A", "label": "8.37","color": "#b3b300"},
+{"from": "Lacaille 9352 A","to": "Tau Ceti A", "label": "8.01","color": "#b3b300"},
+{"from": "Queen Alice's Star A","to": "DM+48 2108 B", "label": "8.54","color": "#b3b300"},
+{"from": "Wolf 424 A","to": "Bessieres A", "label": "8.54","color": "#b3b300"},
+{"from": "Wolf 424 B","to": "Bessieres B", "label": "8.54","color": "#b3b300"},
+{"from": "AC+13 14332 A","to": "DM+74 456 A", "label": "8.54","color": "#b3b300"},
+{"from": "DM+45 2014 A","to": "DM+34 2323 A", "label": "8.63","color": "#b3b300"},
+{"from": "Ross 249 A","to": "DM+40 45 A", "label": "8.54","color": "#b3b300"},
+{"from": "Alpha Centauri A","to": "Nyotekundu A", "label": "8.16","color": "#b3b300"},
+{"from": "Alpha Centauri B","to": "Epsilon Indi A", "label": "8.99","color": "#b3b300"},
+{"from": "Proxima Centauri A","to": "Serurier A", "label": "8.01","color": "#b3b300"},
+{"from": "Proxima Centauri A","to": "Nyotekundu A", "label": "8.09","color": "#b3b300"},
+{"from": "DM-73 1672 A","to": "DM-68 47 A", "label": "8.73","color": "#b3b300"},
+{"from": "L 68-28 A","to": "L 97-12 A", "label": "8.4","color": "#b3b300"},
+{"from": "Ross 248 A","to": "DM+59 1915 B", "label": "8.58","color": "#b3b300"},
+{"from": "85 Pegasi A","to": "DM+20 85 A", "label": "8.01","color": "#b3b300"},
+{"from": "DM+26 4734 C","to": "DM+20 85 A", "label": "8.01","color": "#b3b300"},
+{"from": "Sol A","to": "Bessieres A", "label": "8.26","color": "#b3b300"},
+{"from": "Sol A","to": "UV Ceti B", "label": "8.78","color": "#b3b300"},
+{"from": "Hunjiang A","to": "Fomalhaut A", "label": "8.97","color": "#b3b300"},
+{"from": "AC+79 3888 A","to": "Sigma Draconis A", "label": "8.48","color": "#b3b300"},
+{"from": "AC+79 3888 A","to": "Neubayern A", "label": "8.47","color": "#b3b300"},
+{"from": "DM+44 4548 A","to": "Ross 249 A", "label": "8.16","color": "#b3b300"},
+{"from": "Beta Hydri A","to": "Rho Eridani A", "label": "8.02","color": "#b3b300"},
+{"from": "Groombridge 34 A","to": "Eta Cassiopeiae A", "label": "8.65","color": "#b3b300"},
+{"from": "Groombridge 34 A","to": "Eta Cassiopeiae B", "label": "8.65","color": "#b3b300"},
+{"from": "Groombridge 34 A","to": "Van Maanen's Star A", "label": "8.69","color": "#b3b300"},
+{"from": "Groombridge 34 C","to": "Eta Cassiopeiae A", "label": "8.51","color": "#b3b300"},
+{"from": "Groombridge 34 C","to": "Eta Cassiopeiae B", "label": "8.51","color": "#b3b300"},
+{"from": "Groombridge 34 C","to": "Van Maanen's Star A", "label": "8.64","color": "#b3b300"},
+{"from": "Beta Cassiopeiae A","to": "DM+63 137 A", "label": "8.02","color": "#b3b300"},
+{"from": "Beta Cassiopeiae B","to": "Ross 226 A", "label": "8.89","color": "#b3b300"},
+{"from": "DM+36 2219 A","to": "DM+31 2240 A", "label": "8.8","color": "#b3b300"},
+{"from": "DM-51 5974 A","to": "DM-39 7301 A", "label": "8.51","color": "#b3b300"},
+{"from": "L 901-10 A","to": "Beta Virginis A", "label": "8.77","color": "#b3b300"},
+{"from": "DM+66 34 A","to": "DM+57 2735 A", "label": "8.75","color": "#b3b300"},
+{"from": "DM+66 34 B","to": "AC+71 532 A", "label": "8.65","color": "#b3b300"},
+{"from": "DM+66 34 B","to": "AC+60 3496 A", "label": "8.07","color": "#b3b300"},
+{"from": "DM+66 34 B","to": "AC+56 13511 A", "label": "8.59","color": "#b3b300"},
+{"from": "Bessieres A","to": "Wolf 424 A", "label": "8.54","color": "#b3b300"},
+{"from": "Bessieres A","to": "Wolf 424 B", "label": "8.54","color": "#b3b300"},
+{"from": "Bessieres A","to": "Sol A", "label": "8.26","color": "#b3b300"},
+{"from": "VB 5 B","to": "DM-51 5974 A", "label": "8.51","color": "#b3b300"},
+{"from": "AC+71 532 A","to": "DM+66 34 A", "label": "8.65","color": "#b3b300"},
+{"from": "AC+71 532 A","to": "DM+66 34 B", "label": "8.65","color": "#b3b300"},
+{"from": "AC+71 532 A","to": "DM+61 366 A", "label": "8.95","color": "#b3b300"},
+{"from": "Eta Cassiopeiae A","to": "Kruger 60 A", "label": "8.05","color": "#b3b300"},
+{"from": "Eta Cassiopeiae A","to": "Groombridge 34 A", "label": "8.65","color": "#b3b300"},
+{"from": "Eta Cassiopeiae A","to": "Groombridge 34 C", "label": "8.51","color": "#b3b300"},
+{"from": "Eta Cassiopeiae B","to": "Kruger 60 B", "label": "8.05","color": "#b3b300"},
+{"from": "Eta Cassiopeiae B","to": "Groombridge 34 B", "label": "8.51","color": "#b3b300"},
+{"from": "Eta Cassiopeiae B","to": "AC+71 532 A", "label": "8.46","color": "#b3b300"},
+{"from": "Nyotekundu A","to": "Sirius A", "label": "8.95","color": "#b3b300"},
+{"from": "Nyotekundu A","to": "Sirius B", "label": "8.95","color": "#b3b300"},
+{"from": "DM+40 45 A","to": "AC+32 86401 B", "label": "8.8","color": "#b3b300"},
+{"from": "DM+40 45 A","to": "DM+41 219 A", "label": "8.17","color": "#b3b300"},
+{"from": "DM+74 456 A","to": "AC+13 14332 A", "label": "8.54","color": "#b3b300"},
+{"from": "DM+74 456 A","to": "AC+70 4337 A", "label": "8.04","color": "#b3b300"},
+{"from": "DM+74 456 A","to": "AC+70 4336 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM+27 2055 A","to": "Ross 627 A", "label": "8.54","color": "#b3b300"},
+{"from": "DM+27 2055 A","to": "DM+31 2240 B", "label": "8.12","color": "#b3b300"},
+{"from": "Van Maanen's Star A","to": "L 789-6 A", "label": "8.5","color": "#b3b300"},
+{"from": "Van Maanen's Star A","to": "Groombridge 34 A", "label": "8.69","color": "#b3b300"},
+{"from": "Van Maanen's Star A","to": "Groombridge 34 C", "label": "8.64","color": "#b3b300"},
+{"from": "Van Maanen's Star A","to": "DM+4 123 A", "label": "8.89","color": "#b3b300"},
+{"from": "Augereau A","to": "AC+23 468-46 A", "label": "8.13","color": "#b3b300"},
+{"from": "DM-32 8179 A","to": "L 396-7 A", "label": "8.79","color": "#b3b300"},
+{"from": "DM-68 47 A","to": "DM-73 1672 A", "label": "8.73","color": "#b3b300"},
+{"from": "Qinyuan A","to": "Sol A", "label": "8.78","color": "#b3b300"},
+{"from": "DM+61 195 B","to": "AC+56 13511 A", "label": "8.09","color": "#b3b300"},
+{"from": "L 396-7 A","to": "VB 4 B", "label": "8.79","color": "#b3b300"},
+{"from": "Mu Cassiopeiae B","to": "DM+61 366 A", "label": "8.97","color": "#b3b300"},
+{"from": "Neubayern A","to": "AC+79 3888 A", "label": "8.47","color": "#b3b300"},
+{"from": "DM-56 328 B","to": "Beta Hydri A", "label": "8.02","color": "#b3b300"},
+{"from": "Tau Ceti A","to": "Lacaille 9352 A", "label": "8.01","color": "#b3b300"},
+{"from": "DM-28 302 A","to": "L 89-27 A", "label": "8.01","color": "#b3b300"},
+{"from": "DM+20 85 A","to": "DM+26 4734 B", "label": "8.01","color": "#b3b300"},
+{"from": "AC+23 468-46 A","to": "Augereau A", "label": "8.13","color": "#b3b300"},
+{"from": "DM-19 3242 B","to": "Ross 695 A", "label": "8.72","color": "#b3b300"},
+{"from": "DM-19 3242 B","to": "DM-31 9113 A", "label": "8.13","color": "#b3b300"},
+{"from": "DM+63 137 A","to": "Beta Cassiopeiae A", "label": "8.02","color": "#b3b300"},
+{"from": "DM+63 137 A","to": "Beta Cassiopeiae B", "label": "8.02","color": "#b3b300"},
+{"from": "DM+39 154 A","to": "Wolf 1056 A", "label": "8.52","color": "#b3b300"},
+{"from": "Ross 627 A","to": "DM+27 2055 A", "label": "8.54","color": "#b3b300"},
+{"from": "L 724-32 A","to": "DM-18 359 A", "label": "8.35","color": "#b3b300"},
+{"from": "L 97-12 A","to": "L 68-28 A", "label": "8.4","color": "#b3b300"},
+{"from": "Wolf 358 A","to": "DM-3 2870 B", "label": "8.88","color": "#b3b300"},
+{"from": "Haifeng A","to": "DM+6 398 A", "label": "8.82","color": "#b3b300"},
+{"from": "Haifeng A","to": "DM+6 398 B", "label": "8.82","color": "#b3b300"},
+{"from": "Haifeng A","to": "DM+6 398 C", "label": "8.82","color": "#b3b300"},
+{"from": "AC+70 4337 A","to": "DM+74 456 B", "label": "8.04","color": "#b3b300"},
+{"from": "AC+70 4336 A","to": "DM+74 456 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM+61 366 A","to": "Mu Cassiopeiae A", "label": "8.97","color": "#b3b300"},
+{"from": "DM+31 2240 A","to": "DM+36 2219 A", "label": "8.8","color": "#b3b300"},
+{"from": "DM+31 2240 A","to": "DM+41 2147 A", "label": "8.47","color": "#b3b300"},
+{"from": "DM+31 2240 B","to": "DM+27 2055 A", "label": "8.12","color": "#b3b300"},
+{"from": "DM+53 1320 A","to": "AC+38 23616 A", "label": "8.64","color": "#b3b300"},
+{"from": "DM+53 1320 A","to": "AC+38 23616 B", "label": "8.64","color": "#b3b300"},
+{"from": "DM+62 274 A","to": "AC+56 13511 A", "label": "8.31","color": "#b3b300"},
+{"from": "Sirius A","to": "Sol A", "label": "8.63","color": "#b3b300"},
+{"from": "Sirius A","to": "Epsilon Eridani A", "label": "8.03","color": "#b3b300"},
+{"from": "Sirius A","to": "Epsilon Eridani B", "label": "8.03","color": "#b3b300"},
+{"from": "Sirius B","to": "Nyotekundu A", "label": "8.95","color": "#b3b300"},
+{"from": "AC+56 13511 A","to": "DM+66 34 A", "label": "8.59","color": "#b3b300"},
+{"from": "AC+56 13511 A","to": "DM+66 34 B", "label": "8.59","color": "#b3b300"},
+{"from": "AC+56 13511 A","to": "DM+61 195 B", "label": "8.09","color": "#b3b300"},
+{"from": "AC+56 13511 A","to": "DM+62 274 A", "label": "8.31","color": "#b3b300"},
+{"from": "Epsilon Eridani B","to": "Haifeng A", "label": "8.47","color": "#b3b300"},
+{"from": "Epsilon Eridani B","to": "Sirius A", "label": "8.03","color": "#b3b300"},
+{"from": "Epsilon Eridani B","to": "Sirius B", "label": "8.03","color": "#b3b300"},
+{"from": "Epsilon Eridani B","to": "Kapetyn's Star A", "label": "8.5","color": "#b3b300"},
+{"from": "Kapetyn's Star A","to": "Epsilon Eridani A", "label": "8.5","color": "#b3b300"},
+{"from": "Kapetyn's Star A","to": "Epsilon Eridani B", "label": "8.5","color": "#b3b300"},
+{"from": "DM+41 2147 A","to": "DM+31 2240 A", "label": "8.47","color": "#b3b300"},
+{"from": "DM+19 279 A","to": "DM+4 123 A", "label": "8.35","color": "#b3b300"},
+{"from": "AC+58 13565 A","to": "DM+63 137 A", "label": "8.2","color": "#b3b300"},
+{"from": "AC+58 13565 A","to": "Theta Persei B", "label": "8.14","color": "#b3b300"},
+{"from": "Procyon B","to": "Nyotekundu A", "label": "8.6","color": "#b3b300"},
+{"from": "Procyon B","to": "YZ Canis Minoris A", "label": "8.32","color": "#b3b300"},
+{"from": "L 897-16 A","to": "L 824-28 A", "label": "8.11","color": "#b3b300"},
+{"from": "DM-41 328 A","to": "DM+47 612 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM-45 5378 A","to": "DM-59 2351 A", "label": "8.06","color": "#b3b300"},
+{"from": "L 127-97 A","to": "DM-54 487 A", "label": "8.86","color": "#b3b300"},
+{"from": "DM+47 612 A","to": "DM-41 328 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM+47 612 A","to": "Delta Trianguli A", "label": "8.07","color": "#b3b300"},
+{"from": "Ross 614 A","to": "DM-7 781 C", "label": "8.81","color": "#b3b300"},
+{"from": "Ross 614 A","to": "AC+12 1800-213 A", "label": "8.36","color": "#b3b300"},
+{"from": "Ross 614 B","to": "DM-7 781 B", "label": "8.81","color": "#b3b300"},
+{"from": "Ross 614 B","to": "Omicron2 Eridani A", "label": "8.81","color": "#b3b300"},
+{"from": "Ross 614 B","to": "YZ Canis Minoris A", "label": "8.67","color": "#b3b300"},
+{"from": "DM-3 2870 B","to": "Wolf 358 A", "label": "8.88","color": "#b3b300"},
+{"from": "DM+32 828 A","to": "DM-44 775 A", "label": "8.22","color": "#b3b300"},
+{"from": "DM+32 828 A","to": "DM-44 775 B", "label": "8.22","color": "#b3b300"},
+{"from": "DM+32 828 A","to": "DM-23 693 A", "label": "8.8","color": "#b3b300"},
+{"from": "DM-18 359 A","to": "L 724-32 A", "label": "8.35","color": "#b3b300"},
+{"from": "DM-7 781 B","to": "Ross 614 B", "label": "8.81","color": "#b3b300"},
+{"from": "DM-7 781 B","to": "LP 658-2 A", "label": "8.47","color": "#b3b300"},
+{"from": "DM-7 781 C","to": "Ross 614 A", "label": "8.81","color": "#b3b300"},
+{"from": "Omicron2 Eridani A","to": "Ross 614 B", "label": "8.81","color": "#b3b300"},
+{"from": "Omicron2 Eridani A","to": "LP 658-2 A", "label": "8.47","color": "#b3b300"},
+{"from": "DM-54 487 A","to": "L 127-97 A", "label": "8.86","color": "#b3b300"},
+{"from": "AC+38 23616 A","to": "DM+53 1320 A", "label": "8.64","color": "#b3b300"},
+{"from": "AC+38 23616 A","to": "DM+53 1321 B", "label": "8.64","color": "#b3b300"},
+{"from": "DM+6 398 A","to": "AC+25 7918 A", "label": "8.14","color": "#b3b300"},
+{"from": "DM+6 398 A","to": "DM-13 544 A", "label": "8.86","color": "#b3b300"},
+{"from": "DM+6 398 B","to": "Haifeng A", "label": "8.82","color": "#b3b300"},
+{"from": "DM+6 398 B","to": "Kappa Reticuli A", "label": "8.82","color": "#b3b300"},
+{"from": "DM+6 398 C","to": "AC+25 7918 A", "label": "8.14","color": "#b3b300"},
+{"from": "DM+6 398 C","to": "DM-13 544 A", "label": "8.86","color": "#b3b300"},
+{"from": "DM-16 214 A","to": "DM-23 332 A", "label": "8.08","color": "#b3b300"},
+{"from": "DM-44 775 B","to": "DM+32 828 A", "label": "8.22","color": "#b3b300"},
+{"from": "DM-44 775 B","to": "DM-45 1184 A", "label": "8.3","color": "#b3b300"},
+{"from": "Delta Trianguli B","to": "DM+47 612 A", "label": "8.07","color": "#b3b300"},
+{"from": "DM-23 693 A","to": "DM-28 694 A", "label": "8.02","color": "#b3b300"},
+{"from": "AC+33 25644 A","to": "AC+12 1800-213 A", "label": "9","color": "#b3b300"},
+{"from": "L 824-28 A","to": "L 897-16 A", "label": "8.11","color": "#b3b300"},
+{"from": "L 824-28 A","to": "DM-2 3000 A", "label": "8.4","color": "#b3b300"},
+{"from": "DM-13 544 A","to": "DM+6 398 A", "label": "8.86","color": "#b3b300"},
+{"from": "DM-13 544 A","to": "DM+6 398 B", "label": "8.86","color": "#b3b300"},
+{"from": "DM-13 544 A","to": "DM+6 398 C", "label": "8.86","color": "#b3b300"},
+{"from": "LP 425-140 A","to": "YZ Canis Minoris A", "label": "8.37","color": "#b3b300"},
+{"from": "DM-21 1377 A","to": "DM-21 1051 B", "label": "8.54","color": "#b3b300"},
+{"from": "DM-21 1377 A","to": "Gamma Leporis A", "label": "8.18","color": "#b3b300"},
+{"from": "DM-21 1377 A","to": "VB 1 C", "label": "8.11","color": "#b3b300"},
+{"from": "Theta Persei A","to": "AC+58 13565 A", "label": "8.14","color": "#b3b300"},
+{"from": "YZ Canis Minoris A","to": "Procyon A", "label": "8.32","color": "#b3b300"},
+{"from": "YZ Canis Minoris A","to": "Procyon B", "label": "8.32","color": "#b3b300"},
+{"from": "YZ Canis Minoris A","to": "Ross 614 A", "label": "8.67","color": "#b3b300"},
+{"from": "G195-19 A","to": "DM+46 1551 A", "label": "8.14","color": "#b3b300"},
+{"from": "DM+52 857 A","to": "Ross 28 A", "label": "8.63","color": "#b3b300"},
+{"from": "DM-32 5613 A","to": "L 678-39 A", "label": "8.28","color": "#b3b300"},
+{"from": "AC+12 1800-213 A","to": "Ross 614 B", "label": "8.36","color": "#b3b300"},
+{"from": "AC+12 1800-213 A","to": "AC+33 25644 A", "label": "9","color": "#b3b300"},
+{"from": "DM+46 1551 A","to": "DM+36 1970 A", "label": "8.69","color": "#b3b300"},
+{"from": "LP 658-2 A","to": "DM-7 781 C", "label": "8.47","color": "#b3b300"},
+{"from": "DM-48 1011 A","to": "DM-51 532 A", "label": "8.85","color": "#b3b300"},
+{"from": "DM+43 1953 A","to": "Iota Ursae Majoris A", "label": "8.17","color": "#b3b300"},
+{"from": "DM+43 1953 A","to": "Iota Ursae Majoris B", "label": "8.17","color": "#b3b300"},
+{"from": "DM+43 1953 A","to": "Iota Ursae Majoris C", "label": "8.17","color": "#b3b300"},
+{"from": "DM+43 1953 A","to": "Iota Ursae Majoris D", "label": "8.17","color": "#b3b300"},
+{"from": "DM-38 4789 A","to": "DM-45 5378 A", "label": "8.3","color": "#b3b300"},
+{"from": "DM-45 1184 A","to": "DM-53 889 A", "label": "8.13","color": "#b3b300"},
+{"from": "Ross 28 A","to": "Iota Persei A", "label": "8.03","color": "#b3b300"},
+{"from": "Ross 28 A","to": "DM+52 857 A", "label": "8.63","color": "#b3b300"},
+{"from": "DM-21 1051 A","to": "DM-21 1377 A", "label": "8.54","color": "#b3b300"},
+{"from": "DM-21 1051 A","to": "DM-5 1123 A", "label": "8.93","color": "#b3b300"},
+{"from": "DM-21 1051 B","to": "DM-5 1123 B", "label": "8.93","color": "#b3b300"},
+{"from": "DM+6 2182 A","to": "AC+13 1301-119 A", "label": "8.61","color": "#b3b300"},
+{"from": "Iota Ursae Majoris A","to": "DM+48 1829 A", "label": "8.99","color": "#b3b300"},
+{"from": "Iota Ursae Majoris B","to": "DM+43 1953 A", "label": "8.17","color": "#b3b300"},
+{"from": "Iota Ursae Majoris C","to": "DM+48 1829 A", "label": "8.99","color": "#b3b300"},
+{"from": "Iota Ursae Majoris D","to": "DM+43 1953 A", "label": "8.17","color": "#b3b300"},
+{"from": "DM-22 1210 B","to": "DM-21 1377 A", "label": "8.18","color": "#b3b300"},
+{"from": "Ross 64 A","to": "DM+10 1032 A", "label": "8.22","color": "#b3b300"},
+{"from": "VB 1 C","to": "DM-21 1377 A", "label": "8.11","color": "#b3b300"},
+{"from": "DM-38 1058 A","to": "DM-41 1288 A", "label": "8.52","color": "#b3b300"},
+{"from": "G107-70 C","to": "DM+36 1638 A", "label": "8.94","color": "#b3b300"},
+{"from": "G107-70 C","to": "DM+36 1638 B", "label": "8.94","color": "#b3b300"},
+{"from": "G107-70 C","to": "Ross 989 C", "label": "8.94","color": "#b3b300"},
+{"from": "DM+37 748 A","to": "AC+33 10883 A", "label": "8.66","color": "#b3b300"},
+{"from": "G107-69 A","to": "Psi5 Aurigae A", "label": "8.84","color": "#b3b300"},
+{"from": "DM-31 6229 A","to": "DM-38 4789 A", "label": "8.02","color": "#b3b300"},
+{"from": "DM+36 1638 A","to": "G107-70 C", "label": "8.94","color": "#b3b300"},
+{"from": "DM+36 1638 B","to": "G107-70 D", "label": "8.92","color": "#b3b300"},
+{"from": "Ross 41 A","to": "DM-5 1123 A", "label": "8.69","color": "#b3b300"},
+{"from": "Ross 989 C","to": "G107-70 C", "label": "8.94","color": "#b3b300"},
+{"from": "Alpha Fornacis A","to": "DM-20 643 A", "label": "8.52","color": "#b3b300"},
+{"from": "DM-5 1123 A","to": "DM-21 1051 A", "label": "8.93","color": "#b3b300"},
+{"from": "DM-5 1123 A","to": "Ross 41 A", "label": "8.69","color": "#b3b300"},
+{"from": "DM-5 1123 B","to": "DM-21 1051 B", "label": "8.93","color": "#b3b300"},
+{"from": "DM-20 643 A","to": "Alpha Fornacis A", "label": "8.52","color": "#b3b300"},
+{"from": "DM-4 2226 A","to": "L 745-46 B", "label": "8.8","color": "#b3b300"},
+{"from": "DM-41 1288 A","to": "DM-46 943 A", "label": "8.95","color": "#b3b300"},
+{"from": "L 745-46 A","to": "DM-4 2226 A", "label": "8.8","color": "#b3b300"},
+{"from": "Chi1 Orionis A","to": "DM+18 1214 A", "label": "8.44","color": "#b3b300"},
+{"from": "DM+10 1032 A","to": "Ross 64 A", "label": "8.22","color": "#b3b300"},
+{"from": "AC+33 10883 A","to": "DM+37 748 A", "label": "8.66","color": "#b3b300"},
+{"from": "DM-5 642 A","to": "DM-63 110 A", "label": "8.95","color": "#b3b300"},
+{"from": "Psi5 Aurigae A","to": "G107-69 B", "label": "8.84","color": "#b3b300"},
+{"from": "DM+18 1214 A","to": "DM+17 1320 A", "label": "8.09","color": "#b3b300"},
+{"from": "DM-35 3233 B","to": "DM-25 3913 A", "label": "8.1","color": "#b3b300"},
+{"from": "DM-35 3233 B","to": "L 597-31 A", "label": "8.37","color": "#b3b300"},
+{"from": "Wolf 1539 A","to": "DM+11 878 A", "label": "8.3","color": "#b3b300"},
+{"from": "DM-63 110 A","to": "DM-1 565 A", "label": "8.34","color": "#b3b300"},
+{"from": "DM-63 110 A","to": "DM-1 565 C", "label": "8.34","color": "#b3b300"},
+{"from": "DM-1 565 B","to": "DM-63 110 A", "label": "8.34","color": "#b3b300"},
+{"from": "DM-3 2002 B","to": "DM-13 2267 A", "label": "8.89","color": "#b3b300"},
+{"from": "DM-3 2002 B","to": "DM-13 2267 B", "label": "8.89","color": "#b3b300"},
+{"from": "DM-3 2002 B","to": "L 886-6 A", "label": "8.18","color": "#b3b300"},
+{"from": "DM-13 2267 A","to": "DM-3 2002 B", "label": "8.89","color": "#b3b300"},
+{"from": "DM-13 2267 B","to": "DM-3 2001 A", "label": "8.92","color": "#b3b300"},
+{"from": "L 597-31 A","to": "DM-35 3233 A", "label": "8.37","color": "#b3b300"},
+{"from": "L 597-31 A","to": "DM-35 3233 B", "label": "8.37","color": "#b3b300"},
+{"from": "AC+19 1165-38 A","to": "Ross 42 A", "label": "8.85","color": "#b3b300"},
+{"from": "L 886-6 A","to": "DM-3 2002 B", "label": "8.18","color": "#b3b300"},
+{"from": "L 886-6 A","to": "Ross 417 A", "label": "8.64","color": "#b3b300"},
+{"from": "Ross 42 B","to": "AC+19 1165-38 A", "label": "8.85","color": "#b3b300"},
+{"from": "DM-4 2490 A","to": "DM-4 2226 A", "label": "8.52","color": "#b3b300"},
+{"from": "DM-4 2490 A","to": "DM-8 2582 A", "label": "8.83","color": "#b3b300"},
+{"from": "DM-4 2490 A","to": "DM-8 2582 B", "label": "8.83","color": "#b3b300"},
+{"from": "DM-4 2490 A","to": "DM-12 2449 A", "label": "8.4","color": "#b3b300"}
