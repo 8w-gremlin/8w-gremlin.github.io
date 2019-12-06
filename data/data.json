@@ -5839,7 +5839,8 @@
       "Z": 0,
       "Sequence": "G2 V",
       "color": "#ffd966",
-      "label": "Sol A"
+      "label": "Sol A",
+      "shape": "star"
     },
     {
       "id": "SS-19 2424  A",
