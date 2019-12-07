@@ -52,12 +52,19 @@ var options = {
     "edges": {
         "smooth": false
     },
-    "physics": {
-    "minVelocity": 0.75,  
-    "maxVelocity": 146,
-    "timestep": 0.35,
-    "stabilization": { "iterations": 150 }
+    "layout": {
+    "hierarchical": {
+      "enabled": true
     }
+  },
+  "physics": {
+    "hierarchicalRepulsion": {
+      "centralGravity": 0,
+      "avoidOverlap": null
+    },
+    "minVelocity": 0.75,
+    "solver": "hierarchicalRepulsion"
+  }
 }
 
 // create an array with nodes
