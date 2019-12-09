@@ -4,27 +4,18 @@
   <meta charset="utf-8" />
   <script src="js/papaparse.js"></script>
 
-  <TITLE>Jump matrix</TITLE>
+  <TITLE>Jump upload</TITLE>
   <script>
+document.addEventListener('DOMContentLoaded', () => {
+    const file = document.getElementById('file');
+    
+    file.addEventListener('change', () => {
+        Papa.parse(file.files[0], {
+            complete: function(results) {
 
-
-
-
-
-
-
-
-Papa.parse("Near Star Data - Stellar Data.csv", {
-	header: true,
-	dynamicTyping: true,
-	worker: true,
-	step: function(row) {
-		console.log("Row:", row.data);
-	},
-	complete: function(results) {
-		console.log("Finished:", results.data);
-
-		var data = results.data();
+                // Here you can do something with results.data
+                console.log("Finished:", results.data);
+              var data = results.data();
 
 		  for (var i in data) {
 				x1 = data[i]["AS_X"];
@@ -45,6 +36,9 @@ Papa.parse("Near Star Data - Stellar Data.csv", {
 			}
 		  }
 		}
+
+            }
+        });
 });
 
 
@@ -54,4 +48,5 @@ Papa.parse("Near Star Data - Stellar Data.csv", {
 
 </HEAD>
 <body>
+	<input type="file" id="file" />
 	</body>
