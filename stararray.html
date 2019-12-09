@@ -21,10 +21,8 @@ Papa.parse("Near Star Data - Stellar Data.csv", {
 	step: function(row) {
 		console.log("Row:", row.data);
 	},
-	complete: function() {
+	complete: function(results) {
 		console.log("All done!");
-
-		//console.log("    data:", data);
 
 		var data = results.data
 
