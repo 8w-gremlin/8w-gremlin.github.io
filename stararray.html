@@ -1,0 +1,36 @@
+<!doctype html>
+<HTML>
+<HEAD>
+  <meta charset="utf-8" />
+  <script src="js/papaparse.js"></script>
+
+  <TITLE>Jump matrix</TITLE>
+  <script>
+
+
+
+
+
+
+
+
+Papa.parse("Near Star Data - Stellar Data.csv", {
+	header: true
+	dynamicTyping: true
+	worker: true,
+	step: function(row) {
+		console.log("Row:", row.data);
+	},
+	complete: function() {
+		console.log("All done!");
+	}
+});
+
+
+  </script>
+
+
+
+</HEAD>
+<body>
+	</body>
