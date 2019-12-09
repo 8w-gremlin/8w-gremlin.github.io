@@ -24,19 +24,19 @@ Papa.parse("Near Star Data - Stellar Data.csv", {
 	complete: function() {
 		console.log("All done!");
 
-		//console.log("    Results:", results);
+		//console.log("    data:", data);
 
-		  for (var i in results) {
-				x1 = results[i]["AS_X"];
-				y1 = results[i]["AS_Y"];
-				z1 = results[i]["AS_Z"];
-				name = results[i]["Name"]
+		  for (var i in data) {
+				x1 = data[i]["AS_X"];
+				y1 = data[i]["AS_Y"];
+				z1 = data[i]["AS_Z"];
+				name = data[i]["Name"]
 
-			for (var j in results) {
-				x2 = results[j]["AS_X"];
-				y2 = results[j]["AS_Y"];
-				z2 = results[j]["AS_Z"];
-				name2 = results[j]["Name"]
+			for (var j in data) {
+				x2 = data[j]["AS_X"];
+				y2 = data[j]["AS_Y"];
+				z2 = data[j]["AS_Z"];
+				name2 = data[j]["Name"]
 
 					  	var dist = Math.pow(Math.pow((x1 - x2),2) + Math.pow((y1 - y2),2) + Math.pow((z1 - z2),2),0.5);
 
