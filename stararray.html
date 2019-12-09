@@ -14,9 +14,9 @@
 
 
 
-Papa.parse("/Near Star Data - Stellar Data.csv", {
-	header: true
-	dynamicTyping: true
+Papa.parse("Near Star Data - Stellar Data.csv", {
+	header: true,
+	dynamicTyping: true,
 	worker: true,
 	step: function(row) {
 		console.log("Row:", row.data);
