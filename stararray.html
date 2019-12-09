@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         z2 = results.data[j]["AS_Z"];
                         name2 = results.data[j]["Name"]
                         var dist = Math.pow(Math.pow((x1 - x2), 2) + Math.pow((y1 - y2), 2) + Math.pow((z1 - z2), 2), 0.5);
-                        console.log("from: " + name + " to: " + name2 + " label: " + dist);
+                        document.getElementById('results').innerHTML("from: " + name + " to: " + name2 + " label: " + dist);
                     }
                 }
             }
@@ -39,4 +39,5 @@ document.addEventListener('DOMContentLoaded', () => {
 </HEAD>
 <body>
 	<input type="file" id="file" />
+	<div id="results"></div>
 	</body>
