@@ -17,32 +17,46 @@ document.addEventListener('DOMContentLoaded', () => {
             complete: function(results) {
 
             	var data = results.data
+            	var edges;
                 // Here you can do something with results.data
 
+				for (const source of data){
+				 
 
-                console.log("Finished:", data);
-                for (var i in data) {
-                    x1 = data[i]["AS_X"];
-                    y1 = data[i]["AS_Y"];
-                    z1 = data[i]["AS_Z"];
-
-                    console.log("X: " + x1 + "y: " + y1 + "z: " + z1);
+					x1 = source["AS_X"];
+                    y1 = source["AS_Y"];
+                    z1 = source["AS_Z"];
+                    name = source["Name"]
 
 
-                    name = data[i]["Name"]
-                    for (var j in data) {
-                        x2 = data[j]["AS_X"];
-                        y2 = data[j]["AS_Y"];
-                        z2 = data[j]["AS_Z"];
-                        name2 = data[j]["Name"]
+                    for (const destination of data){
+				  
+
+                        x2 = destination["AS_X"];
+                        y2 = destination["AS_Y"];
+                        z2 = destination["AS_Z"];
+                        name2 = destination["Name"]
+
+
                         var dist = Math.pow(Math.pow((x1 - x2), 2) + Math.pow((y1 - y2), 2) + Math.pow((z1 - z2), 2), 0.5);
-                        document.getElementById('results').innerHTML="from: " + name + " to: " + name2 + " label: " + dist + "<br />";
+                        edges += "from: " + name + " to: " + name2 + " label: " + dist + "<br />";
                     }
-                }
+
+
+
+				}
+
+				document.getElementById('results').innerHTML=edges;
+               
+
             }
         });
     });
 });
+
+
+
+
 
   </script>
 
