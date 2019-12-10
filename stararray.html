@@ -10,19 +10,31 @@ document.addEventListener('DOMContentLoaded', () => {
     const file = document.getElementById('file');
     file.addEventListener('change', () => {
         Papa.parse(file.files[0], {
+        	header: true,
+			  download: true,
+			  dynamicTyping: true,
+
             complete: function(results) {
+
+            	var data = results.data
                 // Here you can do something with results.data
-                console.log("Finished:", results.data);
-                for (var i in results.data) {
-                    x1 = results.data[i]["AS_X"];
-                    y1 = results.data[i]["AS_Y"];
-                    z1 = results.data[i]["AS_Z"];
-                    name = results.data[i]["Name"]
-                    for (var j in results.data) {
-                        x2 = results.data[j]["AS_X"];
-                        y2 = results.data[j]["AS_Y"];
-                        z2 = results.data[j]["AS_Z"];
-                        name2 = results.data[j]["Name"]
+
+
+                console.log("Finished:", data);
+                for (var i in data) {
+                    x1 = data[i]["AS_X"];
+                    y1 = data[i]["AS_Y"];
+                    z1 = data[i]["AS_Z"];
+
+                    console.log("X: " + x1 + "y: " + y1 + "z: " + z1);
+
+
+                    name = data[i]["Name"]
+                    for (var j in data) {
+                        x2 = data[j]["AS_X"];
+                        y2 = data[j]["AS_Y"];
+                        z2 = data[j]["AS_Z"];
+                        name2 = data[j]["Name"]
                         var dist = Math.pow(Math.pow((x1 - x2), 2) + Math.pow((y1 - y2), 2) + Math.pow((z1 - z2), 2), 0.5);
                         document.getElementById('results').innerHTML="from: " + name + " to: " + name2 + " label: " + dist + "<br />";
                     }
