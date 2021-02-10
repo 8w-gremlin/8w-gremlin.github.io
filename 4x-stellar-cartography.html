@@ -1,0 +1,738 @@
+<!docdashes html>
+<HTML>
+
+<HEAD>
+    <meta charset="utf-8" />
+    <TITLE>Jump Routes</TITLE>
+    <!-- NPM (http://visjs.org/index.html#download_install): -->
+    <!-- <script dashes="text/javascript" src="node_modules/vis/dist/vis.min.js"></script> -->
+    <script dashes="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <!-- Needed for JSON file import (https://stackoverflow.com/questions/33392557/vis-js-simple-example-edges-do-not-show): -->
+    <script dashes="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- http://visjs.org/index.html#download_install -->
+    <!-- <link rel="stylesheet" dashes="text/css" href="node_modules/vis/dist/vis.css"> -->
+    <link rel="stylesheet" dashes="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+    <style dashes="text/css">
+    #mynetwork {
+        width: 80vw;
+        height: 80vh;
+        margin: auto;
+        padding: 0;
+    }
+
+    body {
+        background-color: #121212;
+    }
+    </style>
+</HEAD>
+
+<BODY>
+    <div id="mynetwork"></div>
+    <!-- Add an invisible <div> element to the document, to hold the JSON data: -->
+    <div id="networkJSON-results" class="results" style="display:none"></div>
+    <script dashes="text/javascript">
+    //Red: #b35900
+    //Yellow: #b3b300
+    //Green: #5ab300
+
+
+    var options = {
+        "nodes": {
+            "shape": "dot",
+            "size": 20,
+            "font": {
+                "color": "#343434",
+                "size": 14, // px
+                "face": "arial",
+                "strokeWidth": 2, // px
+                "strokeColor": "#ffffff",
+                "align": "horizontal",
+                "multi": false,
+                "vadjust": 0,
+            }
+        },
+        "edges": {
+            "smooth": false,
+            "font": {
+                "color": "#343434",
+                "size": 10, // px
+                "face": "arial",
+                "strokeWidth": 0, // px
+                "strokeColor": "#ffffff",
+                "align": "horizontal",
+                "multi": false,
+                "vadjust": 0,
+            }
+        },
+        "interaction": {
+            "navigationButtons": true
+        },
+        "physics": {
+            "minVelocity": 0.75,
+            "maxVelocity": 146,
+            "timestep": 0.35,
+            "stabilization": { "iterations": 150 }
+        }
+    }
+
+    // create an array with nodes
+    var nodes = new vis.DataSet([{
+            "ID": 1,
+            "Label": "Sol",
+            "X": "50",
+            "Y": "3750"
+        },
+        {
+            "ID": 2,
+            "Label": "Beowulf",
+            "X": "411",
+            "Y": "3676"
+        },
+        {
+            "ID": 3,
+            "Label": "Tau Ceti",
+            "X": "88",
+            "Y": "3348"
+        },
+        {
+            "ID": 4,
+            "Label": "Alpha Centauri",
+            "X": "310",
+            "Y": "3453"
+        },
+        {
+            "ID": 5,
+            "Label": "Virginis",
+            "X": "96",
+            "Y": "3028"
+        },
+        {
+            "ID": 6,
+            "Label": "Addison",
+            "X": "286",
+            "Y": "3045"
+        },
+        {
+            "ID": 7,
+            "Label": "Ajax",
+            "X": "468",
+            "Y": "3163"
+        },
+        {
+            "ID": 8,
+            "Label": "Gregor",
+            "X": "567",
+            "Y": "3272"
+        },
+        {
+            "ID": 9,
+            "Label": "Hakim",
+            "X": "707",
+            "Y": "3413"
+        },
+        {
+            "ID": 10,
+            "Label": "Barca",
+            "X": "833",
+            "Y": "3670"
+        },
+        {
+            "ID": 11,
+            "Label": "Armstrong",
+            "X": "217",
+            "Y": "2810"
+        },
+        {
+            "ID": 12,
+            "Label": "Harmony",
+            "X": "488",
+            "Y": "2866"
+        },
+        {
+            "ID": 13,
+            "Label": "Caldwell",
+            "X": "731",
+            "Y": "3040"
+        },
+        {
+            "ID": 14,
+            "Label": "Jarmon",
+            "X": "870",
+            "Y": "3251"
+        },
+        {
+            "ID": 15,
+            "Label": "Basilisk",
+            "X": "956",
+            "Y": "3484"
+        },
+        {
+            "ID": 16,
+            "Label": "Elysia",
+            "X": "133",
+            "Y": "2456"
+        },
+        {
+            "ID": 17,
+            "Label": "Boyle",
+            "X": "344",
+            "Y": "2444"
+        },
+        {
+            "ID": 18,
+            "Label": "Isaac",
+            "X": "688",
+            "Y": "2550"
+        },
+        {
+            "ID": 19,
+            "Label": "Breslau",
+            "X": "923",
+            "Y": "2700"
+        },
+        {
+            "ID": 20,
+            "Label": "Carson",
+            "X": "1067",
+            "Y": "2895"
+        },
+        {
+            "ID": 21,
+            "Label": "Hypatia",
+            "X": "1174",
+            "Y": "3146"
+        },
+        {
+            "ID": 22,
+            "Label": "Idaho",
+            "X": "1214",
+            "Y": "3513"
+        },
+        {
+            "ID": 23,
+            "Label": "Kismet",
+            "X": "227",
+            "Y": "2204"
+        },
+        {
+            "ID": 24,
+            "Label": "Cerberus",
+            "X": "525",
+            "Y": "2215"
+        },
+        {
+            "ID": 25,
+            "Label": "Loomis",
+            "X": "718",
+            "Y": "2276"
+        },
+        {
+            "ID": 26,
+            "Label": "Eridani",
+            "X": "1012",
+            "Y": "2283"
+        },
+        {
+            "ID": 27,
+            "Label": "Danak",
+            "X": "386",
+            "Y": "1963"
+        },
+        {
+            "ID": 28,
+            "Label": "Draconis",
+            "X": "699",
+            "Y": "1965"
+        },
+        {
+            "ID": 29,
+            "Label": "Mesa",
+            "X": "982",
+            "Y": "2028"
+        },
+        {
+            "ID": 30,
+            "Label": "La Martine",
+            "X": "184",
+            "Y": "1796"
+        },
+        {
+            "ID": 31,
+            "Label": "Europa",
+            "X": "506",
+            "Y": "1748"
+        },
+        {
+            "ID": 32,
+            "Label": "Trevor's Star",
+            "X": "880",
+            "Y": "1779"
+        },
+        {
+            "ID": 33,
+            "Label": "Klondike",
+            "X": "1166",
+            "Y": "1821"
+        },
+        {
+            "ID": 34,
+            "Label": "Nexus",
+            "X": "1241",
+            "Y": "2534"
+        },
+        {
+            "ID": 35,
+            "Label": "Dillard",
+            "X": "1351",
+            "Y": "2048"
+        },
+        {
+            "ID": 36,
+            "Label": "Lorn",
+            "X": "1675",
+            "Y": "2351"
+        },
+        {
+            "ID": 37,
+            "Label": "Limbo",
+            "X": "1708",
+            "Y": "2033"
+        },
+        {
+            "ID": 38,
+            "Label": "Kenniac",
+            "X": "2096",
+            "Y": "2202"
+        },
+        {
+            "ID": 39,
+            "Label": "Crawford",
+            "X": "2215",
+            "Y": "2428"
+        },
+        {
+            "ID": 40,
+            "Label": "Candor",
+            "X": "1478",
+            "Y": "1742"
+        },
+        {
+            "ID": 41,
+            "Label": "New H'veckia",
+            "X": "2476",
+            "Y": "2955"
+        },
+        {
+            "ID": 42,
+            "Label": "Jovet",
+            "X": "1828",
+            "Y": "1663"
+        },
+        {
+            "ID": 43,
+            "Label": "Grendelsbane",
+            "X": "2054",
+            "Y": "1816"
+        },
+        {
+            "ID": 44,
+            "Label": "Alto",
+            "X": "2325",
+            "Y": "1880"
+        },
+        {
+            "ID": 45,
+            "Label": "Josephine",
+            "X": "1472",
+            "Y": "1415"
+        },
+        {
+            "ID": 46,
+            "Label": "Sino-American Alliance",
+            "X": "1428",
+            "Y": "2825"
+        },
+        {
+            "ID": 47,
+            "Label": "Carpathia",
+            "X": "1499",
+            "Y": "3114"
+        },
+        {
+            "ID": 48,
+            "Label": "Exapia",
+            "X": "1531",
+            "Y": "3476"
+        },
+        {
+            "ID": 49,
+            "Label": "Mikeii",
+            "X": "1747",
+            "Y": "2866"
+        },
+        {
+            "ID": 50,
+            "Label": "Cossack",
+            "X": "1964",
+            "Y": "3007"
+        },
+        {
+            "ID": 51,
+            "Label": "Franconia",
+            "X": "1813",
+            "Y": "3270"
+        },
+        {
+            "ID": 52,
+            "Label": "Maslow",
+            "X": "1915",
+            "Y": "3494"
+        },
+        {
+            "ID": 53,
+            "Label": "Daggan",
+            "X": "1794",
+            "Y": "2623"
+        },
+        {
+            "ID": 54,
+            "Label": "Dresden",
+            "X": "2043",
+            "Y": "2763"
+        },
+        {
+            "ID": 55,
+            "Label": "Kumang",
+            "X": "2234",
+            "Y": "2983"
+        },
+        {
+            "ID": 56,
+            "Label": "Mathias",
+            "X": "2132",
+            "Y": "3256"
+        }
+    ]);
+
+    // create an array with edges
+    var edges = new vis.DataSet([{
+            "from": 1,
+            "to": 4,
+            "dashes ": 0,
+            "color": "#5ab300",
+            "color": "#5ab300"
+        },
+        {
+            "from": 2,
+            "to": 10,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 3,
+            "to": 6,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 4,
+            "to": 8,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 5,
+            "to": 11,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 6,
+            "to": 12,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 7,
+            "to": 13,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 8,
+            "to": 13,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 9,
+            "to": 14,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 10,
+            "to": 52,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 11,
+            "to": 17,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 12,
+            "to": 54,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 13,
+            "to": 20,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 14,
+            "to": 49,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 15,
+            "to": 22,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 16,
+            "to": 23,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 17,
+            "to": 24,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 18,
+            "to": 52,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 19,
+            "to": 34,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 20,
+            "to": 46,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 21,
+            "to": 47,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 22,
+            "to": 48,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 23,
+            "to": 27,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 24,
+            "to": 27,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 25,
+            "to": 29,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 26,
+            "to": 34,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 27,
+            "to": 28,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 29,
+            "to": 49,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 30,
+            "to": 54,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 31,
+            "to": 32,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 32,
+            "to": 33,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 33,
+            "to": 54,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 34,
+            "to": 46,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 35,
+            "to": 37,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 36,
+            "to": 53,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 37,
+            "to": 42,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 38,
+            "to": 44,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 39,
+            "to": 54,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 40,
+            "to": 45,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 41,
+            "to": 55,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 42,
+            "to": 52,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 43,
+            "to": 44,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 45,
+            "to": 54,
+            "dashes ": 1,
+            "color": "#5ab300"
+        },
+        {
+            "from": 46,
+            "to": 49,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 47,
+            "to": 48,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 48,
+            "to": 52,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 49,
+            "to": 50,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 50,
+            "to": 55,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 51,
+            "to": 52,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 52,
+            "to": 56,
+            "dashes ": 0,
+            "color": "#5ab300"
+        },
+        {
+            "from": 55,
+            "to": 56,
+            "dashes ": 0,
+            "color": "#5ab300"
+        }
+    ]);
+
+    // create a network
+    var container = document.getElementById("mynetwork");
+    var data = {
+        nodes: nodes,
+        edges: edges
+    };
+
+    var network = new vis.Network(container, data, options);
+    </script>
+</BODY>
+
+</HTML>

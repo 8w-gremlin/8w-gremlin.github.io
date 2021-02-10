@@ -1,126 +1,527 @@
 <!doctype html>
 <HTML>
+
 <HEAD>
-  <meta charset="utf-8" />
-  <TITLE>Jump Routes</TITLE>
-
-  <!-- NPM (http://visjs.org/index.html#download_install): -->
-  <!-- <script type="text/javascript" src="node_modules/vis/dist/vis.min.js"></script> -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
-
-  <!-- Needed for JSON file import (https://stackoverflow.com/questions/33392557/vis-js-simple-example-edges-do-not-show): -->
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-
-  <!-- http://visjs.org/index.html#download_install -->
-  <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
-
-  <style type="text/css">
+    <meta charset="utf-8" />
+    <TITLE>Jump Routes</TITLE>
+    <!-- NPM (http://visjs.org/index.html#download_install): -->
+    <!-- <script type="text/javascript" src="node_modules/vis/dist/vis.min.js"></script> -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <!-- Needed for JSON file import (https://stackoverflow.com/questions/33392557/vis-js-simple-example-edges-do-not-show): -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- http://visjs.org/index.html#download_install -->
+    <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+    <style type="text/css">
     #mynetwork {
         width: 80vw;
         height: 80vh;
         margin: auto;
         padding: 0;
     }
+
     body {
-      background-color: #121212;
+        background-color: #121212;
     }
-
-
-
     </style>
 </HEAD>
 
 <BODY>
-
-<div id="mynetwork"></div>
-
-<!-- Add an invisible <div> element to the document, to hold the JSON data: -->
-<div id="networkJSON-results" class="results" style="display:none"></div>
-
-<script type="text/javascript">
-  //Red: #b35900
-  //Yellow: #b3b300
-  //Green: #5ab300
+    <div id="mynetwork"></div>
+    <!-- Add an invisible <div> element to the document, to hold the JSON data: -->
+    <div id="networkJSON-results" class="results" style="display:none"></div>
+    <script type="text/javascript">
+    //Red: #b35900
+    //Yellow: #b3b300
+    //Green: #5ab300
 
 
-var options = {
-    "nodes": {
-        "shape": "dot",
-        "size": 20,
-        "font": {
-          "color": "#343434",
-          "size": 14, // px
-          "face": "arial",
-          "strokeWidth": 2, // px
-          "strokeColor": "#ffffff",
-          "align": "horizontal",
-          "multi": false,
-          "vadjust": 0,
+    var options = {
+        "nodes": {
+            "shape": "dot",
+            "size": 20,
+            "font": {
+                "color": "#343434",
+                "size": 14, // px
+                "face": "arial",
+                "strokeWidth": 2, // px
+                "strokeColor": "#ffffff",
+                "align": "horizontal",
+                "multi": false,
+                "vadjust": 0,
+            }
+        },
+        "edges": {
+            "smooth": false,
+            "length": 300,
+            "font": {
+                "color": "#343434",
+                "size": 10, // px
+                "face": "arial",
+                "strokeWidth": 0, // px
+                "strokeColor": "#ffffff",
+                "align": "horizontal",
+                "multi": false,
+                "vadjust": 0,
+            }
+        },
+        "interaction": {
+            "navigationButtons": true
+        },
+        "physics": {
+            "minVelocity": 0.75,
+            "maxVelocity": 146,
+            "timestep": 0.35,
+            "stabilization": { "iterations": 150 }
         }
-    },
-    "edges": {
-        "smooth": false,
-        "font": {
-          "color": "#343434",
-          "size": 10, // px
-          "face": "arial",
-          "strokeWidth": 0, // px
-          "strokeColor": "#ffffff",
-          "align": "horizontal",
-          "multi": false,
-          "vadjust": 0,
-        }
-    },
-    "interaction": {
-      "navigationButtons": true
-    },
-    "physics": {
-      "minVelocity": 0.75,
-      "maxVelocity": 146,
-      "timestep": 0.35,
-      "stabilization": { "iterations": 150 }
     }
-}
 
-// create an array with nodes
-var nodes = new vis.DataSet([
-  { "id": "Alpha Centauri A", "X": -1.7, "Y": -1.4, "Z": -3.9, "Sequence": "G2 V", "color": "#ffd966", "label": "Alpha Centauri A"},
-{ "id": "Alpha Centauri B", "X": -1.7, "Y": -1.4, "Z": -3.9, "Sequence": "K0 V", "color": "#ff9900", "label": "Alpha Centauri B"},
-{ "id": "Barnard's Star A", "X": -0.2, "Y": -5.9, "Z": 0.4, "Sequence": "M5 V", "color": "#cc0000", "label": "Barnard's Star A"},
-{ "id": "Bessieres A", "X": -6.5, "Y": 1.7, "Z": 4.8, "Sequence": "M2 V", "color": "#cc0000", "label": "Bessieres A & B"},
-{ "id": "Sirius A", "X": -1.6, "Y": 8.1, "Z": -2.5, "Sequence": "A1 V", "color": "#cfe2f3", "label": "Sirius A & B"},
-{ "id": "Nyotekundu A", "X": -7.3, "Y": 2.1, "Z": 0.9, "Sequence": "M8 V", "color": "#cc0000", "label": "Nyotekundu A"},
-{ "id": "Qinyuan A", "X": 7.6, "Y": 3.4, "Z": -2.8, "Sequence": "M5 V", "color": "#cc0000", "label": "Qinyuan A"},
-{ "id": "Sol A", "X": 0, "Y": 0, "Z": 0, "Sequence": "G2 V", "color": "#ffd966", "label": "Sol A", "shape": "star"},
-{ "id": "UV Ceti B", "X": 7.6, "Y": 3.4, "Z": -2.8, "Sequence": "M5 V", "color": "#cc0000", "label": "UV Ceti B"}
-]);
+    // create an array with nodes
+    var nodes = new vis.DataSet([{
+            id: 1,
+            label: "Sol",
+            X: 50,
+            Y: 3750,
+            shape: "star",
+            color: "#b35900"
+        },
+        {
+            id: 2,
+            label: "Beowulf",
+            X: 411,
+            Y: 3676
+        },
+        {
+            id: 3,
+            label: "Tau Ceti",
+            X: 88,
+            Y: 3348
+        },
+        {
+            id: 4,
+            label: "Alpha Centauri",
+            X: 310,
+            Y: 3453
+        },
+        {
+            id: 5,
+            label: "Virginis",
+            X: 96,
+            Y: 3028
+        },
+        {
+            id: 6,
+            label: "Addison",
+            X: 286,
+            Y: 3045
+        },
+        {
+            id: 7,
+            label: "Ajax",
+            X: 468,
+            Y: 3163
+        },
+        {
+            id: 8,
+            label: "Gregor",
+            X: 567,
+            Y: 3272
+        },
+        {
+            id: 9,
+            label: "Hakim",
+            X: 707,
+            Y: 3413
+        },
+        {
+            id: 10,
+            label: "Barca",
+            X: 833,
+            Y: 3670
+        },
+        {
+            id: 11,
+            label: "Armstrong",
+            X: 217,
+            Y: 2810
+        },
+        {
+            id: 12,
+            label: "Harmony",
+            X: 488,
+            Y: 2866
+        },
+        {
+            id: 13,
+            label: "Caldwell",
+            X: 731,
+            Y: 3040
+        },
+        {
+            id: 14,
+            label: "Jarmon",
+            X: 870,
+            Y: 3251
+        },
+        {
+            id: 15,
+            label: "Basilisk",
+            X: 956,
+            Y: 3484
+        },
+        {
+            id: 16,
+            label: "Elysia",
+            X: 133,
+            Y: 2456
+        },
+        {
+            id: 17,
+            label: "Boyle",
+            X: 344,
+            Y: 2444
+        },
+        {
+            id: 18,
+            label: "Isaac",
+            X: 688,
+            Y: 2550
+        },
+        {
+            id: 19,
+            label: "Breslau",
+            X: 923,
+            Y: 2700
+        },
+        {
+            id: 20,
+            label: "Carson",
+            X: 1067,
+            Y: 2895
+        },
+        {
+            id: 21,
+            label: "Hypatia",
+            X: 1174,
+            Y: 3146
+        },
+        {
+            id: 22,
+            label: "idaho",
+            X: 1214,
+            Y: 3513
+        },
+        {
+            id: 23,
+            label: "Kismet",
+            X: 227,
+            Y: 2204
+        },
+        {
+            id: 24,
+            label: "Cerberus",
+            X: 525,
+            Y: 2215
+        },
+        {
+            id: 25,
+            label: "Loomis",
+            X: 718,
+            Y: 2276
+        },
+        {
+            id: 26,
+            label: "Eridani",
+            X: 1012,
+            Y: 2283
+        },
+        {
+            id: 27,
+            label: "Danak",
+            X: 386,
+            Y: 1963
+        },
+        {
+            id: 28,
+            label: "Draconis",
+            X: 699,
+            Y: 1965
+        },
+        {
+            id: 29,
+            label: "Mesa",
+            X: 982,
+            Y: 2028
+        },
+        {
+            id: 30,
+            label: "La Martine",
+            X: 184,
+            Y: 1796
+        },
+        {
+            id: 31,
+            label: "Europa",
+            X: 506,
+            Y: 1748
+        },
+        {
+            id: 32,
+            label: "Trevor's Star",
+            X: 880,
+            Y: 1779
+        },
+        {
+            id: 33,
+            label: "Klondike",
+            X: 1166,
+            Y: 1821
+        },
+        {
+            id: 34,
+            label: "Nexus",
+            X: 1241,
+            Y: 2534
+        },
+        {
+            id: 35,
+            label: "Dillard",
+            X: 1351,
+            Y: 2048
+        },
+        {
+            id: 36,
+            label: "Lorn",
+            X: 1675,
+            Y: 2351
+        },
+        {
+            id: 37,
+            label: "Limbo",
+            X: 1708,
+            Y: 2033
+        },
+        {
+            id: 38,
+            label: "Kenniac",
+            X: 2096,
+            Y: 2202
+        },
+        {
+            id: 39,
+            label: "Crawford",
+            X: 2215,
+            Y: 2428
+        },
+        {
+            id: 40,
+            label: "Candor",
+            X: 1478,
+            Y: 1742
+        },
+        {
+            id: 41,
+            label: "New H'veckia",
+            X: 2476,
+            Y: 2955
+        },
+        {
+            id: 42,
+            label: "Jovet",
+            X: 1828,
+            Y: 1663
+        },
+        {
+            id: 43,
+            label: "Grendelsbane",
+            X: 2054,
+            Y: 1816
+        },
+        {
+            id: 44,
+            label: "Alto",
+            X: 2325,
+            Y: 1880
+        },
+        {
+            id: 45,
+            label: "Josephine",
+            X: 1472,
+            Y: 1415
+        },
+        {
+            id: 46,
+            label: "Sino-American Alliance",
+            X: 1428,
+            Y: 2825
+        },
+        {
+            id: 47,
+            label: "Carpathia",
+            X: 1499,
+            Y: 3114
+        },
+        {
+            id: 48,
+            label: "Exapia",
+            X: 1531,
+            Y: 3476
+        },
+        {
+            id: 49,
+            label: "Mikeii",
+            X: 1747,
+            Y: 2866
+        },
+        {
+            id: 50,
+            label: "Cossack",
+            X: 1964,
+            Y: 3007
+        },
+        {
+            id: 51,
+            label: "Franconia",
+            X: 1813,
+            Y: 3270
+        },
+        {
+            id: 52,
+            label: "Maslow",
+            X: 1915,
+            Y: 3494
+        },
+        {
+            id: 53,
+            label: "Daggan",
+            X: 1794,
+            Y: 2623
+        },
+        {
+            id: 54,
+            label: "Dresden",
+            X: 2043,
+            Y: 2763
+        },
+        {
+            id: 55,
+            label: "Kumang",
+            X: 2234,
+            Y: 2983
+        },
+        {
+            id: 56,
+            label: "Mathias",
+            X: 2132,
+            Y: 3256
+        }
+    ]);
 
-// create an array with edges
-var edges = new vis.DataSet([
-  {"from": "Sol A", "to": "Alpha Centauri A", "label": "4.48", "length": "224.", "color": "#5ab300"},
-{"from": "Sol A", "to": "Alpha Centauri B", "label": "4.48", "length": "224.", "color": "#5ab300"},
-{"from": "Sol A", "to": "Barnard's Star A", "label": "6.4", "length": "320", "color": "#5ab300"},
-{"from": "Sol A", "to": "Bessieres A", "label": "8.26", "length": "413", "color": "#b3b300", "dashes": true},
-{"from": "Sol A", "to": "Sirius A", "label": "8.63", "length": "431.5", "color": "#b3b300", "dashes": true},
-{"from": "Sol A", "to": "Nyotekundu A", "label": "7.65", "length": "382.5", "color": "#5ab300"},
-{"from": "Sol A", "to": "Qinyuan A", "label": "8.78", "length": "439.", "color": "#b3b300", "dashes": true},
-{"from": "Sol A", "to": "UV Ceti B", "label": "8.78", "length": "439.", "color": "#b3b300", "dashes": true},
-{"from": "Nyotekundu A", "to": "Alpha Centauri A", "label": "8.16", "length": "408", "color": "#b3b300", "dashes": true},
-{"from": "Nyotekundu A", "to": "Bessieres A", "label": "4", "length": "200", "color": "#5ab300"}
-]);
+    // create an array with edges
+    var edges = new vis.DataSet([{from: 1, to: 2},
+{from: 1, to: 3},
+{from: 1, to: 4},
+{from: 2, to: 4},
+{from: 2, to: 9},
+{from: 2, to: 10},
+{from: 3, to: 5},
+{from: 3, to: 6},
+{from: 4, to: 7},
+{from: 4, to: 8},
+{from: 5, to: 11},
+{from: 6, to: 12},
+{from: 7, to: 13},
+{from: 8, to: 13},
+{from: 9, to: 14},
+{from: 10, to: 15},
+{from: 10, to: 52, dashes: true, color: "#b35900"},
+{from: 11, to: 12},
+{from: 11, to: 16},
+{from: 11, to: 17},
+{from: 12, to: 13},
+{from: 12, to: 17},
+{from: 12, to: 18},
+{from: 12, to: 54, dashes: true, color: "#b35900"},
+{from: 13, to: 14},
+{from: 13, to: 19},
+{from: 13, to: 20},
+{from: 14, to: 15},
+{from: 14, to: 20},
+{from: 14, to: 21},
+{from: 14, to: 49, dashed: true,
+color: "#b35900"},
+{from: 15, to: 22},
+{from: 16, to: 23},
+{from: 17, to: 24},
+{from: 18, to: 25},
+{from: 18, to: 52, dashed: true,
+color: "#b35900"},
+{from: 19, to: 26},
+{from: 19, to: 34},
+{from: 20, to: 34},
+{from: 20, to: 46},
+{from: 21, to: 47},
+{from: 22, to: 48},
+{from: 23, to: 27},
+{from: 24, to: 27},
+{from: 25, to: 26},
+{from: 25, to: 28},
+{from: 25, to: 29},
+{from: 26, to: 29},
+{from: 26, to: 34},
+{from: 27, to: 28},
+{from: 27, to: 30},
+{from: 27, to: 31},
+{from: 27, to: 28},
+{from: 29, to: 33},
+{from: 29, to: 49, dashes: true, color: "#b35900"},
+{from: 30, to: 31},
+{from: 30, to: 54, dashes: true, color: "#b35900"},
+{from: 31, to: 32},
+{from: 32, to: 33},
+{from: 33, to: 40},
+{from: 33, to: 54, dashes: true, color: "#b35900"},
+{from: 34, to: 35},
+{from: 34, to: 36},
+{from: 34, to: 46},
+{from: 35, to: 37},
+{from: 36, to: 37},
+{from: 36, to: 53},
+{from: 37, to: 38},
+{from: 37, to: 42},
+{from: 38, to: 39},
+{from: 38, to: 44},
+{from: 39, to: 54},
+{from: 40, to: 42},
+{from: 40, to: 45},
+{from: 41, to: 55},
+{from: 42, to: 43},
+{from: 42, to: 52, dashes: true, color: "#b35900"},
+{from: 43, to: 44},
+{from: 45, to: 54, dashes: true, color: "#b35900"},
+{from: 46, to: 47},
+{from: 46, to: 49},
+{from: 47, to: 48},
+{from: 48, to: 52},
+{from: 49, to: 53},
+{from: 49, to: 50},
+{from: 50, to: 51},
+{from: 50, to: 54},
+{from: 50, to: 55},
+{from: 51, to: 52},
+{from: 52, to: 56},
+{from: 55, to: 56}
+    ]);
 
-// create a network
-var container = document.getElementById("mynetwork");
-var data = {
-  nodes: nodes,
-  edges: edges
-};
+    // create a network
+    var container = document.getElementById("mynetwork");
+    var data = {
+        nodes: nodes,
+        edges: edges
+    };
 
-var network = new vis.Network(container, data, options);
-
-
-</script>
-
+    var network = new vis.Network(container, data, options);
+    </script>
 </BODY>
+
 </HTML>
